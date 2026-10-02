@@ -1,7 +1,7 @@
 # AttendEase
 
-> A live attendance management system designed to simplify attendance collection,
-> validation, and reporting for students and faculty.
+> **A live attendance management system designed to simplify attendance collection,
+> validation, and reporting for students and faculty.**
 
 ## Overview
 
