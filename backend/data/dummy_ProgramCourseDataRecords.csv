@@ -1,0 +1,13 @@
+programName,semester,courseName,courseType,batchesNeeded
+Bachelor of Science Data Science,1,Probability Theory,Theory,1
+Bachelor of Science Data Science,1,Probability Theory,Tutorial,1
+Bachelor of Science Data Science,1,Web Programming,Theory,1
+Bachelor of Science Data Science,1,Web Programming,Practical,2
+Bachelor of Science Data Science,3,Database concepts,Theory,2
+Bachelor of Science Data Science,3,Database concepts,Practical,3
+Bachelor of Science Data Science,3,Digital Logic Electronics,Theory,2
+Bachelor of Science Data Science,3,Digital Logic Electronics,Theory,4
+Bachelor of Science Data Science,5,Oracle PL/SQL,Theory,1
+Bachelor of Science Data Science,5,Oracle PL/SQL,Practical,2
+Bachelor of Science Data Science,5,Information Security,Theory,1
+Bachelor of Science Data Science,5,Information Security,Practical,2
