@@ -85,9 +85,3 @@ The project provided hands-on experience with:
 - Location-based validation
 - User and role management
 - Handling data for a multi-user, multi-class environment
-
-## Project Structure
-
-```text
-AttendEase/
-├── ...
