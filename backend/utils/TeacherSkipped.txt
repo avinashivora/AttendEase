@@ -1,0 +1,12 @@
+Skipping existing teacher: Dr. Aarti Santosh Nayak, Email: mp06121@gmail.com
+Skipping existing teacher: Mr. Algonda  Desai, Email: mihir.p@somaiya.edu
+Skipping existing teacher: Dr. Aarti Santosh Nayak, Email: avinashi.v@somaiya.edu
+Skipping existing teacher: Mr. Algonda  Desai, Email: mihir.p@somaiya.edu
+Skipping existing teacher: Mr. Ameya Sunildatta Bal, Email: dhanesh.n@somaiya.edu
+Skipping existing teacher: Mr. Amit Kisanbhai Jethwa, Email: mrunmayee.o@somaiya.edu
+Skipping existing teacher: Dr. Anant Dattatraya Kulkarni, Email: moksh.aj@somaiya.edu
+Skipping existing teacher: Dr. Aarti Santosh Nayak, Email: avinashi.v@somaiya.edu
+Skipping existing teacher: Mr. Algonda  Desai, Email: mihir.p@somaiya.edu
+Skipping existing teacher: Mr. Ameya Sunildatta Bal, Email: dhanesh.n@somaiya.edu
+Skipping existing teacher: Mr. Amit Kisanbhai Jethwa, Email: mrunmayee.o@somaiya.edu
+Skipping existing teacher: Dr. Anant Dattatraya Kulkarni, Email: moksh.aj@somaiya.edu

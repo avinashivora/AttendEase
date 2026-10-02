@@ -1,0 +1,907 @@
+[
+  {
+    "email": "avradhakrishnan@somaiya.edu",
+    "firstName": "A",
+    "middleName": "V",
+    "lastName": "Radhakrishnan",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subject": "Financial Accounting I",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce Accounting & Finance",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subject": "Cost Accounting I",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce Accounting & Finance",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subject": "Cost Accounting I",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce Accounting & Finance",
+        "batch": 2
+      },
+      {
+        "semester": 1,
+        "subject": "Corporate Finance I",
+        "subjectType": "Practical",
+        "course": "Bachelor of Commerce Accounting & Finance",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "aarti.nayak@somaiya.edu",
+    "firstName": "Aarti",
+    "middleName": "Santosh",
+    "lastName": "Nayak",
+    "selectQuery": [
+      {
+        "semester": 2,
+        "subject": "Financial Accounting II",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce Accounting & Finance",
+        "batch": 1
+      },
+      {
+        "semester": 2,
+        "subject": "Business Law",
+        "subjectType": "Practical",
+        "course": "Bachelor of Commerce Accounting & Finance",
+        "batch": 1
+      },
+      {
+        "semester": 2,
+        "subject": "Business Law",
+        "subjectType": "Practical",
+        "course": "Bachelor of Commerce Accounting & Finance",
+        "batch": 2
+      },
+      {
+        "semester": 2,
+        "subject": "Corporate Finance II",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce Accounting & Finance",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "ameya.bal@somaiya.edu",
+    "firstName": "Ameya",
+    "middleName": "Sunildatta",
+    "lastName": "Bal",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subject": "Goods & Services Marketing",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subject": "Corporate Accounting",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subject": "Corporate Accounting",
+        "subjectType": "Practical",
+        "course": "Bachelor of Business Administration",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subject": "Corporate Accounting",
+        "subjectType": "Practical",
+        "course": "Bachelor of Business Administration",
+        "batch": 2
+      },
+      {
+        "semester": 1,
+        "subject": "Human Resource Management",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "naik.a@somaiya.edu",
+    "firstName": "Amit",
+    "middleName": "Atmaram",
+    "lastName": "Naik",
+    "selectQuery": [
+      {
+        "semester": 2,
+        "subject": "Rural Marketing",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 1
+      },
+      {
+        "semester": 2,
+        "subject": "Retail Marketing",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 1
+      },
+      {
+        "semester": 2,
+        "subject": "Retail Marketing",
+        "subjectType": "Practical",
+        "course": "Bachelor of Business Administration",
+        "batch": 1
+      },
+      {
+        "semester": 2,
+        "subject": "Retail Marketing",
+        "subjectType": "Practical",
+        "course": "Bachelor of Business Administration",
+        "batch": 2
+      },
+      {
+        "semester": 2,
+        "subject": "Cost Accounting",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "bharati.m@somaiya.edu",
+    "firstName": "Bharati",
+    "middleName": "Sunil",
+    "lastName": "Makhijani",
+    "selectQuery": [
+      {
+        "semester": 5,
+        "subject": "Artificial Intelligence",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science Computer Science (Honours)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subject": "Artificial Intelligence",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science Computer Science (Honours)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subject": "Data Mining and adaptive Business Intelligence",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science Computer Science (Honours)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subject": "Data Mining and adaptive Business Intelligence",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science Computer Science (Honours)",
+        "batch": 2
+      },
+      {
+        "semester": 5,
+        "subject": "Data Mining and adaptive Business Intelligence",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science Computer Science (Honours)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subject": "Data Visualization and Analysis in Python",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science Computer Science (Honours)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "biji@somaiya.edu ",
+    "firstName": "Biji",
+    "middleName": "Balakrishnan",
+    "lastName": "",
+    "selectQuery": [
+      {
+        "semester": 6,
+        "subject": "Cloud Computing",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science Computer Science (Honours)",
+        "batch": 1
+      },
+      {
+        "semester": 6,
+        "subject": "Ethical Hacking",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science Computer Science (Honours)",
+        "batch": 1
+      },
+      {
+        "semester": 6,
+        "subject": "Ethical Hacking",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science Computer Science (Honours)",
+        "batch": 1
+      },
+      {
+        "semester": 6,
+        "subject": "Ethical Hacking",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science Computer Science (Honours)",
+        "batch": 2
+      },
+      {
+        "semester": 6,
+        "subject": "Data Science",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science Computer Science (Honours)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "daly@somaiya.edu",
+    "firstName": "Daly",
+    "middleName": "",
+    "lastName": "Davis",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subject": "Single Variable Calculus",
+        "subjectType": "Theory",
+        "course": "Integrated Bachelor of Science-Master of Science",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subject": "Foundations of Classical Physics",
+        "subjectType": "Practical",
+        "course": "Integrated Bachelor of Science-Master of Science",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subject": "Foundations of Classical Physics",
+        "subjectType": "Theory",
+        "course": "Integrated Bachelor of Science-Master of Science",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subject": "Foundations of Classical Physics",
+        "subjectType": "Practical",
+        "course": "Integrated Bachelor of Science-Master of Science",
+        "batch": 2
+      },
+      {
+        "semester": 1,
+        "subject": "Physics Laboratory-I",
+        "subjectType": "Theory",
+        "course": "Integrated Bachelor of Science-Master of Science",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "deepti01@somaiya.edu",
+    "firstName": "Deepti",
+    "middleName": "",
+    "lastName": "Gupta",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subject": "Fundamentals of Drug design & discovery",
+        "subjectType": "Theory",
+        "course": "Master of Science in Chemical Biology and Drug Design",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subject": "Fundamentals of Drug design & discovery",
+        "subjectType": "Practical",
+        "course": "Master of Science in Chemical Biology and Drug Design",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subject": "Fundamentals of Drug design & discovery",
+        "subjectType": "Theory",
+        "course": "Master of Science in Chemical Biology and Drug Design",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subject": "Fundamentals of Molecular Diagnostics",
+        "subjectType": "Practical",
+        "course": "Master of Science in Chemical Biology and Drug Design",
+        "batch": 2
+      }
+    ]
+  },
+  {
+    "email": "dinojkumar@somaiya.edu",
+    "firstName": "Dinoj",
+    "middleName": "Kumar",
+    "lastName": "Upadhyay",
+    "selectQuery": [
+      {
+        "semester": 3,
+        "subject": "Research Methodology & Biostatistics",
+        "subjectType": "Theory",
+        "course": "Master of Science in Chemical Biology and Drug Design",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subject": "Research Publication & Ethics",
+        "subjectType": "Theory",
+        "course": "Master of Science in Chemical Biology and Drug Design",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subject": "Research Publication & Ethics",
+        "subjectType": "Practical",
+        "course": "Master of Science in Chemical Biology and Drug Design",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subject": "Research Publication & Ethics",
+        "subjectType": "Practical",
+        "course": "Master of Science in Chemical Biology and Drug Design",
+        "batch": 2
+      }
+    ]
+  },
+  {
+    "email": "fayeza.s@somaiya.edu",
+    "firstName": "Fayeza",
+    "middleName": "Hakimuddin",
+    "lastName": "Sonkachwala",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subject": "Introduction to Microeconomics",
+        "subjectType": "Theory",
+        "course": "Bachelor of Arts in Economics",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subject": "Macroeconomics Principles",
+        "subjectType": "Theory",
+        "course": "Bachelor of Arts in Economics",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subject": "Economic Policy & Analysis",
+        "subjectType": "Theory",
+        "course": "Bachelor of Arts in Economics",
+        "batch": 2
+      },
+      {
+        "semester": 1,
+        "subject": "International Trade & Finance",
+        "subjectType": "Practical",
+        "course": "Bachelor of Arts in Economics",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "gayatri.i@somaiya.edu",
+    "firstName": "Gayatri",
+    "middleName": "",
+    "lastName": "Indrakanti",
+    "selectQuery": [
+      {
+        "semester": 2,
+        "subject": "Econometrics",
+        "subjectType": "Theory",
+        "course": "Bachelor of Arts in Economics",
+        "batch": 1
+      },
+      {
+        "semester": 2,
+        "subject": "Economic Development",
+        "subjectType": "Theory",
+        "course": "Bachelor of Arts in Economics",
+        "batch": 1
+      },
+      {
+        "semester": 2,
+        "subject": "Public Finance & Economics",
+        "subjectType": "Theory",
+        "course": "Bachelor of Arts in Economics",
+        "batch": 2
+      },
+      {
+        "semester": 2,
+        "subject": "Environmental Economics",
+        "subjectType": "Practical",
+        "course": "Bachelor of Arts in Economics",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "jacintateresa@somaiya.edu",
+    "firstName": "Jacinta",
+    "middleName": "Joseph",
+    "lastName": "George",
+    "selectQuery": [
+      {
+        "semester": 4,
+        "subject": "Advanced Econometrics",
+        "subjectType": "Theory",
+        "course": "Bachelor of Arts in Economics",
+        "batch": 1
+      },
+      {
+        "semester": 4,
+        "subject": "Behavioral Economics",
+        "subjectType": "Theory",
+        "course": "Bachelor of Arts in Economics",
+        "batch": 1
+      },
+      {
+        "semester": 4,
+        "subject": "Health Economics",
+        "subjectType": "Theory",
+        "course": "Bachelor of Arts in Economics",
+        "batch": 2
+      },
+      {
+        "semester": 4,
+        "subject": "Applied Economics",
+        "subjectType": "Practical",
+        "course": "Bachelor of Arts in Economics",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "jayesh@somaiya.edu",
+    "firstName": "Jayesh",
+    "middleName": "Maheshkumar",
+    "lastName": "Bhagat",
+    "selectQuery": [
+      {
+        "semester": 6,
+        "subject": "International Economics",
+        "subjectType": "Theory",
+        "course": "Bachelor of Arts in Economics",
+        "batch": 1
+      },
+      {
+        "semester": 6,
+        "subject": "Financial Economics",
+        "subjectType": "Theory",
+        "course": "Bachelor of Arts in Economics",
+        "batch": 1
+      },
+      {
+        "semester": 6,
+        "subject": "Labor Economics",
+        "subjectType": "Theory",
+        "course": "Bachelor of Arts in Economics",
+        "batch": 2
+      },
+      {
+        "semester": 6,
+        "subject": "Game Theory",
+        "subjectType": "Practical",
+        "course": "Bachelor of Arts in Economics",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "jyoti.zanwar@somaiya.edu",
+    "firstName": "Jyoti",
+    "middleName": "Kalpesh",
+    "lastName": "Mantri",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subject": "Introduction to Political Science",
+        "subjectType": "Theory",
+        "course": "Bachelor of Arts in Political Science",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subject": "Comparative Politics",
+        "subjectType": "Theory",
+        "course": "Bachelor of Arts in Political Science",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subject": "International Relations",
+        "subjectType": "Theory",
+        "course": "Bachelor of Arts in Political Science",
+        "batch": 2
+      },
+      {
+        "semester": 1,
+        "subject": "Political Theory",
+        "subjectType": "Practical",
+        "course": "Bachelor of Arts in Political Science",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "kruttika.b@somaiya.edu",
+    "firstName": "Kruttika",
+    "middleName": "Sameer",
+    "lastName": "Bhosale",
+    "selectQuery": [
+      {
+        "semester": 2,
+        "subject": "Public Administration",
+        "subjectType": "Theory",
+        "course": "Bachelor of Arts in Political Science",
+        "batch": 1
+      },
+      {
+        "semester": 2,
+        "subject": "Political Economy",
+        "subjectType": "Theory",
+        "course": "Bachelor of Arts in Political Science",
+        "batch": 1
+      },
+      {
+        "semester": 2,
+        "subject": "Policy Analysis",
+        "subjectType": "Theory",
+        "course": "Bachelor of Arts in Political Science",
+        "batch": 2
+      },
+      {
+        "semester": 2,
+        "subject": "Global Governance",
+        "subjectType": "Practical",
+        "course": "Bachelor of Arts in Political Science",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "monika.j@somaiya.edu",
+    "firstName": "Monika",
+    "middleName": "Nikesh",
+    "lastName": "Kumar",
+    "selectQuery": [
+      {
+        "semester": 3,
+        "subject": "Political Sociology",
+        "subjectType": "Theory",
+        "course": "Bachelor of Arts in Political Science",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subject": "Public Policy & Administration",
+        "subjectType": "Theory",
+        "course": "Bachelor of Arts in Political Science",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subject": "Conflict Resolution",
+        "subjectType": "Theory",
+        "course": "Bachelor of Arts in Political Science",
+        "batch": 2
+      },
+      {
+        "semester": 3,
+        "subject": "Ethics in Governance",
+        "subjectType": "Practical",
+        "course": "Bachelor of Arts in Political Science",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "muskkan@somaiya.edu",
+    "firstName": "Muskkan",
+    "middleName": "Brijesh",
+    "lastName": "Kukreja",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subject": "Introduction to Sociology",
+        "subjectType": "Theory",
+        "course": "Bachelor of Arts in Sociology",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subject": "Social Theory",
+        "subjectType": "Theory",
+        "course": "Bachelor of Arts in Sociology",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subject": "Research Methods in Sociology",
+        "subjectType": "Theory",
+        "course": "Bachelor of Arts in Sociology",
+        "batch": 2
+      },
+      {
+        "semester": 1,
+        "subject": "Cultural Sociology",
+        "subjectType": "Practical",
+        "course": "Bachelor of Arts in Sociology",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "t.bowlekar@somaiya.edu",
+    "firstName": "Tejal",
+    "middleName": "Namdeo",
+    "lastName": "Bowlekar",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subject": "Goods & Services Marketing",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subject": "Corporate Accounting",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subject": "Corporate Accounting",
+        "subjectType": "Practical",
+        "course": "Bachelor of Business Administration",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subject": "Corporate Accounting",
+        "subjectType": "Practical",
+        "course": "Bachelor of Business Administration",
+        "batch": 2
+      },
+      {
+        "semester": 1,
+        "subject": "Human Resource Management",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "anushree.s@somaiya.edu",
+    "firstName": "Sukhi",
+    "middleName": "Anushree",
+    "lastName": "Ashok",
+    "selectQuery": [
+      {
+        "semester": 2,
+        "subject": "Rural Marketing",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 1
+      },
+      {
+        "semester": 2,
+        "subject": "Retail Marketing",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 1
+      },
+      {
+        "semester": 2,
+        "subject": "Retail Marketing",
+        "subjectType": "Practical",
+        "course": "Bachelor of Business Administration",
+        "batch": 1
+      },
+      {
+        "semester": 2,
+        "subject": "Retail Marketing",
+        "subjectType": "Practical",
+        "course": "Bachelor of Business Administration",
+        "batch": 2
+      },
+      {
+        "semester": 2,
+        "subject": "Cost Accounting",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "mousmi@somaiya.edu",
+    "firstName": "Pawar",
+    "middleName": "Mousmi",
+    "lastName": "Vijay",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subject": "Financial Accounting I",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce Accounting & Finance",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subject": "Cost Accounting I",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce Accounting & Finance",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subject": "Cost Accounting I",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce Accounting & Finance",
+        "batch": 2
+      },
+      {
+        "semester": 1,
+        "subject": "Corporate Finance I",
+        "subjectType": "Practical",
+        "course": "Bachelor of Commerce Accounting & Finance",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "rakhee@somaiya.edu",
+    "firstName": "Yadav",
+    "middleName": "Rakhee",
+    "lastName": "Ramchandra",
+    "selectQuery": [
+      {
+        "semester": 2,
+        "subject": "Financial Accounting II",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce Accounting & Finance",
+        "batch": 1
+      },
+      {
+        "semester": 2,
+        "subject": "Business Law",
+        "subjectType": "Practical",
+        "course": "Bachelor of Commerce Accounting & Finance",
+        "batch": 1
+      },
+      {
+        "semester": 2,
+        "subject": "Business Law",
+        "subjectType": "Practical",
+        "course": "Bachelor of Commerce Accounting & Finance",
+        "batch": 2
+      },
+      {
+        "semester": 2,
+        "subject": "Corporate Finance II",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce Accounting & Finance",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "hemalatha@somaiya.edu",
+    "firstName": "Latha",
+    "middleName": "G.B",
+    "lastName": "Hema",
+    "selectQuery": [
+      {
+        "semester": 5,
+        "subject": "Artificial Intelligence",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science Computer Science (Honours)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subject": "Artificial Intelligence",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science Computer Science (Honours)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subject": "Data Mining and adaptive Business Intelligence",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science Computer Science (Honours)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subject": "Data Mining and adaptive Business Intelligence",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science Computer Science (Honours)",
+        "batch": 2
+      },
+      {
+        "semester": 5,
+        "subject": "Data Mining and adaptive Business Intelligence",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science Computer Science (Honours)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subject": "Data Visualization and Analysis in Python",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science Computer Science (Honours)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "mohammadbilal@somaiya.edu",
+    "firstName": "Farooque",
+    "middleName": "Mohammad",
+    "lastName": "Bilal",
+    "selectQuery": [
+      {
+        "semester": 6,
+        "subject": "Cloud Computing",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science Computer Science (Honours)",
+        "batch": 1
+      },
+      {
+        "semester": 6,
+        "subject": "Ethical Hacking",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science Computer Science (Honours)",
+        "batch": 1
+      },
+      {
+        "semester": 6,
+        "subject": "Ethical Hacking",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science Computer Science (Honours)",
+        "batch": 1
+      },
+      {
+        "semester": 6,
+        "subject": "Ethical Hacking",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science Computer Science (Honours)",
+        "batch": 2
+      },
+      {
+        "semester": 6,
+        "subject": "Data Science",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science Computer Science (Honours)",
+        "batch": 1
+      }
+    ]
+  }
+]

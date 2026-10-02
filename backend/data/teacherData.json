@@ -1,0 +1,39 @@
+[
+      {
+        "name": "Sunita Yadav",
+        "email": "sunita.ay@somaiya.edu",
+        "courses": ["Bachelor of Science (Computer Science)", "Bachelor of Science (Computer Science)", "Bachelor of Science (Computer Science)", "Bachelor of Science (Computer Science)", "Bachelor of Science (Computer Science)", "Bachelor of Science (Computer Science)"],
+        "semester": [4, 4, 4, 2, 2, 2],
+        "subjects": [".Net Technologies", ".Net Technologies", ".Net Technologies", "Python", "Python", "Python"],
+        "subjectType": ["Theory", "Practical", "Practical", "Theory", "Practical", "Practical"],
+        "batch": [1, 1, 2, 1, 1, 2]
+      },
+      {
+        "name": "Shri sir",
+        "email": "shriniwas@somaiya.edu",
+        "courses": ["Bachelor of Science (Computer Science)", "Bachelor of Science (Computer Science)", "Bachelor of Science (Computer Science)", "Bachelor of Science (Computer Science)", "Bachelor of Science (Computer Science)", "Bachelor of Science (Computer Science)"],
+        "semester": [2, 2, 2, 4, 4, 4],
+        "subjects": ["Computer Network", "Computer Network", "Computer Network", "Software Engineering", "Software Engineering", "Software Engineering"],
+        "subjectType": ["Theory", "Practical", "Practical", "Theory", "Practical", "Practical"],
+        "batch": [1, 1, 2, 1, 1, 2]
+      },
+      {
+        "name": "marielia maam",
+        "email": "marielia.a@somaiya.edu",
+        "courses": ["Bachelor of Science (Computer Science)", "Bachelor of Science (Computer Science)", "Bachelor of Science (Computer Science)", "Bachelor of Science (Computer Science)", "Bachelor of Science (Computer Science)", "Bachelor of Science (Computer Science)"],
+        "semester": [4, 4, 4, 6, 6, 6],
+        "subjects": ["Internet of Things", "Internet of Things", "Internet of Things", "Cloud Computing", "Cloud Computing", "Cloud Computing"],
+        "subjectType": ["Theory", "Practical", "Practical", "Theory", "Practical", "Practical"],
+        "batch": [1, 1, 2, 1, 1, 2]
+      },
+      {
+        "name": "anushree pansare",
+        "email": "anushree.pn@somaiya.edu",
+        "courses": ["Bachelor of Science (Computer Science)", "Bachelor of Science (Computer Science)", "Bachelor of Science (Computer Science)", "Bachelor of Science Information Technology", "Bachelor of Science Information Technology", "Bachelor of Science Information Technology", "Bachelor of Science Information Technology", "Bachelor of Science Information Technology"],
+        "semester": [2, 2, 2, 2, 2, 2, 2, 2],
+        "subjects": ["Database Management System", "Database Management System", "Database Management System", "Database Management System", "Database Management System", "Database Management System", "Database Management System", "Database Management System"],
+        "subjectType": ["Theory", "Practical", "Practical", "Theory","Theory", "Practical","Practical", "Practical"],
+        "batch": [1, 1, 2, 1, 2, 1, 2, 3]
+      }
+  ]
+  

@@ -1,0 +1,4170 @@
+[
+  {
+    "email": "richa.c@somaiya.edu",
+    "firstName": "Ms. Richa",
+    "middleName": "Sameer",
+    "lastName": "Chaudhary",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subjects": "Fundamentals of Mass Communication",
+        "subjectType": "Theory",
+        "course": "Bachelor of Arts (Mass Communication & Journalism)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Principles and Theories of Communication",
+        "subjectType": "Theory",
+        "course": "Master of Arts (Communication & Journalism)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Brand Management",
+        "subjectType": "Theory",
+        "course": "Master of Arts (Entertainment Media & Advertising)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Professional Communication",
+        "subjectType": "Theory",
+        "course": "Master of Arts (Entertainment Media & Advertising)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "rajesh@somaiya.edu",
+    "firstName": "Mr. Rajesh",
+    "middleName": "Chandrakant",
+    "lastName": "Dhotre",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subjects": "Minor- Creative Writing",
+        "subjectType": "Theory",
+        "course": "Bachelor of Arts (Mass Communication & Journalism)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Creative Writing",
+        "subjectType": "Theory",
+        "course": "Bachelor of Arts (Mass Communication & Journalism)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Global Media Challenges and Perspectives",
+        "subjectType": "Theory",
+        "course": "Master of Arts (Communication & Journalism)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Media and Democracy",
+        "subjectType": "Theory",
+        "course": "Master of Arts (Communication & Journalism)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "ameya.bal@somaiya.edu",
+    "firstName": "Mr. Ameya",
+    "middleName": "Sunildatta",
+    "lastName": "Bal",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subjects": "Visual Communication",
+        "subjectType": "Theory",
+        "course": "Bachelor of Arts (Mass Communication & Journalism)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Contemporary Issues",
+        "subjectType": "Theory",
+        "course": "Bachelor of Arts (Mass Communication & Journalism)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Film Studies",
+        "subjectType": "Theory",
+        "course": "Bachelor of Arts (Mass Communication & Journalism)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Advertising Design",
+        "subjectType": "Theory",
+        "course": "Bachelor of Arts (Mass Communication & Journalism)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Principles of Entertainment Media",
+        "subjectType": "Theory",
+        "course": "Master of Arts (Entertainment Media & Advertising)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "gayatri.i@somaiya.edu",
+    "firstName": "Dr. Gayatri",
+    "middleName": "Indrakanti",
+    "lastName": " ",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subjects": "Contemporary Issues ",
+        "subjectType": "Theory",
+        "course": "Bachelor of Arts (Mass Communication & Journalism)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Language Skills in Media",
+        "subjectType": "Theory",
+        "course": "Bachelor of Arts (Mass Communication & Journalism)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Professional Ethics",
+        "subjectType": "Theory",
+        "course": "Bachelor of Arts (Mass Communication & Journalism)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Media Criticism",
+        "subjectType": "Theory",
+        "course": "Master of Arts (Communication & Journalism)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Indian Aesthetics",
+        "subjectType": "Theory",
+        "course": "Master of Arts (Entertainment Media & Advertising)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "saranya.t@somaiya.edu",
+    "firstName": "Dr. Saranya",
+    "middleName": "Harish",
+    "lastName": "T",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 3,
+        "subjects": "Public Relations and Corporate Communication",
+        "subjectType": "Theory",
+        "course": "Bachelor of Arts (Mass Communication & Journalism)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Consumer Behaviour",
+        "subjectType": "Theory",
+        "course": "Bachelor of Arts (Mass Communication & Journalism)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Communication for Development",
+        "subjectType": "Theory",
+        "course": "Master of Arts (Communication & Journalism)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "International Communication",
+        "subjectType": "Theory",
+        "course": "Master of Arts (Communication & Journalism)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "chetan.kj@somaiya.edu",
+    "firstName": "Dr. Chetan",
+    "middleName": "Kanji",
+    "lastName": "Bhai",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 5,
+        "subjects": "Logistics and supply chain management",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Logistics and supply chain management",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 2
+      },
+      {
+        "semester": 5,
+        "subjects": "E commerce management",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Honors)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Logistics and SCM",
+        "subjectType": "Theory",
+        "course": "Master of Commerce (Business Management)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "aparna.j@somaiya.edu",
+    "firstName": "Dr. Aparna",
+    "middleName": "Roshan",
+    "lastName": "Jain",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 5,
+        "subjects": "Entrepreneurship Management and Business Planning",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Entrepreneurship Management and Business Planning",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 2
+      },
+      {
+        "semester": 5,
+        "subjects": "Service Marketing",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Management",
+        "batch": 2
+      }
+    ]
+  },
+  {
+    "email": "bhumi@somaiya.edu",
+    "firstName": "Ms. Bhumi",
+    "middleName": "Deepak",
+    "lastName": "Malde",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 5,
+        "subjects": "French",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "French",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 2
+      },
+      {
+        "semester": 3,
+        "subjects": "French",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "French",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 2
+      },
+      {
+        "semester": 1,
+        "subjects": "French",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "French",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 2
+      },
+      {
+        "semester": 1,
+        "subjects": "French",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 3
+      }
+    ]
+  },
+  {
+    "email": "kruttika.b@somaiya.edu",
+    "firstName": "Ms. Kruttika",
+    "middleName": "Sameer",
+    "lastName": "Bhosale",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 5,
+        "subjects": "German",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "German",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 2
+      },
+      {
+        "semester": 3,
+        "subjects": "German",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "German",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 2
+      },
+      {
+        "semester": 1,
+        "subjects": "German",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "German",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 2
+      },
+      {
+        "semester": 1,
+        "subjects": "German",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 3
+      }
+    ]
+  },
+  {
+    "email": "mr.mayank.s@somaiya.edu",
+    "firstName": "Mr. Mayank",
+    "middleName": "Vijay",
+    "lastName": "Satra",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 5,
+        "subjects": "Finance 4.0",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Technical Analysis of Financial Markets",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 2
+      },
+      {
+        "semester": 1,
+        "subjects": "Financial Markets and Services",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 2
+      },
+      {
+        "semester": 1,
+        "subjects": "Financial Markets and Services",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 3
+      },
+      {
+        "semester": 3,
+        "subjects": "Financial Markets and services",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Management",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "kshamata.lad@somaiya.edu",
+    "firstName": "Ms. Kshamata",
+    "middleName": "Sachin",
+    "lastName": "Lad",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 5,
+        "subjects": "Retail Management",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Advertising",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Advertising",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 3
+      },
+      {
+        "semester": 5,
+        "subjects": "Media Planning and Management",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Management",
+        "batch": 2
+      },
+      {
+        "semester": 3,
+        "subjects": "Advertising & Sales",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Management",
+        "batch": 2
+      }
+    ]
+  },
+  {
+    "email": "fayeza.s@somaiya.edu",
+    "firstName": "Ms. Fayeza",
+    "middleName": "Hakimuddin",
+    "lastName": "Sonkachwala",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 5,
+        "subjects": "Strategic cost management",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 2
+      },
+      {
+        "semester": 5,
+        "subjects": "HR Accounting and Audit",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Human Resource Accounting and Compensation Management",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "sandeep.gupta@somaiya.edu",
+    "firstName": "Mr. Sandeep",
+    "middleName": "Sardarilal",
+    "lastName": "Gupta",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 5,
+        "subjects": "Direct Tax",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 2
+      },
+      {
+        "semester": 3,
+        "subjects": "Management Accounting",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 2
+      },
+      {
+        "semester": 5,
+        "subjects": "Direct Tax",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Management",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Management Accounting",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Management",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "monika.j@somaiya.edu",
+    "firstName": "Ms. Monika",
+    "middleName": "Nikesh",
+    "lastName": "Kumar",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 3,
+        "subjects": "Strategic Management",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Strategic Management",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 2
+      },
+      {
+        "semester": 3,
+        "subjects": "Strategic Management",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Management",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Strategic Management",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Management",
+        "batch": 2
+      }
+    ]
+  },
+  {
+    "email": "bharati.m@somaiya.edu",
+    "firstName": "Dr. Bharti",
+    "middleName": "Sunil",
+    "lastName": "Makhijani",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subjects": "Organizational Behaviour",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 3
+      },
+      {
+        "semester": 5,
+        "subjects": "Customer relationship management",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Honors)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Digital Marketing",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Specialization in Data Science)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Retail Management",
+        "subjectType": "Theory",
+        "course": "Master of Commerce (Business Management)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "naik.a@somaiya.edu",
+    "firstName": "Dr. Amit",
+    "middleName": "Atmaram",
+    "lastName": "Naik",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subjects": "Constitution and Public Policy",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Constitution and Public Policy",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 2
+      },
+      {
+        "semester": 1,
+        "subjects": "Constitution and Public Policy",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Administration",
+        "batch": 3
+      },
+      {
+        "semester": 5,
+        "subjects": "Logistics and supply chain management",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Management",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Logistics and supply chain management",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Management",
+        "batch": 2
+      },
+      {
+        "semester": 1,
+        "subjects": "Constitution and Public Policy",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Management",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "bhavana@somaiya.edu",
+    "firstName": "Dr. Bhavana",
+    "middleName": "Sushant",
+    "lastName": "Jangale",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 5,
+        "subjects": "Strategic Financial Management",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Management",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Derivative Market",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Financial Markets)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "International finance",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Honors)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Fundamental and Technical Analysis ",
+        "subjectType": "Theory",
+        "course": "Master of Commerce (Accounting & Finance)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "aparna.v@somaiya.edu",
+    "firstName": "Ms. Aparna",
+    "middleName": "Ashok",
+    "lastName": "Vachhrajani",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 5,
+        "subjects": "Portfolio Management",
+        "subjectType": "Theory",
+        "course": "Bachelor of Business Management",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Non- Banking Financial Companies (NBFCs)",
+        "subjectType": "Theory",
+        "course": "Master of Commerce (Banking & Finance)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Treasury Management",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Banking & Finance)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "deepak.c@somaiya.edu",
+    "firstName": "Mr. Deepak",
+    "middleName": "Jayram",
+    "lastName": "Chavan",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 5,
+        "subjects": "Corporate Accounting III",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Accounting & Finance)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Corporate Accounting I ",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Accounting & Finance)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Corporate Accounting III",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Accounting & Finance) Honour",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Financial Accounting ",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Honors)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "corporate accounting",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Specialization in Data Science)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "shital.mehta@somaiya.edu",
+    "firstName": "Dr. Shital",
+    "middleName": "Jitendra",
+    "lastName": "Mehta",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 5,
+        "subjects": "Cost and Management Accounting III",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Accounting & Finance)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Cost and Management Accounting III ",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Accounting & Finance) Honour",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Advanced Auditing",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Honors)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Auditing including Management Audit",
+        "subjectType": "Theory",
+        "course": "Master of Commerce (Accounting & Finance)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "milind.saraf@somaiya.edu",
+    "firstName": "Mr. Milind",
+    "middleName": "Ramchandra",
+    "lastName": "Saraf",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 5,
+        "subjects": "Direct Tax II",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Accounting & Finance)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Cost Accounting I",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Accounting & Finance)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Direct Tax II",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Accounting & Finance) Honour",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Direct Tax",
+        "subjectType": "Theory",
+        "course": "Master of Commerce (Accounting & Finance)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "sachin@somaiya.edu",
+    "firstName": "Dr. Sachin",
+    "middleName": "Vilas",
+    "lastName": "Acharekar",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 5,
+        "subjects": "Research Methodology ",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Accounting & Finance)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Cost and Management Accounting ",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Accounting & Finance)",
+        "batch": 2
+      },
+      {
+        "semester": 1,
+        "subjects": "Cost Accounting I",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Accounting & Finance)",
+        "batch": 2
+      }
+    ]
+  },
+  {
+    "email": "muskkan@somaiya.edu",
+    "firstName": "CA Muskkan",
+    "middleName": "Brijesh",
+    "lastName": "Kukreja",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 3,
+        "subjects": "Taxation I",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Accounting & Finance)",
+        "batch": 2
+      },
+      {
+        "semester": 3,
+        "subjects": "Taxation I",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Accounting & Finance)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Corporate Finance I",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Accounting & Finance)",
+        "batch": 2
+      },
+      {
+        "semester": 1,
+        "subjects": "Corporate Finance I",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Accounting & Finance)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "International Taxation ",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Accounting & Finance) Honour",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "International Taxation ",
+        "subjectType": "Theory",
+        "course": "Master of Commerce (Accounting & Finance)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Data Management using Spreadsheets ",
+        "subjectType": "Theory",
+        "course": "Master of Commerce (Accounting & Finance)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "0",
+        "subjectType": "Theory",
+        "course": "Master of Science (Chemical Biology and Drug Design)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "satish.bhor@somaiya.edu",
+    "firstName": "Mr. Satish",
+    "middleName": "Radhakishan",
+    "lastName": "Bhor",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subjects": "Financial Accounting I",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Accounting & Finance)",
+        "batch": 2
+      },
+      {
+        "semester": 1,
+        "subjects": "Financial Accounting I",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Accounting & Finance)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Minor in Finance",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Accounting & Finance)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Operations Research",
+        "subjectType": "Theory",
+        "course": "Master of Commerce (Accounting & Finance)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "shailesh.singh@somaiya.edu",
+    "firstName": "Mr. Shailesh",
+    "middleName": "Singh",
+    "lastName": " ",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subjects": "Statistical Techniques and Logical Reasoning ",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Accounting & Finance)",
+        "batch": 2
+      },
+      {
+        "semester": 1,
+        "subjects": "Statistical Techniques and Logical Reasoning ",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Accounting & Finance)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "SageMath",
+        "subjectType": "Practical",
+        "course": "Master of Science (Mathematics)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Numerical Analysis",
+        "subjectType": "Theory",
+        "course": "Master of Science (Mathematics)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Numerical Analysis",
+        "subjectType": "Tutorial",
+        "course": "Master of Science (Mathematics)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Nutrigenomics_ biostatistics and bioinformatics",
+        "subjectType": "Theory",
+        "course": "Master of Science (Nutraceuticals)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Nutrigenomics_ biostatistics and bioinformatics",
+        "subjectType": "Practical",
+        "course": "Master of Science (Nutraceuticals)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "fenil@somaiya.edu",
+    "firstName": "Mr. Fenil",
+    "middleName": "Jayantilal",
+    "lastName": "Dedhia",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 3,
+        "subjects": "Mutual Fund Management ",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Banking & Finance)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "International Banking & Finance ",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Banking & Finance)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Financial Planning and Investment",
+        "subjectType": "Theory",
+        "course": "Master of Commerce (Banking & Finance)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Managerial Economics ",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Banking & Finance)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Economics for Business Decision ",
+        "subjectType": "Theory",
+        "course": "Master of Commerce (Banking & Finance)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "meera.r@somaiya.edu",
+    "firstName": "Dr. Meera",
+    "middleName": "Yogesh",
+    "lastName": "Rajawat",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 3,
+        "subjects": "Accounting for Bankers",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Banking & Finance)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Management Accounting ",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Banking & Finance)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Direct Taxation",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Financial Markets)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Direct Taxation",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Honors)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Direct Taxation",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Specialization in Data Science)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "rajalakshmi.a@somaiya.edu",
+    "firstName": "Dr. Rajlakshmi",
+    "middleName": "Anantharaman",
+    "lastName": " ",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 3,
+        "subjects": "Strategic Management",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Banking & Finance)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Reserach Methodology ",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Banking & Finance)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Advanced Research Methodology ",
+        "subjectType": "Theory",
+        "course": "Master of Commerce (Accounting & Finance)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Accounting and Auditing of Banks",
+        "subjectType": "Theory",
+        "course": "Master of Commerce (Banking & Finance)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Advanced Research Methodology",
+        "subjectType": "Theory",
+        "course": "Master of Commerce (Banking & Finance)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "prashant.p@somaiya.edu",
+    "firstName": "Mr. Prashant",
+    "middleName": "Arun",
+    "lastName": "Pimple",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 5,
+        "subjects": "Marketing in Financial Service",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Financial Markets)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Fixed Income Securities",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Financial Markets)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Cost Accounting",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Honors)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Financial Accounting ",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Banking & Finance)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "director.sksc@somaiya.edu",
+    "firstName": "CA Monica",
+    "middleName": "Sanjay",
+    "lastName": "Lodha",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 3,
+        "subjects": "Corporate Finance",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Financial Markets)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Advanced Accounting ",
+        "subjectType": "Theory",
+        "course": "Master of Commerce (Accounting & Finance)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Capital Market",
+        "subjectType": "Theory",
+        "course": "Master of Commerce (Business Management)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "meghna.vyas@somaiya.edu",
+    "firstName": "Dr. Meghana",
+    "middleName": "Narendra",
+    "lastName": "Vyas",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 3,
+        "subjects": "Statistics - II",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Specialization in Data Science)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Probability and Statistics using R",
+        "subjectType": "Theory",
+        "course": "Master of Science (Mathematics)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Probability and Statistics using R",
+        "subjectType": "Practical",
+        "course": "Master of Science (Mathematics)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Research Methodology",
+        "subjectType": "Theory",
+        "course": "Master of Science (Mathematics)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Research Methodology",
+        "subjectType": "Tutorial",
+        "course": "Master of Science (Mathematics)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Research Methodology",
+        "subjectType": "Theory",
+        "course": "Master of Science (Mathematics)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Research Methodology",
+        "subjectType": "Tutorial",
+        "course": "Master of Science (Mathematics)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "pradnya.gosavi@somaiya.edu",
+    "firstName": "Ms. Pradnya",
+    "middleName": "Mahesh",
+    "lastName": "Gosavi",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 3,
+        "subjects": "Company Law",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Specialization in Data Science)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Constitution and Public Policy ",
+        "subjectType": "Theory",
+        "course": "Bachelor of Commerce (Banking & Finance)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Constitution of India",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Information Technology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Constitution of India",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Information Technology)",
+        "batch": 2
+      }
+    ]
+  },
+  {
+    "email": "anushree.s@somaiya.edu",
+    "firstName": "Ms. Anushree",
+    "middleName": "Ashok",
+    "lastName": "Sukhi",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 5,
+        "subjects": "Software Project Management",
+        "subjectType": "Theory",
+        "course": "Bachelor of Computer Applications",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Software Project Management",
+        "subjectType": "Practical",
+        "course": "Bachelor of Computer Applications",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Software Project Management",
+        "subjectType": "Practical",
+        "course": "Bachelor of Computer Applications",
+        "batch": 2
+      },
+      {
+        "semester": 3,
+        "subjects": "Python Programming",
+        "subjectType": "Theory",
+        "course": "Bachelor of Computer Applications",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Python Programming",
+        "subjectType": "Practical",
+        "course": "Bachelor of Computer Applications",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Python Programming",
+        "subjectType": "Practical",
+        "course": "Bachelor of Computer Applications",
+        "batch": 2
+      }
+    ]
+  },
+  {
+    "email": "mohammadbilal@somaiya.edu",
+    "firstName": "Mr. Bilal",
+    "middleName": "Bilal",
+    "lastName": "Farooque",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 5,
+        "subjects": "Artificial Intelligence and Machine Learning",
+        "subjectType": "Theory",
+        "course": "Bachelor of Computer Applications",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Artificial Intelligence and Machine Learning",
+        "subjectType": "Practical",
+        "course": "Bachelor of Computer Applications",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Artificial Intelligence and Machine Learning",
+        "subjectType": "Practical",
+        "course": "Bachelor of Computer Applications",
+        "batch": 2
+      },
+      {
+        "semester": 3,
+        "subjects": "Arduino Programming",
+        "subjectType": "Theory",
+        "course": "Bachelor of Computer Applications",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Arduino Programming",
+        "subjectType": "Practical",
+        "course": "Bachelor of Computer Applications",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Arduino Programming",
+        "subjectType": "Practical",
+        "course": "Bachelor of Computer Applications",
+        "batch": 2
+      },
+      {
+        "semester": 3,
+        "subjects": "E1 Advances in Machine Learning",
+        "subjectType": "Theory",
+        "course": "Master of Science (Information Technology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "E1 Advances in Machine Learning",
+        "subjectType": "Practical",
+        "course": "Master of Science (Information Technology)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "kirti.a@somaiya.edu",
+    "firstName": "Ms. Kirti",
+    "middleName": "Vilas",
+    "lastName": "Amberkar",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 5,
+        "subjects": "MERN Stack",
+        "subjectType": "Theory",
+        "course": "Bachelor of Computer Applications",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "MERN Stack",
+        "subjectType": "Practical",
+        "course": "Bachelor of Computer Applications",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "MERN Stack",
+        "subjectType": "Practical",
+        "course": "Bachelor of Computer Applications",
+        "batch": 2
+      },
+      {
+        "semester": 1,
+        "subjects": "Principles of Algorithms and Programming",
+        "subjectType": "Theory",
+        "course": "Bachelor of Computer Applications",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Principles of Algorithms and Programming",
+        "subjectType": "Practical",
+        "course": "Bachelor of Computer Applications",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Principles of Algorithms and Programming",
+        "subjectType": "Practical",
+        "course": "Bachelor of Computer Applications",
+        "batch": 2
+      },
+      {
+        "semester": 3,
+        "subjects": "Core Java",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Information Technology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Core Java",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Information Technology)",
+        "batch": 2
+      }
+    ]
+  },
+  {
+    "email": "hemalatha@somaiya.edu",
+    "firstName": "Dr. G.",
+    "middleName": "Hema",
+    "lastName": "Latha",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 5,
+        "subjects": "Cloud Computing",
+        "subjectType": "Theory",
+        "course": "Bachelor of Computer Applications",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Cloud Computing",
+        "subjectType": "Practical",
+        "course": "Bachelor of Computer Applications",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Cloud Computing",
+        "subjectType": "Practical",
+        "course": "Bachelor of Computer Applications",
+        "batch": 2
+      },
+      {
+        "semester": 3,
+        "subjects": "Operating System",
+        "subjectType": "Theory",
+        "course": "Bachelor of Computer Applications",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Operating System",
+        "subjectType": "Practical",
+        "course": "Bachelor of Computer Applications",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Operating System",
+        "subjectType": "Practical",
+        "course": "Bachelor of Computer Applications",
+        "batch": 2
+      },
+      {
+        "semester": 3,
+        "subjects": "Operating System",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Information Technology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Operating System",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Information Technology)",
+        "batch": 2
+      }
+    ]
+  },
+  {
+    "email": "leena@somaiya.edu",
+    "firstName": "Ms. Leena",
+    "middleName": "Pratap",
+    "lastName": "Shewale",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 3,
+        "subjects": "Database Management System",
+        "subjectType": "Theory",
+        "course": "Bachelor of Computer Applications",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Database Management System",
+        "subjectType": "Practical",
+        "course": "Bachelor of Computer Applications",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Database Management System",
+        "subjectType": "Practical",
+        "course": "Bachelor of Computer Applications",
+        "batch": 2
+      },
+      {
+        "semester": 1,
+        "subjects": "Digital Computer Fundamentals",
+        "subjectType": "Theory",
+        "course": "Bachelor of Computer Applications",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Digital Computer Fundamentals",
+        "subjectType": "Practical",
+        "course": "Bachelor of Computer Applications",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Digital Computer Fundamentals",
+        "subjectType": "Practical",
+        "course": "Bachelor of Computer Applications",
+        "batch": 2
+      },
+      {
+        "semester": 1,
+        "subjects": "Organizational Behaviour",
+        "subjectType": "Practical",
+        "course": "Bachelor of Computer Applications",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "harshali.yp@somaiya.edu",
+    "firstName": "Dr. Harshali",
+    "middleName": "Yogesh",
+    "lastName": "Patil",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 3,
+        "subjects": "Elements of Statistics",
+        "subjectType": "Theory",
+        "course": "Bachelor of Computer Applications",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Elements of Statistics",
+        "subjectType": "Practical",
+        "course": "Bachelor of Computer Applications",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Elements of Statistics",
+        "subjectType": "Practical",
+        "course": "Bachelor of Computer Applications",
+        "batch": 2
+      },
+      {
+        "semester": 5,
+        "subjects": "Design Thinking",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Information Technology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Research Methodology",
+        "subjectType": "Theory",
+        "course": "Master of Science (Information Technology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Research Methodology",
+        "subjectType": "Practical",
+        "course": "Master of Science (Information Technology)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "deepti01@somaiya.edu",
+    "firstName": "Dr. Deepti",
+    "middleName": "Gupta",
+    "lastName": " ",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subjects": "Biochemistry-I",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Role of Computers in Biology",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Microbiology 1",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Role of Computers in Biology",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Environmental Pollution and Bioethics",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Genomic sequence analysis",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Genomic sequence analysis",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Bioinformatics and Omics",
+        "subjectType": "Theory",
+        "course": "Master of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Industrial_ Environmental and nanotechnology",
+        "subjectType": "Theory",
+        "course": "Master of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Research methodology and Intellectual Property",
+        "subjectType": "Theory",
+        "course": "Master of Science (Industrial Biotechnology)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "jacintateresa@somaiya.edu",
+    "firstName": "Dr. Jacinta",
+    "middleName": "Joseph",
+    "lastName": "George",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subjects": "Biochemistry-I",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Cellular metabolism 1",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Genetics and Molecular Biology-I",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Cellular metabolism 1",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Genetics and Molecular Biology-I",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": " Biochemistry ",
+        "subjectType": "Theory",
+        "course": "Master of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Molecular Biology ",
+        "subjectType": "Practical",
+        "course": "Master of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Advanced Analytical techniques",
+        "subjectType": "Practical",
+        "course": "Master of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Bioinformatics and Omics",
+        "subjectType": "Theory",
+        "course": "Master of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Biomolecules and biocatalysts",
+        "subjectType": "Theory",
+        "course": "Master of Science (Industrial Biotechnology)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "sagar.shah3@somaiya.edu",
+    "firstName": "Dr. Sagar",
+    "middleName": "Pramod",
+    "lastName": "Shah",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subjects": "Biochemistry-I",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Biochemistry 1",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Microbiology 1",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Basic Bioanalytical Techniques",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Recombinant DNA technology",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Recombinant DNA technology",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Molecular Biology ",
+        "subjectType": "Theory",
+        "course": "Master of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Industrial_ Environmental and nanotechnology",
+        "subjectType": "Theory",
+        "course": "Master of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Biomolecules and biocatalysts",
+        "subjectType": "Theory",
+        "course": "Master of Science (Industrial Biotechnology)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "seema.sambrani@somaiya.edu",
+    "firstName": "Dr. Seema",
+    "middleName": "Ajay",
+    "lastName": "Sambrani",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subjects": "CELL BIOLOGY 1",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Biochemistry 1",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Environmental Pollution and Bioethics",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Food Biotechnology ",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Advanced Analytical techniques",
+        "subjectType": "Theory",
+        "course": "Master of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Bioprocess technology",
+        "subjectType": "Theory",
+        "course": "Master of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Bioprocess technology",
+        "subjectType": "Practical",
+        "course": "Master of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Industrial_ Environmental and nanotechnology",
+        "subjectType": "Practical",
+        "course": "Master of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Production microorganisms- Isolation and improvement",
+        "subjectType": "Theory",
+        "course": "Master of Science (Industrial Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Research methodology and Intellectual Property",
+        "subjectType": "Theory",
+        "course": "Master of Science (Industrial Biotechnology)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "jayesh@somaiya.edu",
+    "firstName": "Mr. Jayesh",
+    "middleName": "Maheshkumar",
+    "lastName": "Bhagat",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subjects": "CELL BIOLOGY 1",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Genetics and Molecular Biology-I",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Basics of Plant and Animal Tissue Culture",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Genomic sequence analysis",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Molecular Biology ",
+        "subjectType": "Theory",
+        "course": "Master of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Bioinformatics and Omics",
+        "subjectType": "Theory",
+        "course": "Master of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Plant_ Algal and Agri-biotechnology",
+        "subjectType": "Theory",
+        "course": "Master of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Plant_ Algal and Agri-biotechnology",
+        "subjectType": "Practical",
+        "course": "Master of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Bioinformatics and Omics",
+        "subjectType": "Practical",
+        "course": "Master of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Biomass Energy and Biofuel Technologies",
+        "subjectType": "Theory",
+        "course": "Master of Science (Industrial Biotechnology)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "anant.kulkarni@somaiya.edu",
+    "firstName": "Dr. Anant",
+    "middleName": "Dattatraya",
+    "lastName": "Kulkarni",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subjects": "Chemistry I",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Chemistry I",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Chemistry I",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 2
+      },
+      {
+        "semester": 1,
+        "subjects": "Foundation Course in Chemistry-II",
+        "subjectType": "Theory",
+        "course": "Integrated Bachelor of Science-Master of Science",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Computational Simulation of Polymers",
+        "subjectType": "Theory",
+        "course": "Master of Science (Polymer Science)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "amit.jethwa@somaiya.edu",
+    "firstName": "Mr. Amit",
+    "middleName": "Kisanbhai",
+    "lastName": "Jethwa",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subjects": "Microbiology 1",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "CELL BIOLOGY 1",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Genetics and Molecular Biology-I",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Cellular metabolism 1",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Recombinant DNA technology",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Molecular Biology ",
+        "subjectType": "Theory",
+        "course": "Master of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Biochemistry",
+        "subjectType": "Practical",
+        "course": "Master of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Immunology ",
+        "subjectType": "Practical",
+        "course": "Master of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Biomass Energy and Biofuel Technologies",
+        "subjectType": "Theory",
+        "course": "Master of Science (Industrial Biotechnology)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "shruti.kakodkar@somaiya.edu",
+    "firstName": "Dr. Shruti",
+    "middleName": "Ameya",
+    "lastName": "Kakodkar",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subjects": "CELL BIOLOGY 1",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Cellular metabolism 1",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Basic Bioanalytical Techniques",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Bioprocess technology",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Bioprocess technology",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": " Biochemistry ",
+        "subjectType": "Theory",
+        "course": "Master of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Advanced Analytical techniques",
+        "subjectType": "Theory",
+        "course": "Master of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Bioprocess technology",
+        "subjectType": "Theory",
+        "course": "Master of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Industrial_ Environmental and nanotechnology",
+        "subjectType": "Theory",
+        "course": "Master of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Biomolecules and biocatalysts",
+        "subjectType": "Theory",
+        "course": "Master of Science (Industrial Biotechnology)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "preeti.jain@somaiya.edu",
+    "firstName": "Dr. Preeti",
+    "middleName": "Jain",
+    "lastName": " ",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subjects": "Microbiology 1",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Genetics and Molecular Biology-I",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Food Biotechnology",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Immunology ",
+        "subjectType": "Theory",
+        "course": "Master of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Animal Biotechnology",
+        "subjectType": "Theory",
+        "course": "Master of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Biomolecules and biocatalysts",
+        "subjectType": "Practical",
+        "course": "Master of Science (Industrial Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Production microorganisms- Isolation and improvement",
+        "subjectType": "Theory",
+        "course": "Master of Science (Industrial Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Research methodology and Intellectual Property",
+        "subjectType": "Theory",
+        "course": "Master of Science (Industrial Biotechnology)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "avradhakrishnan@somaiya.edu",
+    "firstName": "Dr. A",
+    "middleName": "V",
+    "lastName": "Radhakrishnan",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 3,
+        "subjects": "Basic Bioanalytical Techniques",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Foundations of Classical Physics",
+        "subjectType": "Theory",
+        "course": "Integrated Bachelor of Science-Master of Science",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Foundations of Classical Physics",
+        "subjectType": "Tutorial",
+        "course": "Integrated Bachelor of Science-Master of Science",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Physics Laboratory-I",
+        "subjectType": "Tutorial",
+        "course": "Integrated Bachelor of Science-Master of Science",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Advanced Analytical techniques",
+        "subjectType": "Theory",
+        "course": "Master of Science (Biotechnology)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "sharon@somaiya.edu",
+    "firstName": "Dr. Sharon",
+    "middleName": "Ajay",
+    "lastName": "Mathew",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 3,
+        "subjects": "Basics of Plant and Animal Tissue Culture",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Basics of Plant and Animal Tissue Culture",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Plant_ Agriculture and Animal Biotechnology ",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Plant_ Agriculture and Animal Biotechnology ",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Immunology ",
+        "subjectType": "Theory",
+        "course": "Master of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Animal Biotechnology",
+        "subjectType": "Theory",
+        "course": "Master of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Animal Biotechnology",
+        "subjectType": "Practical",
+        "course": "Master of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Production microorganisms- Isolation and improvement",
+        "subjectType": "Theory",
+        "course": "Master of Science (Industrial Biotechnology)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "nidhi.maheshwari@somaiya.edu",
+    "firstName": "Dr. Nidhi",
+    "middleName": " ",
+    "lastName": "Maheshwari",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 3,
+        "subjects": "Basics of Plant and Animal Tissue Culture",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Bioprocess technology",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Plant_ Agriculture and Animal Biotechnology ",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Food Biotechnology ",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": " Biochemistry ",
+        "subjectType": "Theory",
+        "course": "Master of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Advanced Analytical techniques",
+        "subjectType": "Theory",
+        "course": "Master of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Plant_ Algal and Agri-biotechnology",
+        "subjectType": "Theory",
+        "course": "Master of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Biomass Energy and Biofuel Technologies",
+        "subjectType": "Practical",
+        "course": "Master of Science (Industrial Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Production microorganisms- Isolation and improvement",
+        "subjectType": "Practical",
+        "course": "Master of Science (Industrial Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Research methodology and Intellectual Property",
+        "subjectType": "Theory",
+        "course": "Master of Science (Industrial Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Biostatistics_ Bioethics and Bio-safety",
+        "subjectType": "Theory",
+        "course": "Master of Science (Industrial Biotechnology)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "tressa@somaiya.edu",
+    "firstName": "Dr. Tressa",
+    "middleName": "Panikulangara",
+    "lastName": "Jacob",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 5,
+        "subjects": "Recombinant DNA technology",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Introductory Biology",
+        "subjectType": "Theory",
+        "course": "Integrated Bachelor of Science-Master of Science",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Introductory Biology",
+        "subjectType": "Tutorial",
+        "course": "Integrated Bachelor of Science-Master of Science",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Introductory Biology Laboratory",
+        "subjectType": "Practical",
+        "course": "Integrated Bachelor of Science-Master of Science",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Plant_ Algal and Agri-biotechnology",
+        "subjectType": "Theory",
+        "course": "Master of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Pathology of Infectious Diseases",
+        "subjectType": "Theory",
+        "course": "Master of Science (Chemical Biology and Drug Design)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Biomolecules and biocatalysts",
+        "subjectType": "Theory",
+        "course": "Master of Science (Industrial Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Technoeconomical aspects of industrial biotechnology",
+        "subjectType": "Theory",
+        "course": "Master of Science (Industrial Biotechnology)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "biji@somaiya.edu",
+    "firstName": "Dr. Biji",
+    "middleName": "Balakrishnan",
+    "lastName": " ",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 5,
+        "subjects": "Food Biotechnology ",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Foundation Course in Chemistry -I",
+        "subjectType": "Theory",
+        "course": "Integrated Bachelor of Science-Master of Science",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Introductory Chemistry Laboratory-I",
+        "subjectType": "Practical",
+        "course": "Integrated Bachelor of Science-Master of Science",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Biomass Energy and Biofuel Technologies",
+        "subjectType": "Theory",
+        "course": "Master of Science (Industrial Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Process dynamics- principles and kinetics",
+        "subjectType": "Theory",
+        "course": "Master of Science (Industrial Biotechnology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Biomaterials ",
+        "subjectType": "Tutorial",
+        "course": "Master of Science (Polymer Science)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "swati.maurya@somaiya.edu",
+    "firstName": "Dr. Swati",
+    "middleName": "Rajeshkumar",
+    "lastName": "Maurya",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 5,
+        "subjects": "Data Mining and adaptive Business Intelligence",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science Computer Science (Honours)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Big Data Analysis",
+        "subjectType": "Theory",
+        "course": "Master of Science (Computer Science)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Big Data Analysis",
+        "subjectType": "Practical",
+        "course": "Master of Science (Computer Science)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "mareilia.a@somaiya.edu",
+    "firstName": "Dr. Marielia",
+    "middleName": "Edward",
+    "lastName": "Assumption",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 5,
+        "subjects": "Information and Network Security",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science Computer Science (Honours)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Information and Network Security",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science Computer Science (Honours)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Information and Network Security",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science Computer Science (Honours)",
+        "batch": 2
+      },
+      {
+        "semester": 5,
+        "subjects": "Analytics for IOT",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Data Science)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Analytics for IOT",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Data Science)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "monali.ad@somaiya.edu",
+    "firstName": "Ms. Monali",
+    "middleName": "Amit",
+    "lastName": "Deshpande",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 5,
+        "subjects": "Software Testing and Quality Assurance",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science Computer Science (Honours)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Software Testing and Quality Assurance",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science Computer Science (Honours)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Software Testing and Quality Assurance",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science Computer Science (Honours)",
+        "batch": 2
+      },
+      {
+        "semester": 3,
+        "subjects": "Software Engineering",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Computer Science)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Software Engineering",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Computer Science)",
+        "batch": 2
+      },
+      {
+        "semester": 3,
+        "subjects": "Software Engineering",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Computer Science)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Web Technology",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Computer Science)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Web Technology Practical",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Computer Science)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Web Technology Practical",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Computer Science)",
+        "batch": 2
+      }
+    ]
+  },
+  {
+    "email": "shriniwas@somaiya.edu",
+    "firstName": "Mr. Shriniwas",
+    "middleName": "Madhusudan",
+    "lastName": "Acharya",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 3,
+        "subjects": "Core Java",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Computer Science)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Core Java",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Computer Science)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Core Java",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Computer Science)",
+        "batch": 2
+      },
+      {
+        "semester": 5,
+        "subjects": "Software Model Designing",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Data Science)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Software Model Designing",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Data Science)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Digital Electronics",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Computer Science)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Digital Electronics",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Computer Science)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Digital Electronics",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Computer Science)",
+        "batch": 2
+      }
+    ]
+  },
+  {
+    "email": "sunita.ay@somaiya.edu",
+    "firstName": "Dr. Sunita",
+    "middleName": "Arjun",
+    "lastName": "Yadav",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 3,
+        "subjects": "Operating System and Linux",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Computer Science)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Operating System and Linux",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Computer Science)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Operating System and Linux",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Computer Science)",
+        "batch": 2
+      },
+      {
+        "semester": 3,
+        "subjects": "Block Chain Technology",
+        "subjectType": "Theory",
+        "course": "Master of Science (Computer Science)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Block Chain Technology",
+        "subjectType": "Practical",
+        "course": "Master of Science (Computer Science)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Algorithm and C ++ programming",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Computer Science)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "suchita.m@somaiya.edu",
+    "firstName": "Ms. Suchita",
+    "middleName": "Prakash",
+    "lastName": "Mandhare",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 3,
+        "subjects": "Data Structure using Python",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Computer Science)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Data Structure using Python",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Computer Science)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Data Structure using Python",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Computer Science)",
+        "batch": 2
+      },
+      {
+        "semester": 3,
+        "subjects": "Data Structure using python",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Data Science)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Data Structure using python",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Data Science)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Image Analytics",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Data Science)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Image Analytics",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Data Science)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "algondadesai@somaiya.edu",
+    "firstName": "Mr. Algonda",
+    "middleName": "Desai",
+    "lastName": " ",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 3,
+        "subjects": "Probability Distribution Statistics",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Computer Science)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Discrete Mathematics",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Computer Science)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "siddheshwar.b@somaiya.edu",
+    "firstName": "Mr. Siddheshwar",
+    "middleName": "Manohar",
+    "lastName": "Bombale",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 3,
+        "subjects": "Graph Theory and Optimization",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Data Science)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Graph Theory and Optimization",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Data Science)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Algebra I",
+        "subjectType": "Theory",
+        "course": "Master of Science (Mathematics)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Algebra I",
+        "subjectType": "Tutorial",
+        "course": "Master of Science (Mathematics)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Complex Analysis ",
+        "subjectType": "Theory",
+        "course": "Master of Science (Mathematics)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Complex Analysis ",
+        "subjectType": "Tutorial",
+        "course": "Master of Science (Mathematics)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "minal.d@somaiya.edu",
+    "firstName": "Ms. Minal",
+    "middleName": "Vinod",
+    "lastName": "Dive",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 5,
+        "subjects": "Big Data Analytics",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Data Science)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Big Data Analytics",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Data Science)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "pooja.pd@somaiya.edu",
+    "firstName": "Ms. Pooja",
+    "middleName": "Prafulchandra",
+    "lastName": "Doshi",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 3,
+        "subjects": "Public economics",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Economics)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Foreign exchange market",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Economics)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Macro Economics I",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Economics)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Public Finance",
+        "subjectType": "Theory",
+        "course": "Master of Arts (Economics)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "sanjay.rode@somaiya.edu",
+    "firstName": "Dr. Sanjay",
+    "middleName": "Jaywant",
+    "lastName": "Rode",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 3,
+        "subjects": "Urban Economics",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Economics)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Agriculture Economics",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Economics)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Micro Economics I",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Economics)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Macro Economics I",
+        "subjectType": "Theory",
+        "course": "Master of Arts (Economics)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Microeconomics I",
+        "subjectType": "Theory",
+        "course": "Master of Arts (Economics)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "manoj27@somaiya.edu",
+    "firstName": "Dr. Manoj",
+    "middleName": "Mishra",
+    "lastName": " ",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subjects": "Introduction to Programming using Python",
+        "subjectType": "Theory",
+        "course": "Integrated Bachelor of Science-Master of Science",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Introduction to Programming using Python",
+        "subjectType": "Practical",
+        "course": "Integrated Bachelor of Science-Master of Science",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Foundations of Classical Physics",
+        "subjectType": "Theory",
+        "course": "Integrated Bachelor of Science-Master of Science",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Computer Organisation and Architecture",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Information Technology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Computer Organisation and Architecture",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Information Technology)",
+        "batch": 2
+      },
+      {
+        "semester": 1,
+        "subjects": "Computer Organisation and Architecture ",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Information Technology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Computer Organisation and Architecture ",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Information Technology)",
+        "batch": 2
+      }
+    ]
+  },
+  {
+    "email": "aarti.nayak@somaiya.edu",
+    "firstName": "Dr. Aarti",
+    "middleName": "Santosh",
+    "lastName": "Nayak",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subjects": "Mathematical economics",
+        "subjectType": "Theory",
+        "course": "Master of Arts (Economics)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Machine Learning",
+        "subjectType": "Theory",
+        "course": "Master of Science (Mathematics)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Machine Learning",
+        "subjectType": "Practical",
+        "course": "Master of Science (Mathematics)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Numerical Analysis",
+        "subjectType": "Theory",
+        "course": "Master of Science (Mathematics)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Applied Mathematics",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Information Technology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Applied Mathematics",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Information Technology)",
+        "batch": 2
+      }
+    ]
+  },
+  {
+    "email": "dinojkumar@somaiya.edu",
+    "firstName": "Dr. Dinoj",
+    "middleName": "Kumar",
+    "lastName": "Upadhyay",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subjects": "Contemporary Geopolitics ",
+        "subjectType": "Theory",
+        "course": "Master of Arts (International Studies)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "The Evolution of India's Foreign Policy ",
+        "subjectType": "Theory",
+        "course": "Master of Arts (International Studies)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Political Theory ",
+        "subjectType": "Theory",
+        "course": "Master of Arts (International Studies)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Modern Diplomacy ",
+        "subjectType": "Theory",
+        "course": "Master of Arts (International Studies)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Regional Security Architecture ",
+        "subjectType": "Theory",
+        "course": "Master of Arts (International Studies)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "sagar.marathe@somaiya.edu",
+    "firstName": "Dr. Sagar",
+    "middleName": "Ananda",
+    "lastName": "Marathe",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subjects": "Ecology and Biodiversity",
+        "subjectType": "Theory",
+        "course": "Master of Science (Environmental Studies)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Ecology and Biodiversity",
+        "subjectType": "Tutorial",
+        "course": "Master of Science (Environmental Studies)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Pollution Control Technologies",
+        "subjectType": "Theory",
+        "course": "Master of Science (Environmental Studies)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Pollution Control Technologies",
+        "subjectType": "Tutorial",
+        "course": "Master of Science (Environmental Studies)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Introduction to Environmental Monitoring",
+        "subjectType": "Theory",
+        "course": "Master of Science (Environmental Studies)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "nilesh.wagh@somaiya.edu",
+    "firstName": "Dr. Nilesh",
+    "middleName": "Devrao",
+    "lastName": "Wagh",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subjects": "Climate and Geology",
+        "subjectType": "Theory",
+        "course": "Master of Science (Environmental Studies)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Climate and Geology",
+        "subjectType": "Tutorial",
+        "course": "Master of Science (Environmental Studies)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Environmental Degradation ",
+        "subjectType": "Theory",
+        "course": "Master of Science (Environmental Studies)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Environmental Degradation ",
+        "subjectType": "Tutorial",
+        "course": "Master of Science (Environmental Studies)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "pradeepsingh@somaiya.edu",
+    "firstName": "Mr. Pradeep",
+    "middleName": "Dayal",
+    "lastName": "Singh",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subjects": "Linear Algebra",
+        "subjectType": "Theory",
+        "course": "Master of Science (Mathematics)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Linear Algebra",
+        "subjectType": "Tutorial",
+        "course": "Master of Science (Mathematics)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Number Theory",
+        "subjectType": "Theory",
+        "course": "Master of Science (Mathematics)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Number Theory",
+        "subjectType": "Tutorial",
+        "course": "Master of Science (Mathematics)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "m.janve@somaiya.edu",
+    "firstName": "Dr. Madhura",
+    "middleName": "Pramod",
+    "lastName": "Janve",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subjects": "Characterization of Food and Nutraceuticals",
+        "subjectType": "Theory",
+        "course": "Master of Science (Nutraceuticals)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Characterization of Food and Nutraceuticals",
+        "subjectType": "Practical",
+        "course": "Master of Science (Nutraceuticals)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Packaging and Marketing of Nutraceutical products",
+        "subjectType": "Theory",
+        "course": "Master of Science (Nutraceuticals)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Packaging and Marketing of Nutraceutical products",
+        "subjectType": "Practical",
+        "course": "Master of Science (Nutraceuticals)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Nutraceutical and Functional Food Regulations",
+        "subjectType": "Theory",
+        "course": "Master of Science (Nutraceuticals)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Nutraceutical and Functional Food Regulations",
+        "subjectType": "Practical",
+        "course": "Master of Science (Nutraceuticals)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "t.bowlekar@somaiya.edu",
+    "firstName": "Ms. Tejal",
+    "middleName": "Namdeo",
+    "lastName": "Bowlekar",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subjects": "Nutraceuticals",
+        "subjectType": "Theory",
+        "course": "Master of Science (Nutraceuticals)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Nutraceuticals",
+        "subjectType": "Practical",
+        "course": "Master of Science (Nutraceuticals)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Sensory evaluation_ toxicology_ food additives",
+        "subjectType": "Theory",
+        "course": "Master of Science (Nutraceuticals)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Sensory evaluation_ toxicology_ food additives",
+        "subjectType": "Practical",
+        "course": "Master of Science (Nutraceuticals)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "QA/QC and intellectual property rights",
+        "subjectType": "Theory",
+        "course": "Master of Science (Nutraceuticals)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Packaging and Marketing of Nutraceutical products",
+        "subjectType": "Theory",
+        "course": "Master of Science (Nutraceuticals)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Packaging and Marketing of Nutraceutical products",
+        "subjectType": "Practical",
+        "course": "Master of Science (Nutraceuticals)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "daly@somaiya.edu",
+    "firstName": "Dr. Daly",
+    "middleName": "Davis",
+    "lastName": " ",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subjects": "Spectroscopy",
+        "subjectType": "Theory",
+        "course": "Master of Science (Nutraceuticals)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Spectroscopy",
+        "subjectType": "Practical",
+        "course": "Master of Science (Nutraceuticals)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Sensory evaluation_ toxicology_ food additives",
+        "subjectType": "Theory",
+        "course": "Master of Science (Nutraceuticals)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Polymers in Pharmaceuticals_ Medicine and Health Care",
+        "subjectType": "Theory",
+        "course": "Master of Science (Polymer Science)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "jyoti.zanwar@somaiya.edu",
+    "firstName": "Ms. Jyoti",
+    "middleName": "Kalpesh",
+    "lastName": "Mantri",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subjects": "Theory of Estimation",
+        "subjectType": "Theory",
+        "course": "Master of Science (Statistics)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Theory of Estimation",
+        "subjectType": "Practical",
+        "course": "Master of Science (Statistics)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Machine Learning Techniques",
+        "subjectType": "Theory",
+        "course": "Master of Science (Statistics)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Machine Learning Techniques",
+        "subjectType": "Practical",
+        "course": "Master of Science (Statistics)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Statistical Process Control",
+        "subjectType": "Theory",
+        "course": "Master of Science (Statistics)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Statistical Process Control",
+        "subjectType": "Practical",
+        "course": "Master of Science (Statistics)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "charulata@somaiya.edu",
+    "firstName": "Ms. Charulata",
+    "middleName": "Anil",
+    "lastName": "Avhad",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subjects": "Linear Models ",
+        "subjectType": "Theory",
+        "course": "Master of Science (Statistics)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Linear Models ",
+        "subjectType": "Practical",
+        "course": "Master of Science (Statistics)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Statistical Computing using R and Python",
+        "subjectType": "Theory",
+        "course": "Master of Science (Statistics)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Statistical Computing using R and Python",
+        "subjectType": "Practical",
+        "course": "Master of Science (Statistics)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Research Methodology I",
+        "subjectType": "Theory",
+        "course": "Master of Science (Statistics)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Stochastic Processes",
+        "subjectType": "Theory",
+        "course": "Master of Science (Statistics)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Stochastic Processes",
+        "subjectType": "Practical",
+        "course": "Master of Science (Statistics)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "mrg@somaiya.edu",
+    "firstName": "Ms. Manisha",
+    "middleName": "Rajesh",
+    "lastName": "Gupta",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subjects": "Sampling Techniques",
+        "subjectType": "Theory",
+        "course": "Master of Science (Statistics)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Sampling Techniques",
+        "subjectType": "Practical",
+        "course": "Master of Science (Statistics)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "SAS",
+        "subjectType": "Theory",
+        "course": "Master of Science (Statistics)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "SAS",
+        "subjectType": "Practical",
+        "course": "Master of Science (Statistics)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Biostatistics",
+        "subjectType": "Theory",
+        "course": "Master of Science (Statistics)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Biostatistics",
+        "subjectType": "Practical",
+        "course": "Master of Science (Statistics)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "vandana.jamdar@somaiya.edu",
+    "firstName": "Dr. Vandana",
+    "middleName": "Sahayog",
+    "lastName": "Jamdar",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 3,
+        "subjects": "Adhesives & Sealants",
+        "subjectType": "Theory",
+        "course": "Master of Science (Polymer Science)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Bio-derived_ Biodegradable and Compostable Polymers",
+        "subjectType": "Theory",
+        "course": "Master of Science (Polymer Science)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Polymer Lab -III ",
+        "subjectType": "Practical",
+        "course": "Master of Science (Polymer Science)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "soumyadeb@somaiya.edu",
+    "firstName": "Prof. Soumydeb",
+    "middleName": "Ghosh",
+    "lastName": " ",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 3,
+        "subjects": "Rubber & Elastomers",
+        "subjectType": "Theory",
+        "course": "Master of Science (Polymer Science)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Case Study of the Development of an Industrial Polymer: New Composition_ Process or Applications",
+        "subjectType": "Tutorial",
+        "course": "Master of Science (Polymer Science)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "avadhani@somaiya.edu",
+    "firstName": "Dr. C",
+    "middleName": "Ver",
+    "lastName": "Avadhani",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 3,
+        "subjects": "Rubber & Elastomers",
+        "subjectType": "Theory",
+        "course": "Master of Science (Polymer Science)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Polymer Lab-III",
+        "subjectType": "Practical",
+        "course": "Master of Science (Polymer Science)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "vaijayanti.g@somaiya.edu",
+    "firstName": "Dr. Vaijayanti",
+    "middleName": "Jitesh",
+    "lastName": "Amdoskar",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 3,
+        "subjects": "Structure and Properties of Natural and Biologically Derived Polymers: Cellulose_ proteins_ peptides_ polysaccharides_ supramolecular structures ",
+        "subjectType": "Theory",
+        "course": "Master of Science (Polymer Science)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Polymers for Application in Energy Generation and Energy Storage.",
+        "subjectType": "Theory",
+        "course": "Master of Science (Polymer Science)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Polymer Lab-III",
+        "subjectType": "Practical",
+        "course": "Master of Science (Polymer Science)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "mukesh.sgupta@somaiya.edu",
+    "firstName": "Mr. Mukesh",
+    "middleName": "Shankar",
+    "lastName": "Gupta",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subjects": "Computer Organisation and Architecture",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Information Technology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Core Java",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Information Technology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Core Java",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Information Technology)",
+        "batch": 2
+      },
+      {
+        "semester": 3,
+        "subjects": "Core Java",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Information Technology)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "ppa@somaiya.edu",
+    "firstName": "Ms. Pradnya",
+    "middleName": "Pramod",
+    "lastName": "Ahire",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subjects": "Object Oriented and Programming with C++",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Information Technology)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Object Oriented and Programming with C++",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Information Technology)",
+        "batch": 2
+      },
+      {
+        "semester": 5,
+        "subjects": "Artificial Intelligence",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Information Technology) Honour",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Artificial Intelligence",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Information Technology) Honour",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Artificial Intelligence",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Information Technology)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Artificial Intelligence",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Information Technology)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "anushree.pn@somaiya.edu",
+    "firstName": "Ms. Anushree",
+    "middleName": "Pansare",
+    "lastName": "Nandgaonkar",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 3,
+        "subjects": "Data structure",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Information Technology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Data structure",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Information Technology)",
+        "batch": 2
+      },
+      {
+        "semester": 3,
+        "subjects": "Data structure",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Information Technology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Data structure",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Information Technology)",
+        "batch": 2
+      },
+      {
+        "semester": 3,
+        "subjects": "Data structure",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Information Technology)",
+        "batch": 3
+      },
+      {
+        "semester": 3,
+        "subjects": "Mobile Programming",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Information Technology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Mobile Programming",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Information Technology)",
+        "batch": 2
+      },
+      {
+        "semester": 5,
+        "subjects": "Design Thinking",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Information Technology) Honour",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "prajakta.k@somaiya.edu",
+    "firstName": "Ms. Prajakta",
+    "middleName": "Swapnil",
+    "lastName": "Kamble",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 3,
+        "subjects": "Operating System",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Information Technology)",
+        "batch": 1
+      },
+      {
+        "semester": 3,
+        "subjects": "Operating System",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Information Technology)",
+        "batch": 2
+      },
+      {
+        "semester": 5,
+        "subjects": "Security in Computing",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Information Technology) Honour",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Security in Computing",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Information Technology)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Security in Computing",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Information Technology)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "mousmi@somaiya.edu",
+    "firstName": "Ms. Mousmi",
+    "middleName": "Vijay",
+    "lastName": "Pawar",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 5,
+        "subjects": "Web Services",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Information Technology) Honour",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Web Services",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Information Technology) Honour",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Web Services",
+        "subjectType": "Theory",
+        "course": "Bachelor of Science (Information Technology)",
+        "batch": 1
+      },
+      {
+        "semester": 5,
+        "subjects": "Web Services",
+        "subjectType": "Practical",
+        "course": "Bachelor of Science (Information Technology)",
+        "batch": 1
+      }
+    ]
+  },
+  {
+    "email": "asmita.jadhav@somaiya.edu",
+    "firstName": "Dr. Asmita",
+    "middleName": "S",
+    "lastName": "Jadhav",
+    "isActive": "true",
+    "visitingFaculty": "false",
+    "selectQuery": [
+      {
+        "semester": 1,
+        "subjects": "Pollution Control Technologies",
+        "subjectType": "Theory",
+        "course": "Master of Science (Environmental Studies)",
+        "batch": 1
+      },
+      {
+        "semester": 1,
+        "subjects": "Introduction to Environmental Monitoring",
+        "subjectType": "Practical",
+        "course": "Master of Science (Environmental Studies)",
+        "batch": 1
+      }
+    ]
+  }
+]

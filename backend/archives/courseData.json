@@ -1,0 +1,1977 @@
+[
+      {
+        "courseName": "Bachelor of Commerce Accounting & Finance",
+        "semester": 1,
+        "subjects": [
+          "Financial Accounting I",
+          "Cost Accounting I",
+          "Fundamentals of Economics",
+          "Corporate Finance I",
+          "Statistical Techniques and Logical Reasoning",
+          "Professional Communication Skill - I",
+          "Constitution & Public Policy"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Commerce Accounting & Finance",
+        "semester": 2,
+        "subjects": [
+          "Financial Accounting II",
+          "Management Accounting I",
+          "Business Law",
+          "Corporate Finance II",
+          "Computer Applications (Data Management using Spreadsheets and Tally ERP)",
+          "Professional Communication Skill - II",
+          "Environmental Studies & Sustainability"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Commerce Accounting & Finance",
+        "semester": 3,
+        "subjects": [
+          "Corporate Accounting – I",
+          "Direct Tax – I",
+          "Business Law",
+          "Auditing Techniques",
+          "Financial Management – I",
+          "Financial Market Operation",
+          "Principles and Practices of Banking",
+          "Statistical Techniques"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Commerce Accounting & Finance",
+        "semester": 4,
+        "subjects": [
+          "Corporate Accounting – II",
+          "Indirect Tax – I",
+          "Corporate and Allied Laws",
+          "Auditing & Auditing Assurance",
+          "International Finance",
+          "Management Theories & Application",
+          "Wealth Management",
+          "Information Technology in Accounting"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Commerce Accounting & Finance",
+        "semester": 5,
+        "subjects": [
+          "Corporate Accounting – III",
+          "Direct Tax – II",
+          "Cost and Management Accounting III",
+          "Financial Management – II",
+          "Business Ethics and Corporate Social Responsibility",
+          "Introduction to Financial System and Financial Services",
+          "Strategic Management",
+          "Research Methodology"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Commerce Accounting & Finance",
+        "semester": 6,
+        "subjects": [
+          "Advanced Accounting",
+          "Advanced Costing Techniques",
+          "Indirect Tax – II",
+          "Financial Management – III",
+          "Security Analysis and Portfolio Management",
+          "Risk Management",
+          "Financial Analysis and Business Valuation",
+          "Project Work"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Commerce Banking & Finance",
+        "semester": 1,
+        "subjects": [
+          "Banking & Financial Services",
+          "Managerial Economics",
+          "Financial Accounting",
+          "Quantitative Methods - I",
+          "Professional Communication Skill - I",
+          "Constitution & Public Policy"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Commerce Banking & Finance",
+        "semester": 2,
+        "subjects": [
+          "Financial Market & Institution",
+          "Macro Economics",
+          "Organizational Behaviour",
+          "Quantitative Methods - II",
+          "Professional Communication - II",
+          "Environmental Studies & Sustainability"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Commerce Banking & Finance",
+        "semester": 3,
+        "subjects": [
+          "Financial Markets and Institutions",
+          "Organisational Behaviour",
+          "Legal and Regulatory Aspects of Banking",
+          "Corporate Banking",
+          "Strategic Corporate Finance",
+          "Direct Taxation I",
+          "Mutual Fund Management",
+          "Digital Banking"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Commerce Banking & Finance",
+        "semester": 4,
+        "subjects": [
+          "Accounting and Finance for Bankers",
+          "Business Ethics & Corporate Governance",
+          "Business Economics",
+          "Retail Banking",
+          "Financial Management",
+          "Indirect Taxation",
+          "Entrepreneurship Management",
+          "E-Commerce"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Commerce Banking & Finance",
+        "semester": 5,
+        "subjects": [
+          "International Banking & Finance",
+          "Credit Management",
+          "Marketing of Financial Services",
+          "Management Accounting",
+          "Forensic Accounting and Fraud Examination",
+          "Treasury Management",
+          "Rural Banking",
+          "Research Methodology"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Commerce Banking & Finance",
+        "semester": 6,
+        "subjects": [
+          "Non-Banking Financial Companies",
+          "Central Banking and Monetary Policy",
+          "Technical Analysis",
+          "Financial Planning and Investment",
+          "Cyber Crimes and IT Laws (with special reference to Banking)",
+          "Risk Management in Banks",
+          "Cooperative Banking in India",
+          "Project In Banking & Finance"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Business Administration",
+        "semester": 1,
+        "subjects": [
+          "Goods & Services Marketing",
+          "Advertising",
+          "Corporate Accounting",
+          "Financial Markets and Services",
+          "Human Resource Management",
+          "Organisational Behaviour",
+          "French",
+          "German",
+          "Italian",
+          "Spanish",
+          "Management & Communication Skills",
+          "Fundamental of Technical Skills",
+          "Business Economics",
+          "Constitution & Public Policy"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Business Administration",
+        "semester": 2,
+        "subjects": [
+          "Rural Marketing",
+          "Retail Marketing",
+          "Cost Accounting",
+          "Corporate Finance",
+          "Negotiations and Conflict Management",
+          "Training and Development",
+          "French",
+          "German",
+          "Italian",
+          "Spanish",
+          "Business and Professional Skills",
+          "Mathematics & Statistical Techniques",
+          "Business Law",
+          "Environmental Studies & Sustainability"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Business Administration",
+        "semester": 3,
+        "subjects": [
+          "Business Management and Organisational Behaviour",
+          "Business Research Methods",
+          "Management Information System",
+          "French",
+          "German",
+          "Mandarin",
+          "Environmental Studies and Sustainable Management",
+          "Marketing",
+          "Strategic Brand Management",
+          "Customer Relationship Management",
+          "Finance",
+          "Strategic Financial Management",
+          "Risk Management",
+          "Human Resource",
+          "Strategic HRM",
+          "Human Resource Development"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Business Administration",
+        "semester": 4,
+        "subjects": [
+          "Strategic Management",
+          "Operational Research",
+          "Banking Regulations and Operations",
+          "French",
+          "German",
+          "Mandarin",
+          "Leadership, Ethics and CSR",
+          "Marketing",
+          "Consumer Behaviour and Consumer Insights",
+          "Media Management",
+          "Finance",
+          "Cost Accounting",
+          "Commodity and Derivatives Market",
+          "Human Resource",
+          "Talent Management and Competency Mapping",
+          "Finance For HR Professionals"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Business Administration",
+        "semester": 5,
+        "subjects": [
+          "Logistics and supply chain management",
+          "Entrepreneurship Management and Business Planning",
+          "French",
+          "German",
+          "Mandarin",
+          "Finance 4.0",
+          "Event management",
+          "Marketing 4.0",
+          "Internship based research project",
+          "Marketing",
+          "Retail Management",
+          "Sales and Distribution Management",
+          "Finance",
+          "Strategic cost management",
+          "Direct Tax",
+          "Human Resource",
+          "HR Accounting and Audit",
+          "Performance Management and Career Planning"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Business Administration",
+        "semester": 6,
+        "subjects": [
+          "Corporate Etiquettes and Image Management",
+          "Business Analytics",
+          "French",
+          "German",
+          "Mandarin",
+          "Finance 4.0",
+          "Event management",
+          "Marketing 4.0",
+          "Marketing",
+          "International Marketing",
+          "E-commerce & Digital Marketing",
+          "Finance",
+          "Advanced Financial Accounting",
+          "Indirect Tax",
+          "Human Resource",
+          "Global HR and Workforce Diversity",
+          "Stress Management"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Business Management",
+        "semester": 1,
+        "subjects": [
+          "Principles of Marketing",
+          "Corporate Accounting",
+          "Technical Skills for Business",
+          "Business Economics",
+          "Professional Communication Skill - I",
+          "Constitution & Public Policy"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Business Management",
+        "semester": 2,
+        "subjects": [
+          "Business Environment Management",
+          "Cost Accounting",
+          "Mathematics & Statistical Techniques",
+          "Business Law",
+          "Professional Communication Skill - II",
+          "Environmental Studies & Sustainability"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Business Management",
+        "semester": 3,
+        "subjects": [
+          "Organizational Behavior and Human Resource Management",
+          "Indian Economy",
+          "Export Import Procedure and Documentation",
+          "IT In Management",
+          "Management Accounting",
+          "Introduction to Financial Markets",
+          "Advertising and Sales",
+          "Rural Marketing"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Business Management",
+        "semester": 4,
+        "subjects": [
+          "Strategic Management",
+          "Venture Development and Entrepreneurship Management",
+          "Research Methodology",
+          "Corporate Communication",
+          "Strategic Cost Management",
+          "Financial Management",
+          "Brand Management",
+          "Consumer Behaviour"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Business Management",
+        "semester": 5,
+        "subjects": [
+          "Logistics and supply chain management",
+          "Internship based research project",
+          "Direct Tax",
+          "Strategic Financial Management",
+          "Risk Management",
+          "Portfolio Management",
+          "Service Marketing",
+          "Media Planning and Management",
+          "Tourism Marketing",
+          "Customer Relationship Management"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Business Management",
+        "semester": 6,
+        "subjects": [
+          "Operations Research",
+          "Event Management",
+          "Indirect taxation",
+          "Advanced financial accounting",
+          "Technical Analysis of financial markets",
+          "Commodity and Derivatives",
+          "International Marketing",
+          "E-Commerce and Digital Marketing",
+          "Retail Management",
+          "Sports Marketing"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Commerce (Specialization in Data Science)",
+        "semester": 1,
+        "subjects": [
+          "Python - I",
+          "Principles of Banking",
+          "I.T.",
+          "Fundamental of Economics",
+          "Professional Communication Skill - I",
+          "Constitution & Public Policy"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Commerce (Specialization in Data Science)",
+        "semester": 2,
+        "subjects": [
+          "Python - II",
+          "Financial management",
+          "Statistics",
+          "Business Law I",
+          "Business Writing and Communication",
+          "Environmental Studies & Sustainability"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Commerce (Specialization in Data Science)",
+        "semester": 3,
+        "subjects": [
+          "Organization Structure",
+          "Financial Accounting – III",
+          "Company Law",
+          "Financial Management – I",
+          "Fundamentals of OB and HR",
+          "Information Technology in Accountancy - I",
+          "Business Statistics – I (Compulsory)"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Commerce (Specialization in Data Science)",
+        "semester": 4,
+        "subjects": [
+          "Corporate Culture and Ethics",
+          "Financial Accounting - IV",
+          "Auditing",
+          "Financial Management - II",
+          "Principles and practices of Banking",
+          "Information Technology in Accountancy – II",
+          "Business Statistics – II (Compulsory)"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Commerce (Specialization in Data Science)",
+        "semester": 5,
+        "subjects": [
+          "Direct Taxation",
+          "Financial Accounting – V",
+          "Cost Accounting - I",
+          "Advanced auditing",
+          "International finance",
+          "Portfolio management",
+          "Sales and distribution management",
+          "International marketing",
+          "Customer relationship management"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Commerce (Specialization in Data Science)",
+        "semester": 6,
+        "subjects": [
+          "Management Accounting",
+          "Financial Accounting - VI",
+          "Indirect Tax",
+          "Advanced income tax",
+          "Financial modelling",
+          "Cost accounting – II",
+          "International business management",
+          "E -commerce management",
+          "Rural marketing"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Commerce Financial Markets",
+        "semester": 1,
+        "subjects": [
+          "Introduction to Financial Markets",
+          "Corporate Accounting",
+          "Fundamentals of Economics",
+          "Statistical Techniques and Logical Reasoning",
+          "Professional Communication Skill - I",
+          "Constitution & Public Policy"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Commerce Financial Markets",
+        "semester": 2,
+        "subjects": [
+          "Financial Services",
+          "Management Accounting",
+          "Business Law",
+          "Computer Applications (Data Management using Spreadsheets and Tally ERP)",
+          "Professional Communication Skill - II",
+          "Environmental Studies & Sustainability"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Commerce Financial Markets",
+        "semester": 3,
+        "subjects": [
+          "Management Theories and Application",
+          "Equity Market – I",
+          "Debt Market",
+          "Corporate and Security law",
+          "Commodity Market",
+          "Corporate Finance",
+          "Personal Financial Planning",
+          "Statistical Techniques"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Commerce Financial Markets",
+        "semester": 4,
+        "subjects": [
+          "Investment Analysis and Portfolio Management",
+          "Equity Market - II (Valuation & Research)",
+          "Fixed Income Securities",
+          "Investment Banking",
+          "Foreign Exchange Market",
+          "International Finance",
+          "Global Capital Market",
+          "Computers for Investment"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Commerce Financial Markets",
+        "semester": 5,
+        "subjects": [
+          "Derivative Market",
+          "Introduction to Fintech",
+          "Technical Analysis",
+          "Direct Taxation",
+          "Forensic Accounting and Fraud Examination",
+          "Banking and Insurance Operations",
+          "Marketing in Financial Service",
+          "Research Methodology"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Commerce Financial Markets",
+        "semester": 6,
+        "subjects": [
+          "Risk Management",
+          "Behavioural Finance",
+          "Mutual Fund",
+          "Indirect Tax-GST",
+          "Venture Capital and Private Equity",
+          "Anti Money Laundering",
+          "Corporate Restructuring",
+          "Project"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Arts (Mass Communication & Journalism)",
+        "semester": 1,
+        "subjects": [
+          "Fundamentals of Mass Communication",
+          "Contemporary Issues",
+          "Visual Communications",
+          "Language Skills for Media",
+          "Professional Communication Skill - I",
+          "Constitution & Public Policy"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Arts (Mass Communication & Journalism)",
+        "semester": 2,
+        "subjects": [
+          "Introduction to Journalism",
+          "Introduction to Advertising and Marketing",
+          "Computer Application in Media",
+          "Theatre & Folk Media",
+          "Professional Communication Skill - II",
+          "Environmental Studies & Sustainability"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Arts (Mass Communication & Journalism)",
+        "semester": 3,
+        "subjects": [
+          "Public Relations and Corporate Communication",
+          "Ethics, Constitution and the Law",
+          "Introduction to literary criticism",
+          "Film Analysis",
+          "Writing Skills",
+          "Introduction to Photography"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Arts (Mass Communication & Journalism)",
+        "semester": 4,
+        "subjects": [
+          "Research Methodology and Methods",
+          "Event Management and Marketing",
+          "Globalization and Media Economics",
+          "Introduction to Radio and Television Studies",
+          "News Processing and Editing",
+          "Film making and Production"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Arts (Mass Communication & Journalism)",
+        "semester": 5,
+        "subjects": [
+          "Digital Media",
+          "Professional Ethics",
+          "Digital Media",
+          "Professional Ethics",
+          "Media Planning & Buying",
+          "Consumer Behavior",
+          "Brand Management",
+          "Advertising Design",
+          "Data Journalism",
+          "Photojournalism",
+          "Business Journalism",
+          "Newspaper and Magazine Making"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Arts (Mass Communication & Journalism)",
+        "semester": 6,
+        "subjects": [
+          "Copywriting",
+          "Advertising and Marketing Research",
+          "Communication for Development",
+          "International Communication",
+          "Entrepreneurship Management",
+          "Agency Management",
+          "Integrated Marketing Communication",
+          "Internship/Incubation",
+          "Broadcast Journalism",
+          "Journalism & Public Opinion",
+          "Investigative Journalism",
+          "Internship/Incubation"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Science Biotechnology",
+        "semester": 1,
+        "subjects": [
+          "Biochemistry-I",
+          "Cell biology I",
+          "Chemistry I",
+          "Microbiology I",
+          "Professional Communication Skill - I",
+          "Constitution & Public Policy"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Science Biotechnology",
+        "semester": 2,
+        "subjects": [
+          "Biochemistry-II",
+          "Cell biology-II",
+          "Chemistry II",
+          "Microbiology II",
+          "Professional Communication Skill - II",
+          "Environmental Studies & Sustainability"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Science Biotechnology",
+        "semester": 3,
+        "subjects": [
+          "Metabolism-I",
+          "Molecular biology and Genetics",
+          "Bioanalytical techniques",
+          "Tissue culture",
+          "Enzymology",
+          "Research methodology",
+          "Clinical research and data management",
+          "Safety, GLP, GMP and QC",
+          "Introductory physics for life scientists",
+          "Introductory mathematics for life scientists",
+          "Introductory chemistry for life scientists",
+          "Intermediate mathematics for life scientists",
+          "Intermediate chemistry for life scientists",
+          "Plant and Animal Physiology",
+          "Python for Biologists"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Science Biotechnology",
+        "semester": 4,
+        "subjects": [
+          "Biostatistics & Bioinformatics",
+          "Cellular Organization & function",
+          "Immunology and Virology",
+          "Tissue culture",
+          "Enzymology",
+          "Research methodology",
+          "Clinical research and data management",
+          "Safety, GLP, GMP and QC",
+          "Introductory physics for life scientists",
+          "Introductory mathematics for life scientists",
+          "Introductory chemistry for life scientists",
+          "Intermediate mathematics for life scientists",
+          "Intermediate chemistry for life scientists",
+          "Plant and Animal Physiology",
+          "Python for Biologists"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Science Biotechnology",
+        "semester": 5,
+        "subjects": [
+          "Bioprocess technology",
+          "Recombinant DNA technology",
+          "Plant, Agriculture and Animal Biotechnology",
+          "Food Biotechnology",
+          "Ecology",
+          "Research Project"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Science Biotechnology",
+        "semester": 6,
+        "subjects": [
+          "Metabolism–II",
+          "Medical biotechnology",
+          "Environmental Biotechnology",
+          "Marine Biotechnology",
+          "Bioprocess engineering and modelling",
+          "Research Project"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Computer Applications",
+        "semester": 1,
+        "subjects": [
+          "Principles of Algorithms & Programming",
+          "Digital Computer Fundamentals",
+          "Discrete Structures",
+          "Professional Communication Skill - I",
+          "Constitution & Public Policy",
+          "Organizational Behaviour",
+          "Engineering Graphics"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Computer Applications",
+        "semester": 2,
+        "subjects": [
+          "OOP using Java",
+          "Web Design and Development",
+          "Optimization Techniques",
+          "Business Writing and Communication",
+          "Professional Communication Skills II",
+          "Environmental Studies",
+          "Computer Animation",
+          "Digital Citizenship"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Computer Applications",
+        "semester": 3,
+        "subjects": [
+          "Database Management System",
+          "Operating Systems",
+          "Elements of Statistics",
+          "Python Programming",
+          "Computerized Accounting",
+          "Virtual Reality",
+          "Arduino Programming"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Computer Applications",
+        "semester": 4,
+        "subjects": [
+          "Computer Networking",
+          "Advanced Web Programming",
+          "Software Engineering",
+          "Mobile Programming",
+          "Digital Marketing",
+          "UI/UX",
+          "Robotics"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Computer Applications",
+        "semester": 5,
+        "subjects": [
+          "Software Project Management",
+          "Artificial Intelligence and Machine Learning",
+          "MERN Stack",
+          "Geospatial Technologies",
+          "Internet of Things",
+          "Cloud Computing"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Computer Applications",
+        "semester": 6,
+        "subjects": [
+          "Information Security",
+          "Python for Data Science",
+          "Project Implementation",
+          "Ethical Hacking",
+          "Advanced JAVA",
+          "Linux Administration"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Science Computer Science",
+        "semester": 1,
+        "subjects": [
+          "Introduction to Python Programming",
+          "Database System",
+          "Business Writing and Communication",
+          "Computer Network",
+          "Descriptive Statistics",
+          "Environmental Studies and Sustainability"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Science Computer Science",
+        "semester": 2,
+        "subjects": [
+          "Introduction to Python Programming",
+          "Database System",
+          "Business Writing and Communication",
+          "Computer Network",
+          "Descriptive Statistics",
+          "Environmental Studies and Sustainability"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Science Computer Science (Honours)",
+        "semester": 1,
+        "subjects": [
+          "Modern Computer Architecture",
+          "Algorithms using C",
+          "Fundamental of Open Source",
+          "Discrete Mathematics",
+          "Business Communication",
+          "Web Programming using HTML & CSS",
+          "Law in Computing"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Science Computer Science (Honours)",
+        "semester": 2,
+        "subjects": [
+          "Database Systems and Design",
+          "Object oriented Programming with Python",
+          "Operating System",
+          "Descriptive Statistics",
+          "Environmental Studies",
+          "Analytical Skill Development",
+          "Digital Logic Electronics"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Science Computer Science (Honours)",
+        "semester": 3,
+        "subjects": [
+          "Computer Network",
+          "Core Java",
+          "Data Structures",
+          "Probability Distribution Statistics",
+          "Mobile App Development",
+          "Data Visualization using Excel and Tableau",
+          "Multimedia and Animation"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Science Computer Science (Honours)",
+        "semester": 4,
+        "subjects": [
+          "Software Engineering",
+          "Advanced Java Programming",
+          "Internet of Things",
+          "Theory of Computing",
+          ".Net Technologies",
+          "Technical Communication",
+          "R Programming"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Science Computer Science (Honours)",
+        "semester": 5,
+        "subjects": [
+          "PL/SQL and NoSQL Databases",
+          "Software Testing and Quality Assurance",
+          "Artificial Intelligence",
+          "Information and Network Security",
+          "Data Mining and adaptive Business Intelligence",
+          "Digital Image Processing",
+          "Data Visualization and Analysis in Python",
+          "Geospatial Information System"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Science Computer Science (Honours)",
+        "semester": 6,
+        "subjects": [
+          "Linux server Administrator",
+          "Web Services",
+          "Cloud Computing",
+          "Ethical Hacking",
+          "Data Science",
+          "AR and VR",
+          "Project"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Science Information Technology",
+        "semester": 1,
+        "subjects": [
+          "Computer Organisation and Architecture",
+          "Object Oriented Concept using C++",
+          "Discrete Mathematics",
+          "Web Technology",
+          "Professional Communication Skill - I",
+          "Constitution & Public Policy"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Science Information Technology",
+        "semester": 2,
+        "subjects": [
+          "Database Management System",
+          "Programming with Python",
+          "Numerical and Statistical Methods",
+          "Advanced Web Technology",
+          "Business Writing and Communication",
+          "Environmental Studies & Sustainability"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Science Information Technology",
+        "semester": 3,
+        "subjects": [
+          "Applied Mathematics",
+          "Data Structures",
+          "Operating System",
+          "Advanced Java",
+          "Python Programming",
+          "Embedded System",
+          "UI/UX"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Science Information Technology",
+        "semester": 4,
+        "subjects": [
+          "Software Engineering",
+          "Computer Network",
+          "ADBMS",
+          ".Net Technologies",
+          "Android Programming",
+          "Internet of Things",
+          "Digital Marketing"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Science Information Technology",
+        "semester": 5,
+        "subjects": [
+          "Software Testing",
+          "Artificial Intelligence",
+          "Web Services",
+          "Security in Computing",
+          "Design Thinking",
+          "Next Gen Databases",
+          "Ethical Hacking"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Science Information Technology",
+        "semester": 6,
+        "subjects": [
+          "Linux Administration",
+          "Cloud Computing",
+          "Business Intelligence",
+          "Project",
+          "Cyber Forensics",
+          "Data Science"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Science Information Technology (Honours)",
+        "semester": 1,
+        "subjects": [
+          "Computer Organisation and Architecture",
+          "Object Oriented Concept using C++",
+          "Discrete Mathematics",
+          "Web Technology",
+          "Professional Communication Skill - I",
+          "Constitution & Public Policy"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Science Information Technology (Honours)",
+        "semester": 2,
+        "subjects": [
+          "Database Management System",
+          "Programming with Python",
+          "Numerical and Statistical Methods",
+          "Advanced Web Technology",
+          "Business Writing and Communication",
+          "Environmental Studies & Sustainability"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Science Information Technology (Honours)",
+        "semester": 3,
+        "subjects": [
+          "Applied Mathematics",
+          "Data Structures",
+          "Operating System",
+          "Advanced Java",
+          "Python Programming",
+          "Embedded System",
+          "UI/UX"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Science Information Technology (Honours)",
+        "semester": 4,
+        "subjects": [
+          "Software Engineering",
+          "Computer Network",
+          "ADBMS",
+          ".Net Technologies",
+          "Android Programming",
+          "Data Visualization with R",
+          "Internet of Things",
+          "Digital Marketing"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Science Information Technology (Honours)",
+        "semester": 5,
+        "subjects": [
+          "Software Testing",
+          "Artificial Intelligence",
+          "Web Services",
+          "Security in Computing",
+          "Design Thinking",
+          "Next Gen Databases",
+          "Ethical Hacking"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Science Information Technology (Honours)",
+        "semester": 6,
+        "subjects": [
+          "Linux Administration",
+          "Cloud Computing",
+          "Business Intelligence",
+          "Advanced Computer Network",
+          "Project",
+          "Cyber Forensics",
+          "Data Science"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Science Data Science",
+        "semester": 1,
+        "subjects": [
+          "Probability Theory",
+          "Combinatorics",
+          "Linear Algebra",
+          "Introduction to programming through Python",
+          "Business Communication",
+          "Web Programming",
+          "IT Laws and IPR"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Science Data Science",
+        "semester": 2,
+        "subjects": [
+          "Foundations of Descriptive Statistics",
+          "Calculus",
+          "Data Analysis and visualization",
+          "Database concepts",
+          "Environmental Studies",
+          "Analytical Skill Development",
+          "Digital Logic Electronics"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Science Data Science",
+        "semester": 3,
+        "subjects": [
+          "Graph Theory - Tree and Graphs",
+          "Introduction to Data Science",
+          "Computational Intelligence",
+          "Oracle PL/SQL",
+          "Information Security"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Science Data Science",
+        "semester": 4,
+        "subjects": [
+          "Inferential Statistics",
+          "Bioinformatics",
+          "Data Structure using Python",
+          "Data Warehouse and Data Mining",
+          "Data Visualization Using Tableau"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Science Data Science",
+        "semester": 5,
+        "subjects": [
+          "Software Model Designing",
+          "Supervised and Unsupervised Machine Learning",
+          "Big Data Analytics",
+          "High Dimensional Data Analysis",
+          "Image Analytics"
+        ]
+      },
+      {
+        "courseName": "Bachelor of Science Data Science",
+        "semester": 6,
+        "subjects": [
+          "Neural Network and Deep Learning",
+          "Cyber Forensic Analytics",
+          "Natural Language Processing",
+          "Digital Marketing Analytics",
+          "Project"
+        ]
+      },
+      {
+        "courseName": "Integrated Bachelor of Science-Master of Science",
+        "semester": 1,
+        "subjects": [
+          "Single Variable Calculus",
+          "Foundations of Classical Physics",
+          "Physics Laboratory-I",
+          "Foundation Course in Chemistry-I",
+          "Introductory Chemistry Laboratory -I",
+          "Introductory Biology",
+          "Introductory Biology Laboratory",
+          "Professional Communication Skill",
+          "Research Methodology",
+          "Constitution and Public Policy",
+          "Python",
+          "Science, Scientific Research & Development: Perspectives"
+        ]
+      },
+      {
+        "courseName": "Integrated Bachelor of Science-Master of Science",
+        "semester": 2,
+        "subjects": [
+          "Introduction to linear Algebra",
+          "Foundations of Modern Physics",
+          "Physics Laboratory-II",
+          "Foundation Course in Chemistry-II",
+          "Introductory Chemistry Laboratory-II",
+          "Chemistry of Life",
+          "Chemistry of Life Laboratory",
+          "Business writing and communication",
+          "Computational Sciences & Simulations 1",
+          "Environmental Studies and Sustainability",
+          "Computational Sciences & Simulations 1"
+        ]
+      },
+      {
+        "courseName": "Master of Commerce Accounting & Finance",
+        "semester": 1,
+        "subjects": [
+          "Advanced Accounting",
+          "Advanced Research Methodology",
+          "Direct Tax",
+          "Operations Research",
+          "Financial Derivatives"
+        ]
+      },
+      {
+        "courseName": "Master of Commerce Accounting & Finance",
+        "semester": 2,
+        "subjects": [
+          "Corporate Restructuring",
+          "Corporate and Allied Laws",
+          "Indirect Tax",
+          "International Economics",
+          "Information System Audit"
+        ]
+      },
+      {
+        "courseName": "Master of Commerce Accounting & Finance",
+        "semester": 3,
+        "subjects": [
+          "Advanced Financial Management and Costing",
+          "Financial Modelling",
+          "Research Methodology",
+          "International Taxation",
+          "Fundamental & Technical Analysis",
+          "Advanced Auditing"
+        ]
+      },
+      {
+        "courseName": "Master of Commerce Accounting & Finance",
+        "semester": 4,
+        "subjects": [
+          "Financial Reporting and Analysis",
+          "Project",
+          "Transfer Pricing",
+          "Introduction to Fintech",
+          "Cost and Management Audit"
+        ]
+      },
+      {
+        "courseName": "Master of Commerce Banking & Finance",
+        "semester": 1,
+        "subjects": [
+          "Economics for Business Decision",
+          "Strategic Management",
+          "Non- Banking Financial Companies (NBFCs)",
+          "Data Management using Spreadsheets",
+          "Advanced Research Methodology",
+          "Research Statistical Analysis"
+        ]
+      },
+      {
+        "courseName": "Master of Commerce Banking & Finance",
+        "semester": 2,
+        "subjects": [
+          "Business Finance",
+          "Business Ethics and Corporate Social Responsibility",
+          "Credit Management",
+          "Banking Laws and Practices",
+          "Financial Modeling",
+          "Certificate Course/Seminar/Conference Participation"
+        ]
+      },
+      {
+        "courseName": "Master of Commerce Banking & Finance",
+        "semester": 3,
+        "subjects": [
+          "Business Ethics and Corporate Social Responsibility",
+          "Banking Laws and Practices",
+          "Commercial Bank Management",
+          "Marketing of Financial Services",
+          "Investment Analysis and Equity Research",
+          "Introduction to FinTech",
+          "Open Elective/ Participation in Conference"
+        ]
+      },
+      {
+        "courseName": "Master of Commerce Banking & Finance",
+        "semester": 4,
+        "subjects": [
+          "Strategic Financial Management",
+          "Credit Management",
+          "International Finance",
+          "Financial Derivatives and Risk Management",
+          "Accounting and Auditing of Banking",
+          "Project Work"
+        ]
+      },
+      {
+        "courseName": "Master of Commerce Business Management",
+        "semester": 1,
+        "subjects": [
+          "Economics",
+          "Corporate Governance",
+          "Banking and Financial services",
+          "Marketing - I",
+          "Open course - I",
+          "Open course - II"
+        ]
+      },
+      {
+        "courseName": "Master of Commerce Business Management",
+        "semester": 2,
+        "subjects": [
+          "Entrepreneurship management",
+          "IPR",
+          "Business Research Methods",
+          "HR & IR",
+          "Open course - III",
+          "Open course - IV"
+        ]
+      },
+      {
+        "courseName": "Master of Commerce Business Management",
+        "semester": 3,
+        "subjects": [
+          "Strategic Management",
+          "Talent Management",
+          "Capital Market",
+          "Business Research Methods",
+          "Logistics and SCM",
+          "International Marketing"
+        ]
+      },
+      {
+        "courseName": "Master of Commerce Business Management",
+        "semester": 4,
+        "subjects": [
+          "Banking and Financial Services",
+          "Regulation of Banking and Financial Services",
+          "Project",
+          "International Business Management",
+          "Rural Marketing"
+        ]
+      },
+      {
+        "courseName": "Master of Arts Communication & Journalism",
+        "semester": 1,
+        "subjects": [
+          "Principles and Theories of Communication",
+          "Global Media: Challenges and Perspective",
+          "Communication for Development",
+          "News Reporting & Writing",
+          "Print Journalism Practical/ Open Course"
+        ]
+      },
+      {
+        "courseName": "Master of Arts Communication & Journalism",
+        "semester": 2,
+        "subjects": [
+          "Mass Media Research",
+          "Environmental Communication",
+          "Ethics & Media Laws",
+          "News Processing Editing & Presentation",
+          "Broadcast Journalism Practical/ Open Course"
+        ]
+      },
+      {
+        "courseName": "Master of Arts Communication & Journalism",
+        "semester": 3,
+        "subjects": [
+          "Media Criticism",
+          "International Communication",
+          "Indian Philosophy and Media",
+          "Photo Journalism",
+          "Content Creation for Media Production",
+          "Data Journalism"
+        ]
+      },
+      {
+        "courseName": "Master of Arts Communication & Journalism",
+        "semester": 4,
+        "subjects": [
+          "Communication Research",
+          "Dissertation"
+        ]
+      },
+      {
+        "courseName": "Master of Arts Entertainment Media & Advertising",
+        "semester": 1,
+        "subjects": [
+          "Professional Communication",
+          "Principles of Entertainment Media",
+          "Digital Media Marketing",
+          "Animation and Basic Entertainment Theories",
+          "Practical Component comprising all four subjects / Open Courses"
+        ]
+      },
+      {
+        "courseName": "Master of Arts Entertainment Media & Advertising",
+        "semester": 2,
+        "subjects": [
+          "Socio-Political Aspects of Entertainment Media",
+          "Integrated Marketing Communications",
+          "Ethics in Entertainment Media",
+          "Advanced Advertising Marketing Research",
+          "Practical Component comprising all four subjects / Open Courses"
+        ]
+      },
+      {
+        "courseName": "Master of Arts Entertainment Media & Advertising",
+        "semester": 3,
+        "subjects": [
+          "Media Planning and Buying",
+          "Brand Management",
+          "Lifestyle and Fashion",
+          "Indian Aesthetics",
+          "Consumer Behaviour",
+          "Content Management and Design"
+        ]
+      },
+      {
+        "courseName": "Master of Arts Entertainment Media & Advertising",
+        "semester": 4,
+        "subjects": [
+          "Communication Research",
+          "Project Work"
+        ]
+      },
+      {
+        "courseName": "Master of Arts Economics",
+        "semester": 1,
+        "subjects": [
+          "Microeconomics",
+          "Public Finance",
+          "Statistical Techniques",
+          "Mathematical Economics",
+          "Economic Demography"
+        ]
+      },
+      {
+        "courseName": "Master of Arts Economics",
+        "semester": 2,
+        "subjects": [
+          "Advanced Micro Economics",
+          "Evolution of Economic Thought",
+          "Agricultural Economics",
+          "Basic Econometrics",
+          "Urban Economics"
+        ]
+      },
+      {
+        "courseName": "Master of Arts Economics",
+        "semester": 3,
+        "subjects": [
+          "Macroeconomics I",
+          "Development Economics",
+          "Applied Economics",
+          "Behavioral Economics",
+          "Infrastructure Economics",
+          "Economics of Globalization",
+          "Community Development & Planning"
+        ]
+      },
+      {
+        "courseName": "Master of Arts Economics",
+        "semester": 4,
+        "subjects": [
+          "Macroeconomics II",
+          "International Economics",
+          "India in World Economy",
+          "International Finance",
+          "Banking & Financial Institutions",
+          "Corporate Social Responsibility",
+          "Rural Development"
+        ]
+      },
+      {
+        "courseName": "Master of Arts (International Studies)",
+        "semester": 1,
+        "subjects": [
+          "Theories of International Relations",
+          "Public Policy Analysis",
+          "Contemporary Geopolitics",
+          "Global Competitiveness",
+          "Evolution of India’s Foreign Policy",
+          "Global Institutions and Governance",
+          "International Law"
+        ]
+      },
+      {
+        "courseName": "Master of Arts (International Studies)",
+        "semester": 2,
+        "subjects": [
+          "Democracy and Political Institutions",
+          "UN and Other International Organizations",
+          "Multilateral Trade Agreements",
+          "Understanding Regions I: East Asia and South-east Asia",
+          "Understanding Regions II: Africa and Scandinavian",
+          "Human Rights: Theory and Practice",
+          "International Business"
+        ]
+      },
+      {
+        "courseName": "Master of Arts (China Studies)",
+        "semester": 1,
+        "subjects": [
+          "Chinese Language (A)",
+          "Religion and Philosophy: Three Main Traditions",
+          "Contemporary China",
+          "Modern Chinese Economy",
+          "History of China: An Overview",
+          "French",
+          "Japanese"
+        ]
+      },
+      {
+        "courseName": "Master of Arts (China Studies)",
+        "semester": 2,
+        "subjects": [
+          "Chinese Language (B)",
+          "Contemporary China: Challenges and Prospects",
+          "Doing Business with China",
+          "China Foreign Cooperation",
+          "Translation Theory and Practical Exercises",
+          "Case Studies: China Business and Economy",
+          "Chinese Geography",
+          "China, Persia, Tibet, Kashmir: A Shared Past"
+        ]
+      },
+      {
+        "courseName": "Master of Arts (China Studies)",
+        "semester": 3,
+        "subjects": [
+          "Advanced Business Chinese",
+          "China: International Relations",
+          "Research Methodology",
+          "Start-Up Project",
+          "Advanced Chinese Translation"
+        ]
+      },
+      {
+        "courseName": "Master of Arts (China Studies)",
+        "semester": 4,
+        "subjects": [
+          "Thesis"
+        ]
+      },
+      {
+        "courseName": "Master of Science Biotechnology",
+        "semester": 1,
+        "subjects": [
+          "Biochemistry",
+          "Immunology",
+          "Molecular Biology",
+          "Advanced Analytical techniques"
+        ]
+      },
+      {
+        "courseName": "Master of Science Biotechnology",
+        "semester": 2,
+        "subjects": [
+          "Cellular and Developmental Biology",
+          "Clinical biology",
+          "Genetic engineering",
+          "Research Communication, IPR and Biostatistics"
+        ]
+      },
+      {
+        "courseName": "Master of Science Biotechnology",
+        "semester": 3,
+        "subjects": [
+          "Bioinformatics and Omics",
+          "Bioprocess technology",
+          "Industrial, Environmental and Nano Technology",
+          "Plant, Algal and Agri-biotechnology",
+          "Animal Biotechnology"
+        ]
+      },
+      {
+        "courseName": "Master of Science Biotechnology",
+        "semester": 4,
+        "subjects": [
+          "Dissertation Project / Internship"
+        ]
+      },
+      {
+        "courseName": "Master of Science Computer Science",
+        "semester": 1,
+        "subjects": [
+          "Analysis of Algorithms and Research Methodology",
+          "Advanced Network",
+          "Advanced Databases",
+          "Modern Compiler Design",
+          "Ability Enhancement Course",
+          "Social Network Analysis"
+        ]
+      },
+      {
+        "courseName": "Master of Science Computer Science",
+        "semester": 2,
+        "subjects": [
+          "Digital Image Processing",
+          "Natural Language Processing",
+          "Cloud Computing",
+          "Artificial Intelligence and Machine Learning",
+          "Ability Enhancement Course",
+          "Bioinformatics"
+        ]
+      },
+      {
+        "courseName": "Master of Science Computer Science",
+        "semester": 3,
+        "subjects": [
+          "Business Intelligence and Big Data Analysis",
+          "Cloud Computing",
+          "Research Paper",
+          "Project Proposal",
+          "Machine Learning",
+          "Security Attacks and Countermeasures"
+        ]
+      },
+      {
+        "courseName": "Master of Science Computer Science",
+        "semester": 4,
+        "subjects": [
+          "Natural Language Processing",
+          "Project",
+          "Internship",
+          "Data Science",
+          "Cryptography and Cryptanalysis"
+        ]
+      },
+      {
+        "courseName": "Master of Science Information Technology",
+        "semester": 1,
+        "subjects": [
+          "Digital Image Processing",
+          "Big Data Analytics",
+          "Soft Computing",
+          "Network Security",
+          "Research Methodology",
+          "Research Writing"
+        ]
+      },
+      {
+        "courseName": "Master of Science Information Technology",
+        "semester": 2,
+        "subjects": [
+          "Machine Learning",
+          "Computer Vision",
+          "Cloud Computing",
+          "Enterprise Security Architecture",
+          "Microservices Architecture"
+        ]
+      },
+      {
+        "courseName": "Master of Science Information Technology",
+        "semester": 3,
+        "subjects": [
+          "Advances in Machine Learning",
+          "Advanced Internet Of Things",
+          "Computer Forensics",
+          "Blockchain Concepts and Techniques",
+          "Human Computer Interaction"
+        ]
+      },
+      {
+        "courseName": "Master of Science Information Technology",
+        "semester": 4,
+        "subjects": [
+          "Project",
+          "Internship",
+          "Technical Writing",
+          "Natural Language Processing"
+        ]
+      },
+      {
+        "courseName": "Master of Science Mathematics",
+        "semester": 1,
+        "subjects": [
+          "Linear Algebra",
+          "Analysis",
+          "Algebra-I",
+          "Ordinary Differential Equations (ODE)",
+          "Probability & Statistics (using R Software)",
+          "Soft skills (Python, Latex, Maple etc.)"
+        ]
+      },
+      {
+        "courseName": "Master of Science Mathematics",
+        "semester": 2,
+        "subjects": [
+          "Topology",
+          "Measure Theory",
+          "Algebra-II",
+          "Partial Differential Equations (PDE)",
+          "Combinatorics",
+          "Integral Transforms",
+          "Graph Theory"
+        ]
+      },
+      {
+        "courseName": "Master of Science Mathematics",
+        "semester": 3,
+        "subjects": [
+          "Complex Analysis",
+          "Number Theory",
+          "Numerical Analysis",
+          "Research Methodology",
+          "Elective (Any one)",
+          "Machine Learning",
+          "Digital Signal Processing",
+          "Integral Equations and Calculus of Variations",
+          "Coding Theory",
+          "Optimization Techniques"
+        ]
+      },
+      {
+        "courseName": "Master of Science Mathematics",
+        "semester": 4,
+        "subjects": [
+          "Functional Analysis",
+          "Ring and Module Theory",
+          "Advanced Complex Analysis",
+          "Differential Geometry",
+          "Commutative Algebra",
+          "Operation Research",
+          "Stochastic Processes",
+          "Special Functions",
+          "Artificial Intelligence",
+          "Data Analytics",
+          "Cryptography",
+          "Project"
+        ]
+      },
+      {
+        "courseName": "Master of Science in Chemical Biology and Drug Design",
+        "semester": 1,
+        "subjects": [
+          "Fundamentals of Drug design & discovery",
+          "Fundamentals of Molecular Diagnostics",
+          "Pathophysiology of metabolic & immune disorders (Cancer, Diabetics, Arthritis, Cardiovascular, Duchenne muscular dystrophy)",
+          "Pathology of infectious diseases",
+          "Advances in discovery of new-age therapeutics",
+          "Seminar/Journal Club"
+        ]
+      },
+      {
+        "courseName": "Master of Science in Chemical Biology and Drug Design",
+        "semester": 2,
+        "subjects": [
+          "Bioorganic Chemistry",
+          "Computer-aided molecular design and discovery",
+          "Modern Analytical techniques",
+          "Disease Modelling",
+          "Applications of AI/ML in Chemical Biology",
+          "Seminar/Journal Club"
+        ]
+      },
+      {
+        "courseName": "Master of Science in Chemical Biology and Drug Design",
+        "semester": 3,
+        "subjects": [
+          "Research Methodology & Biostatistics",
+          "Research Publication & Ethics",
+          "Journal clubs/Seminar",
+          "Research Project"
+        ]
+      },
+      {
+        "courseName": "Master of Science in Chemical Biology and Drug Design",
+        "semester": 4,
+        "subjects": [
+          "Journal clubs/Seminar",
+          "Research Project"
+        ]
+      },
+      {
+        "courseName": "Master of Science Environmental Studies",
+        "semester": 1,
+        "subjects": [
+          "Climate and Geology",
+          "Ecology & Biodiversity",
+          "Environmental Pollution and Degradation",
+          "Environmental Pollution Control Technology",
+          "Introduction Environmental Monitoring – (Air, Water and Soil Quality)",
+          "Field Immersion: Field Naturalist Program"
+        ]
+      },
+      {
+        "courseName": "Master of Science Environmental Studies",
+        "semester": 2,
+        "subjects": [
+          "Research Methodology and Data Analysis",
+          "Environmental Microbiology and Biotechnology",
+          "Industrial Safety, Health and Environment",
+          "Advanced Environmental Monitoring – (Air, Water and Soil Quality)",
+          "Applications of Computer in Environment",
+          "Ecological restoration and Biodiversity Management"
+        ]
+      },
+      {
+        "courseName": "Master of Science Environmental Studies",
+        "semester": 3,
+        "subjects": [
+          "Climate Change-Science Policies",
+          "Sustainable Development",
+          "Environmental Management Tools",
+          "Ecotourism Management",
+          "Environmental Ethics and Policies"
+        ]
+      },
+      {
+        "courseName": "Master of Science Environmental Studies",
+        "semester": 4,
+        "subjects": [
+          "Internship / Dissertation",
+          "Conference Publication"
+        ]
+      },
+      {
+        "courseName": "Master of Science Nutraceuticals",
+        "semester": 1,
+        "subjects": [
+          "Nutraceuticals",
+          "Biochemistry",
+          "Bioinformatics, Nutrigenomics and Biostatistics",
+          "Instrumentation"
+        ]
+      },
+      {
+        "courseName": "Master of Science Nutraceuticals",
+        "semester": 2,
+        "subjects": [
+          "Role of Nutraceuticals in Clinical Dietetics",
+          "Special Dietary Needs and Fermentation Technology",
+          "Food Science and Food Processing",
+          "Functional Foods"
+        ]
+      },
+      {
+        "courseName": "Master of Science Nutraceuticals",
+        "semester": 3,
+        "subjects": [
+          "Food Microbiology",
+          "QA – QC and Intellectual Property Rights",
+          "Packaging, Labelling and Marketing of Nutraceutical products",
+          "Nutraceutical and Functional Food Regulations"
+        ]
+      },
+      {
+        "courseName": "Master of Science Nutraceuticals",
+        "semester": 4,
+        "subjects": [
+          "Project",
+          "Entrepreneurship",
+          "Food Safety Management Systems and Soft Skills"
+        ]
+      },
+      {
+        "courseName": "Master of Science Polymer Science",
+        "semester": 1,
+        "subjects": [
+          "Concepts and Methods in Polymer Science",
+          "Polymer Structure and Properties",
+          "Thermodynamics of Polymer Solutions and Systems",
+          "Molecular weights and Sizes and their Determination",
+          "Stereochemistry of Polymers",
+          "Amorphous and Crystalline State in Polymers",
+          "Step-growth Polymerization",
+          "Chain-growth Polymerization",
+          "Coordination Polymerization",
+          "Anionic Polymerization / Ring Opening Polymerization",
+          "Cationic Polymerization",
+          "Mechanical Properties of Polymers",
+          "Polymer Rheology and Dynamics",
+          "Crosslinking and Gelation in Polymers",
+          "Polymer Degradation and Stabilization",
+          "Basic Mathematics and Statistics for Chemists",
+          "Research Methodology",
+          "Polymer Laboratory -1",
+          "Critical Review of Research paper",
+          "Open Course / Seminar / Term Papers",
+          "Seminar / Viva – Voce"
+        ]
+      },
+      {
+        "courseName": "Master of Science Polymer Science",
+        "semester": 2,
+        "subjects": [
+          "Chemical Composition of Polymers",
+          "Molecular Properties of Polymers",
+          "Thermal Properties of Polymers",
+          "Rheological Properties of Polymers",
+          "Mechanical Properties of Polymers",
+          "Morphology of Polymers",
+          "Introduction to Paints and Coating",
+          "Polymer Membranes: Structure, Property and Applications",
+          "Special Properties of Polymers",
+          "Polymer Processing",
+          "Fiber Science and Technology",
+          "Adhesives Science and Technology",
+          "Polymer Laboratory - 2",
+          "Critical Review of Research paper / Literature Survey / Reports, Etc",
+          "Open Course / Webinar / Seminar / Industrial Visits",
+          "Viva – Voce / Seminar"
+        ]
+      },
+      {
+        "courseName": "Master of Science Polymer Science",
+        "semester": 3,
+        "subjects": [
+          "Sustainability of Polymers : Issues, impact and solutions",
+          "Blends , Alloys and Advanced Composites",
+          "Bioderived, Biodegradable and Compostable polymers",
+          "Structure and Properties of Natural and Biologically Derived Polymers",
+          "Polymers in Pharmaceuticals, Medicine and Health Care",
+          "Modeling ,Simulation and Advanced Computational Methods in Polymer Science",
+          "Polymer Product Design",
+          "Case Study of the development of a polymer, process or application ( Written report)",
+          "Literature Survey Reports / Term Paper",
+          "Project Work, Internship and Thesis",
+          "Viva – Voce / Seminar"
+        ]
+      },
+      {
+        "courseName": "Master of Science Polymer Science",
+        "semester": 4,
+        "subjects": [
+          "M.Sc. Thesis",
+          "Seminar & Viva-Voce",
+          "Comprehensive Viva-Voce covering the entire course"
+        ]
+      },
+      {
+        "courseName": "Master of Science Statistics",
+        "semester": 1,
+        "subjects": [
+          "Probability Distribution and distribution theory",
+          "Sampling Techniques",
+          "Theory of Estimation",
+          "Linear model-1",
+          "Statistical Analysis using R and Python",
+          "Statistical Process Control"
+        ]
+      },
+      {
+        "courseName": "Master of Science Statistics",
+        "semester": 2,
+        "subjects": [
+          "Multivariate Analysis",
+          "Design of Experiments",
+          "Testing of hypothesis",
+          "Linear model-2",
+          "Statistical Analysis using SPSS",
+          "Biostatistics"
+        ]
+      },
+      {
+        "courseName": "Master of Science Statistics",
+        "semester": 3,
+        "subjects": [
+          "Data Mining and Machine Learning",
+          "Stochastic Processes",
+          "Statistical Analysis using SAS",
+          "Research Methodology",
+          "Time Series analysis",
+          "Operation research"
+        ]
+      },
+      {
+        "courseName": "Master of Science Statistics",
+        "semester": 4,
+        "subjects": [
+          "Demography and vital statistics",
+          "Bayesian Inference",
+          "Survival analysis",
+          "Actuarial statistics",
+          "Clinical Research",
+          "Econometrics"
+        ]
+      },
+      {
+        "courseName": "Master of Science Industrial Biotechnology",
+        "semester": 1,
+        "subjects": [
+          "Biomolecules and Biocatalysts",
+          "Biomass based industries and Lignocellulosic biomass",
+          "Production microorganisms - Isolation , maintenance and preservation",
+          "Improvement of production microorganisms",
+          "Raw materials, Quality Control, Sterilization and Validation",
+          "Process Dynamics - Principles and Kinetics"
+        ]
+      },
+      {
+        "courseName": "Master of Science Industrial Biotechnology",
+        "semester": 2,
+        "subjects": [
+          "Bioreactor types and design criteria",
+          "Reaction engineering",
+          "Process optimization and control",
+          "Product recovery and Downstream Processing",
+          "Effluent Treatment and waste management",
+          "Environmental Biotechnology and Agriculture Sustainability",
+          "Bioenergy",
+          "Pharmaceutical Biotechnology",
+          "Food biotechnology",
+          "Bioinformatics",
+          "Tissue culture based bioindustries"
+        ]
+      },
+      {
+        "courseName": "Master of Science Industrial Biotechnology",
+        "semester": 3,
+        "subjects": [
+          "Fermentation Economics",
+          "Enterpreneurship, design thinking and marketing",
+          "Research Methodology",
+          "Biostatistics and Regulatory Affairs",
+          "Intellectual property and Scientific writing",
+          "Research Project"
+        ]
+      },
+      {
+        "courseName": "Master of Science Industrial Biotechnology",
+        "semester": 4,
+        "subjects": [
+          "Internship at Biotechnology Industry"
+        ]
+      }
+    ]

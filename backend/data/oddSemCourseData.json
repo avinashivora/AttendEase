@@ -1,0 +1,463 @@
+[
+  {
+    "courseName": "Bachelor of Arts (Mass Communication & Journalism)",
+    "semester": 1,
+    "subjects": [
+      "Fundamentals of Mass Communication",
+      "Minor- Creative Writing",
+      "Visual Communication",
+      "Contemporary Issues ",
+      "Constitution and Public Policy",
+      "Language Skills in Media"
+    ]
+  },
+  {
+    "courseName": "Bachelor of Arts (Mass Communication & Journalism)",
+    "semester": 3,
+    "subjects": [
+      "Public Relations and Corporate Communication",
+      "Creative Writing",
+      "Film Studies",
+      "Ethical Practices in Media"
+    ]
+  },
+  {
+    "courseName": "Bachelor of Arts (Mass Communication & Journalism)",
+    "semester": 5,
+    "subjects": [
+      "Advertising Design",
+      "Consumer Behaviour",
+      "Professional Ethics"
+    ]
+  },
+  {
+    "courseName": "Bachelor of Business Administration",
+    "semester": 1,
+    "subjects": [
+      "Goods and Services Marketing",
+      "Advertising",
+      "Corporate Accounting",
+      "Financial Markets and Services",
+      "Human Resource Management",
+      "Organizational Behaviour",
+      "French",
+      "German",
+      "Spanish",
+      "Management and Communication skills",
+      "Fundamental of technical Skills",
+      "Business Economics",
+      "Constitution and Public Policy"
+    ]
+  },
+  {
+    "courseName": "Bachelor of Business Administration",
+    "semester": 3,
+    "subjects": [
+      "Strategic Management",
+      "Consumer Behaviour and Consumer Insights",
+      "Sales and Distribution Management ",
+      "Management Accounting",
+      "Technical Analysis of Financial Markets",
+      "Human Resource Accounting and Compensation Management",
+      "Human resource development",
+      "German",
+      "French",
+      "Spanish ",
+      "Professional communication  Skill III -",
+      "Event  management"
+    ]
+  },
+  {
+    "courseName": "Bachelor of Business Administration",
+    "semester": 5,
+    "subjects": [
+      "Logistics and supply chain management",
+      "Entrepreneurship Management and Business Planning",
+      "French",
+      "German",
+      "Finance 4.0",
+      "Event management",
+      "Marketing 4.0",
+      "Retail Management",
+      "Sales and Distribution Management",
+      "Strategic cost management",
+      "Direct Tax",
+      "HR Accounting and Audit",
+      "Performance Management and Career Planning"
+    ]
+  },
+  {
+    "courseName": "Bachelor of Business Management",
+    "semester": 1,
+    "subjects": [
+      "Principles of Marketing",
+      "Corporate accounting",
+      "Professional Communication Skill I",
+      "Technical Skills for Business",
+      "Fundamentals of Economics",
+      "Constitution and Public Policy"
+    ]
+  },
+  {
+    "courseName": "Bachelor of Business Management",
+    "semester": 3,
+    "subjects": [
+      "Strategic Management",
+      "Consumer Behaviour and Consumer Insights",
+      "Advertising & Sales",
+      "Management Accounting",
+      "Financial Markets and services",
+      "Professional Skill III ",
+      "Event  management"
+    ]
+  },
+  {
+    "courseName": "Bachelor of Business Management",
+    "semester": 5,
+    "subjects": [
+      "Direct Tax",
+      "Strategic Financial Management",
+      "Risk Management",
+      "Portfolio Management",
+      "Service Marketing",
+      "Media Planning and Management",
+      "Tourism Marketing",
+      "Customer Relationship Management",
+      "Logistics and supply chain management"
+    ]
+  },
+  {
+    "courseName": "Bachelor of Commerce (Accounting & Finance)",
+    "semester": 1,
+    "subjects": [
+      "Financial Accounting I",
+      "Cost Accounting I",
+      "Corporate Finance I",
+      "Statistical Techniques and Logical Reasoning "
+    ]
+  },
+  {
+    "courseName": "Bachelor of Commerce (Accounting & Finance)",
+    "semester": 3,
+    "subjects": [
+      "Taxation I",
+      "Cost and Management Accounting ",
+      "Corporate Accounting I "
+    ]
+  },
+  {
+    "courseName": "Bachelor of Commerce (Accounting & Finance)",
+    "semester": 5,
+    "subjects": [
+      "Corporate Accounting III",
+      "Cost and Management Accounting III",
+      "Direct Tax II",
+      "Research Methodology "
+    ]
+  },
+  {
+    "courseName": "Bachelor of Commerce (Accounting & Finance) Honour",
+    "semester": 5,
+    "subjects": [
+      "Corporate Accounting III",
+      "Cost and Management Accounting III ",
+      "International Taxation ",
+      "Direct Tax II"
+    ]
+  },
+  {
+    "courseName": "Bachelor of Commerce (Banking & Finance)",
+    "semester": 3,
+    "subjects": [
+      "Mutual Fund Management ",
+      "Accounting for Bankers",
+      "Strategic Management"
+    ]
+  },
+  {
+    "courseName": "Bachelor of Commerce (Banking & Finance)",
+    "semester": 5,
+    "subjects": [
+      "International Banking & Finance ",
+      "Management Accounting ",
+      "Reserach Methodology "
+    ]
+  },
+  {
+    "courseName": "Bachelor of Commerce (Financial Markets)",
+    "semester": 5,
+    "subjects": [
+      "Direct Taxation",
+      "Introduction to Fintech",
+      "Technical Analysis",
+      "Research Methodology",
+      "Derivative Market",
+      "Marketing in Financial Service"
+    ]
+  },
+  {
+    "courseName": "Bachelor of Science (Biotechnology)",
+    "semester": 1,
+    "subjects": [
+      "Biochemistry-I",
+      "CELL BIOLOGY 1",
+      "Chemistry I",
+      "Role of Computers in Biology",
+      "Microbiology 1",
+      "Biochemistry 1"
+    ]
+  },
+  {
+    "courseName": "Bachelor of Science (Biotechnology)",
+    "semester": 3,
+    "subjects": [
+      "Cellular metabolism 1",
+      "Genetics and Molecular Biology-I",
+      "Basic Bioanalytical Techniques",
+      "Basics of Plant and Animal Tissue Culture",
+      "Environmental Pollution and Bioethics",
+      "Genomic sequence analysis"
+    ]
+  },
+  {
+    "courseName": "Bachelor of Science (Biotechnology)",
+    "semester": 5,
+    "subjects": [
+      "Bioprocess technology",
+      "Recombinant DNA technology",
+      "Plant, Agriculture and Animal Biotechnology ",
+      "Food Biotechnology ",
+      "Food Biotechnology"
+    ]
+  },
+  {
+    "courseName": "Bachelor of Science (Computer Science)",
+    "semester": 3,
+    "subjects": [
+      "Core Java",
+      "Operating System and Linux",
+      "Software Engineering",
+      "Data Structure using Python",
+      "Probability Distribution Statistics"
+    ]
+  },
+  {
+    "courseName": "Bachelor of Science (Computer Science) Honour",
+    "semester": 5,
+    "subjects": [
+      "Data Mining and adaptive Business Intelligence",
+      "Information and Network Security",
+      "Software Testing and Quality Assurance",
+      "PL/SQL and NoSQL Databases"
+    ]
+  },
+  {
+    "courseName": "Bachelor of Science (Economics)",
+    "semester": 1,
+    "subjects": ["Macroeconomics", "Microeconomics"]
+  },
+  {
+    "courseName": "Bachelor of Science (Economics)",
+    "semester": 3,
+    "subjects": ["Public economics", "Urban Economics"]
+  },
+  {
+    "courseName": "Bachelor of Science (Economics)",
+    "semester": 5,
+    "subjects": ["Foreign exchange market", "Agriculture Economics"]
+  },
+  {
+    "courseName": "Master of Arts (Communication & Journalism)",
+    "semester": 1,
+    "subjects": [
+      "Global Media Challenges and Perspectives",
+      "Principles and Theories of Communication",
+      "Communication for Development"
+    ]
+  },
+  {
+    "courseName": "Master of Arts (Communication & Journalism)",
+    "semester": 3,
+    "subjects": [
+      "Media and Democracy",
+      "Media Criticism",
+      "International Communication"
+    ]
+  },
+  {
+    "courseName": "Master of Arts (Economics)",
+    "semester": 1,
+    "subjects": ["Public Finance", "Microeconomics"]
+  },
+  {
+    "courseName": "Master of Arts (Economics)",
+    "semester": 3,
+    "subjects": ["Macroeconomics"]
+  },
+  {
+    "courseName": "Master of Arts (Entertainment Media & Advertising)",
+    "semester": 1,
+    "subjects": [
+      "Professional Communication",
+      "Principles of Entertainment Media"
+    ]
+  },
+  {
+    "courseName": "Master of Arts (Entertainment Media & Advertising)",
+    "semester": 3,
+    "subjects": ["Indian Aesthetics", "Brand Management"]
+  },
+  {
+    "courseName": "Master of Arts (International Studies)",
+    "semester": 1,
+    "subjects": [
+      "Theories of International Relations ",
+      "Contemporary Geopolitics ",
+      "Public Policy Analysis ",
+      "The Evolution of India's Foreign Policy "
+    ]
+  },
+  {
+    "courseName": "Master of Arts (International Studies)",
+    "semester": 3,
+    "subjects": [
+      "War and Peace in West Asia ",
+      "Political Theory ",
+      "Modern Diplomacy ",
+      "Regional Security Architecture "
+    ]
+  },
+  {
+    "courseName": "Master of Commerce (Accounting & Finance)",
+    "semester": 1,
+    "subjects": [
+      "Advanced Accounting ",
+      "Direct Tax",
+      "Advanced Research Methodology ",
+      "Operations Research",
+      "Data Management using Spreadsheets "
+    ]
+  },
+  {
+    "courseName": "Master of Commerce (Accounting & Finance)",
+    "semester": 3,
+    "subjects": [
+      "International Taxation ",
+      "Auditing including Management Audit",
+      "Fundamental and Technical Analysis "
+    ]
+  },
+  {
+    "courseName": "Master of Commerce (Banking & Finance)",
+    "semester": 3,
+    "subjects": [
+      "Financial Planning and Investment",
+      "Accounting and Auditing of Banks"
+    ]
+  },
+  {
+    "courseName": "Master of Science (Biotechnology)",
+    "semester": 1,
+    "subjects": [
+      "Biochemistry ",
+      "Immunology ",
+      "Molecular Biology ",
+      "Advanced Analytical techniques",
+      "Biochemistry"
+    ]
+  },
+  {
+    "courseName": "Master of Science (Biotechnology)",
+    "semester": 3,
+    "subjects": [
+      "Bioinformatics and Omics",
+      "Bioprocess technology",
+      "Industrial, Environmental and nanotechnology",
+      "Plant, Algal and Agri-biotechnology",
+      "Animal Biotechnology"
+    ]
+  },
+  {
+    "courseName": "Master of Science (Industrial Biotechnology)",
+    "semester": 1,
+    "subjects": [
+      "Biomolecules and biocatalysts",
+      "Biomass Energy and Biofuel Technologies",
+      "Production microorganisms \u2013 Isolation and improvement",
+      "Process dynamics \u2013 principles and kinetics"
+    ]
+  },
+  {
+    "courseName": "Master of Science (Industrial Biotechnology)",
+    "semester": 3,
+    "subjects": [
+      "Technoeconomical aspects of industrial biotechnology",
+      "Research methodology and Intellectual Property",
+      "Biostatistics, Bioethics and Bio-safety"
+    ]
+  },
+  {
+    "courseName": "Master of Science (Mathematics)",
+    "semester": 1,
+    "subjects": [
+      "Algebra I",
+      "Linear Algebra",
+      "SageMath",
+      "Probability and Statistics using R",
+      "Research Methodology"
+    ]
+  },
+  {
+    "courseName": "Master of Science (Mathematics)",
+    "semester": 3,
+    "subjects": [
+      "Machine Learning",
+      "Complex Analysis ",
+      "Number Theory",
+      "Numerical Analysis",
+      "Research Methodology"
+    ]
+  },
+  {
+    "courseName": "Master of Science (Nutraceuticals)",
+    "semester": 1,
+    "subjects": [
+      "Characterization of Food and Nutraceuticals",
+      "Nutraceuticals",
+      "Nutrigenomics, biostatistics and bioinformatics",
+      "Spectroscopy"
+    ]
+  },
+  {
+    "courseName": "Master of Science (Nutraceuticals)",
+    "semester": 3,
+    "subjects": [
+      "Sensory evaluation, toxicology, food additives",
+      "QA/QC and intellectual property rights",
+      "Packaging and Marketing of Nutraceutical products",
+      "Nutraceutical and Functional Food Regulations"
+    ]
+  },
+  {
+    "courseName": "Master of Science (Statistics)",
+    "semester": 1,
+    "subjects": [
+      "Theory of Estimation",
+      "Linear Models ",
+      "Statistical Computing using R and Python",
+      "Research Methodology I",
+      "Sampling Techniques"
+    ]
+  },
+  {
+    "courseName": "Master of Science (Statistics)",
+    "semester": 3,
+    "subjects": [
+      "Machine Learning Techniques",
+      "Statistical Process Control",
+      "Stochastic Processes",
+      "SAS",
+      "Biostatistics"
+    ]
+  }
+]

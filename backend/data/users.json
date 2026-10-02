@@ -1,0 +1,136 @@
+[
+{
+    "firstName" : "Teacher",
+    "middleName" : "Of",
+    "lastName" : "Somaiya",
+    "email" : "teacher@somaiya.edu",
+    "hashed_password" : "a3ebb1f7bf621bb1d023af5751b9ac269970e876",
+    "role" : 0,
+    "salt" : "339636923083"
+},
+{
+    "firstName" : "2",
+    "middleName" : "Of",
+    "lastName" : "Somaiya",
+    "email" : "2@somaiya.edu",
+    "hashed_password" : "f011d44e2bb06203b9f4fdbe2dff11d7b0db23ee",
+    "role" : 0,
+    "salt" : "1537376082628"
+},
+{
+    "firstName" : "3",
+    "middleName" : "Of",
+    "lastName" : "Somaiya",
+    "email" : "3@somaiya.edu",
+    "hashed_password" : "a645f63da36441354a64b11c8b08fa54aab34b3d",
+    "role" : 0,
+    "salt" : "1019800469960"
+},
+{
+    "firstName" : "4",
+    "middleName" : "Of",
+    "lastName" : "Somaiya",
+    "email" : "4@somaiya.edu",
+    "hashed_password" : "d7383223f4256894010f95c860f6c685cd62c84d",
+    "role" : 0,
+    "salt" : "181528812191"
+},
+{
+    "firstName" : "5",
+    "middleName" : "Of",
+    "lastName" : "Somaiya",
+    "email" : "5@somaiya.edu",
+    "hashed_password" : "4be2f04ea0db6d4769bb4406e124ce31c6725cd8",
+    "role" : 0,
+    "salt" : "234604133064"
+},
+{
+    "firstName" : "Test1",
+    "middleName" : "t1",
+    "lastName" : "T1",
+    "email" : "T1",
+    "hashed_password" : "f4e91061506607b2a03279f18d0218f6fee61b4a",
+    "role" : 0,
+    "salt" : "1649106119268"
+},
+{
+    "firstName" : "Test2",
+    "middleName" : "t2",
+    "lastName" : "T2",
+    "email" : "T2",
+    "hashed_password" : "d4ea0756cf57fde44c045238e36b280ab7113ccd",
+    "role" : 0,
+    "salt" : "210800428943"
+},
+{
+    "firstName" : "Test3",
+    "middleName" : "t3",
+    "lastName" : "T3",
+    "email" : "T3",
+    "hashed_password" : "d268dda7a32cbb2d6a78f8c99b44b41b9095dcad",
+    "role" : 0,
+    "salt" : "1686523101436"
+},
+{
+    "firstName" : "Test4",
+    "middleName" : "t4",
+    "lastName" : "T4",
+    "email" : "T4",
+    "hashed_password" : "affa8881141af687cf5990da2ad3387f81c8f5a4",
+    "role" : 0,
+    "salt" : "15304699570"
+},
+{
+    "firstName" : "Test5",
+    "middleName" : "t5",
+    "lastName" : "T5",
+    "email" : "T5",
+    "hashed_password" : "c46b817868965f2c06f72ef3c4cbbca076be0d0e",
+    "role" : 0,
+    "salt" : "1061124997954"
+},
+{
+    "firstName" : "Test6",
+    "middleName" : "t6",
+    "lastName" : "T6",
+    "email" : "T6",
+    "hashed_password" : "a364467dfba6d05c1b087c493ea70382ac89a851",
+    "role" : 0,
+    "salt" : "247752993068"
+},
+{
+    "firstName" : "Test7",
+    "middleName" : "t7",
+    "lastName" : "T7",
+    "email" : "T7",
+    "hashed_password" : "316746d552613780ab6def5c108688800a740387",
+    "role" : 0,
+    "salt" : "1005427360999"
+},
+{
+    "firstName" : "Test8",
+    "middleName" : "t8",
+    "lastName" : "T8",
+    "email" : "T8",
+    "hashed_password" : "d1a0cf81dbbee3ac3c8d6f0978262937279cd259",
+    "role" : 0,
+    "salt" : "16986158115"
+},
+{
+    "firstName" : "Test9",
+    "middleName" : "t9",
+    "lastName" : "T9",
+    "email" : "T9",
+    "hashed_password" : "cc5bd52c8a1a4d9bc71e0e0242737cb3f024477e",
+    "role" : 0,
+    "salt" : "135109156144"
+},
+{
+    "firstName" : "Test10",
+    "middleName" : "t10",
+    "lastName" : "T10",
+    "email" : "T10",
+    "hashed_password" : "0b895e32a263e4eab2c9912b937a6c3e9d7ec917",
+    "role" : 0,
+    "salt" : "769855011567"
+}]

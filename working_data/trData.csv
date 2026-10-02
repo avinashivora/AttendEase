@@ -1,0 +1,599 @@
+firstName,middleName,lastName,email,isActive,visitingFaculty,semester,subjects,subjectType,course,batch
+Ms. Richa,Sameer,Chaudhary,richa.c@somaiya.edu,TRUE,FALSE,1,Fundamentals of Mass Communication,Theory,Bachelor of Arts (Mass Communication & Journalism),1
+Mr. Rajesh,Chandrakant,Dhotre,rajesh@somaiya.edu,TRUE,FALSE,1,Minor- Creative Writing,Theory,Bachelor of Arts (Mass Communication & Journalism),1
+Mr. Ameya,Sunildatta,Bal,ameya.bal@somaiya.edu,TRUE,FALSE,1,Visual Communication,Theory,Bachelor of Arts (Mass Communication & Journalism),1
+Mr. Ameya,Sunildatta,Bal,ameya.bal@somaiya.edu,TRUE,FALSE,1,Contemporary Issues,Theory,Bachelor of Arts (Mass Communication & Journalism),1
+Dr. Gayatri,Indrakanti,,gayatri.i@somaiya.edu,TRUE,FALSE,1,Contemporary Issues ,Theory,Bachelor of Arts (Mass Communication & Journalism),1
+Adv. Rohini,Hore,,,TRUE,TRUE,1,Constitution and Public Policy,Theory,Bachelor of Arts (Mass Communication & Journalism),1
+Dr. Gayatri,Indrakanti,,gayatri.i@somaiya.edu,TRUE,FALSE,1,Language Skills in Media,Theory,Bachelor of Arts (Mass Communication & Journalism),1
+Dr. Saranya,Harish,T,saranya.t@somaiya.edu,TRUE,FALSE,3,Public Relations and Corporate Communication,Theory,Bachelor of Arts (Mass Communication & Journalism),1
+Mr. Rajesh,Chandrakant,Dhotre,rajesh@somaiya.edu,TRUE,FALSE,3,Creative Writing,Theory,Bachelor of Arts (Mass Communication & Journalism),1
+Mr. Ameya,Sunildatta,Bal,ameya.bal@somaiya.edu,TRUE,FALSE,3,Film Studies,Theory,Bachelor of Arts (Mass Communication & Journalism),1
+Adv. Rohini,Hore,,,TRUE,TRUE,3,Ethical Practices in Media,Theory,Bachelor of Arts (Mass Communication & Journalism),1
+Mr. Ameya,Sunildatta,Bal,ameya.bal@somaiya.edu,TRUE,FALSE,5,Advertising Design,Theory,Bachelor of Arts (Mass Communication & Journalism),1
+Dr. Saranya,Harish,T,saranya.t@somaiya.edu,TRUE,FALSE,5,Consumer Behaviour,Theory,Bachelor of Arts (Mass Communication & Journalism),1
+Mr. Ravi,Chawda,,,TRUE,TRUE,5,Consumer Behaviour,Theory,Bachelor of Arts (Mass Communication & Journalism),1
+Dr. Gayatri,Indrakanti,,gayatri.i@somaiya.edu,TRUE,FALSE,5,Professional Ethics,Theory,Bachelor of Arts (Mass Communication & Journalism),1
+Dr. Chetan,Kanji,Bhai,chetan.kj@somaiya.edu,TRUE,FALSE,5,Logistics and supply chain management,Theory,Bachelor of Business Administration,1
+Dr. Chetan,Kanji,Bhai,chetan.kj@somaiya.edu,TRUE,FALSE,5,Logistics and supply chain management,Theory,Bachelor of Business Administration,2
+Dr. Aparna,Roshan,Jain,aparna.j@somaiya.edu,TRUE,FALSE,5,Entrepreneurship Management and Business Planning,Theory,Bachelor of Business Administration,1
+Dr. Aparna,Roshan,Jain,aparna.j@somaiya.edu,TRUE,FALSE,5,Entrepreneurship Management and Business Planning,Theory,Bachelor of Business Administration,2
+Ms. Bhumi,Deepak,Malde,bhumi@somaiya.edu,TRUE,FALSE,5,French,Theory,Bachelor of Business Administration,1
+Ms. Kruttika,Sameer,Bhosale,kruttika.b@somaiya.edu,TRUE,FALSE,5,German,Theory,Bachelor of Business Administration,1
+Ms. Bhumi,Deepak,Malde,bhumi@somaiya.edu,TRUE,FALSE,5,French,Theory,Bachelor of Business Administration,2
+Ms. Kruttika,Sameer,Bhosale,kruttika.b@somaiya.edu,TRUE,FALSE,5,German,Theory,Bachelor of Business Administration,2
+Mr. Mayank,Vijay,Satra,mr.mayank.s@somaiya.edu,TRUE,FALSE,5,Finance 4.0,Theory,Bachelor of Business Administration,1
+Ms. Salonee,Shukla,,,TRUE,TRUE,5,Event management,Theory,Bachelor of Business Administration,1
+Ms. Salonee,Shukla,,,TRUE,TRUE,5,Event management,Theory,Bachelor of Business Administration,2
+Mr. Ravi,Chawda,,,TRUE,TRUE,5,Marketing 4.0,Theory,Bachelor of Business Administration,1
+Mr. Ravi,Chawda,,,TRUE,TRUE,5,Marketing 4.0,Theory,Bachelor of Business Administration,2
+Ms. Kshamata,Sachin,Lad,kshamata.lad@somaiya.edu,TRUE,FALSE,5,Retail Management,Theory,Bachelor of Business Administration,1
+Mr. Kshitij,Lokhande,,,TRUE,TRUE,5,Sales and Distribution Management,Theory,Bachelor of Business Administration,1
+Ms. Fayeza,Hakimuddin,Sonkachwala,fayeza.s@somaiya.edu,TRUE,FALSE,5,Strategic cost management,Theory,Bachelor of Business Administration,2
+Mr. Sandeep,Sardarilal,Gupta,sandeep.gupta@somaiya.edu,TRUE,FALSE,5,Direct Tax,Theory,Bachelor of Business Administration,2
+Ms. Fayeza,Hakimuddin,Sonkachwala,fayeza.s@somaiya.edu,TRUE,FALSE,5,HR Accounting and Audit,Theory,Bachelor of Business Administration,1
+Ms. Latika,Chintal,,,TRUE,TRUE,5,Performance Management and Career Planning,Theory,Bachelor of Business Administration,1
+Ms. Monika,Nikesh,Kumar,monika.j@somaiya.edu,TRUE,FALSE,3,Strategic Management,Theory,Bachelor of Business Administration,1
+Ms. Monika,Nikesh,Kumar,monika.j@somaiya.edu,TRUE,FALSE,3,Strategic Management,Theory,Bachelor of Business Administration,2
+Ms. Salonee,Shukla,,,TRUE,TRUE,3,Consumer Behaviour and Consumer Insights,Theory,Bachelor of Business Administration,1
+Mr. Kshitij,Lokhande,,,TRUE,TRUE,3,Sales and Distribution Management ,Theory,Bachelor of Business Administration,1
+Mr. Sandeep,Sardarilal,Gupta,sandeep.gupta@somaiya.edu,TRUE,FALSE,3,Management Accounting,Theory,Bachelor of Business Administration,2
+Mr. Mayank,Vijay,Satra,mr.mayank.s@somaiya.edu,TRUE,FALSE,3,Technical Analysis of Financial Markets,Theory,Bachelor of Business Administration,2
+Ms. Fayeza,Hakimuddin,Sonkachwala,fayeza.s@somaiya.edu,TRUE,FALSE,3,Human Resource Accounting and Compensation Management,Theory,Bachelor of Business Administration,1
+Ms. Latika,Chintal,,,TRUE,TRUE,3,Human resource development,Theory,Bachelor of Business Administration,1
+Ms. Kruttika,Sameer,Bhosale,kruttika.b@somaiya.edu,TRUE,FALSE,3,German,Theory,Bachelor of Business Administration,1
+Ms. Kruttika,Sameer,Bhosale,kruttika.b@somaiya.edu,TRUE,FALSE,3,German,Theory,Bachelor of Business Administration,2
+Ms. Bhumi,Deepak,Malde,bhumi@somaiya.edu,TRUE,FALSE,3,French,Theory,Bachelor of Business Administration,1
+Ms. Bhumi,Deepak,Malde,bhumi@somaiya.edu,TRUE,FALSE,3,French,Theory,Bachelor of Business Administration,2
+Ms. Ketki,Shah,,,TRUE,TRUE,3,Spanish ,Theory,Bachelor of Business Administration,1
+Ms. Ketki,Shah,,,TRUE,TRUE,3,Spanish ,Theory,Bachelor of Business Administration,2
+Mr. Dhruval,Panchal,,,TRUE,TRUE,3,Professional communication  Skill III -,Theory,Bachelor of Business Administration,1
+Mr. Dhruval,Panchal,,,TRUE,TRUE,3,Professional communication  Skill III -,Theory,Bachelor of Business Administration,2
+Ms. Latika,Chintal,,,TRUE,TRUE,3,Event  management,Theory,Bachelor of Business Administration,1
+Ms. Latika,Chintal,,,TRUE,TRUE,3,Event  management,Theory,Bachelor of Business Administration,2
+Mr. Ravi,Chawda,,,TRUE,TRUE,1,Goods and Services Marketing,Theory,Bachelor of Business Administration,1
+Ms. Kshamata,Sachin,Lad,kshamata.lad@somaiya.edu,TRUE,FALSE,1,Advertising,Theory,Bachelor of Business Administration,1
+Mr. Nitin,Pawar,,,TRUE,TRUE,1,Corporate Accounting,Theory,Bachelor of Business Administration,2
+Mr. Mayank,Vijay,Satra,mr.mayank.s@somaiya.edu,TRUE,FALSE,1,Financial Markets and Services,Theory,Bachelor of Business Administration,2
+Dr. Himanshu,Lapasia,,,TRUE,TRUE,1,Human Resource Management,Theory,Bachelor of Business Administration,3
+Dr. Bharti,Sunil,Makhijani,bharati.m@somaiya.edu,TRUE,FALSE,1,Organizational Behaviour,Theory,Bachelor of Business Administration,3
+Mr. Ravi,Chawda,,,TRUE,TRUE,1,Goods and Services Marketing,Theory,Bachelor of Business Administration,3
+Ms. Kshamata,Sachin,Lad,kshamata.lad@somaiya.edu,TRUE,FALSE,1,Advertising,Theory,Bachelor of Business Administration,3
+Mr. Nitin,Pawar,,,TRUE,TRUE,1,Corporate Accounting,Theory,Bachelor of Business Administration,3
+Mr. Mayank,Vijay,Satra,mr.mayank.s@somaiya.edu,TRUE,FALSE,1,Financial Markets and Services,Theory,Bachelor of Business Administration,3
+Ms. Bhumi,Deepak,Malde,bhumi@somaiya.edu,TRUE,FALSE,1,French,Theory,Bachelor of Business Administration,1
+Ms. Bhumi,Deepak,Malde,bhumi@somaiya.edu,TRUE,FALSE,1,French,Theory,Bachelor of Business Administration,2
+Ms. Bhumi,Deepak,Malde,bhumi@somaiya.edu,TRUE,FALSE,1,French,Theory,Bachelor of Business Administration,3
+Ms. Kruttika,Sameer,Bhosale,kruttika.b@somaiya.edu,TRUE,FALSE,1,German,Theory,Bachelor of Business Administration,1
+Ms. Kruttika,Sameer,Bhosale,kruttika.b@somaiya.edu,TRUE,FALSE,1,German,Theory,Bachelor of Business Administration,2
+Ms. Kruttika,Sameer,Bhosale,kruttika.b@somaiya.edu,TRUE,FALSE,1,German,Theory,Bachelor of Business Administration,3
+Ms. Ketki,Shah,,,TRUE,TRUE,1,Spanish,Theory,Bachelor of Business Administration,1
+Ms. Ketki,Shah,,,TRUE,TRUE,1,Spanish,Theory,Bachelor of Business Administration,2
+Dr. Himanshu,Lapasia,,,TRUE,TRUE,1,Management and Communication skills,Theory,Bachelor of Business Administration,1
+Dr. Himanshu,Lapasia,,,TRUE,TRUE,1,Management and Communication skills,Theory,Bachelor of Business Administration,2
+Dr. Himanshu,Lapasia,,,TRUE,TRUE,1,Management and Communication skills,Theory,Bachelor of Business Administration,3
+Ms. Hazel,D'Souza,,,TRUE,TRUE,1,Fundamental of technical Skills,Theory,Bachelor of Business Administration,1
+Ms. Hazel,D'Souza,,,TRUE,TRUE,1,Fundamental of technical Skills,Theory,Bachelor of Business Administration,2
+Ms. Hazel,D'Souza,,,TRUE,TRUE,1,Fundamental of technical Skills,Theory,Bachelor of Business Administration,3
+Ms. Hazel,D'Souza,,,TRUE,TRUE,1,Fundamental of technical Skills,Practical,Bachelor of Business Administration,1
+Ms. Hazel,D'Souza,,,TRUE,TRUE,1,Fundamental of technical Skills,Practical,Bachelor of Business Administration,2
+Ms. Hazel,D'Souza,,,TRUE,TRUE,1,Fundamental of technical Skills,Practical,Bachelor of Business Administration,3
+Ms. Hazel,D'Souza,,,TRUE,TRUE,1,Fundamental of technical Skills,Practical,Bachelor of Business Administration,4
+Ms. Hazel,D'Souza,,,TRUE,TRUE,1,Fundamental of technical Skills,Theory,Bachelor of Business Administration,5
+Ms. Hazel,D'Souza,,,TRUE,TRUE,1,Fundamental of technical Skills,Theory,Bachelor of Business Administration,6
+Ms. Aafreen,Shah,,,TRUE,TRUE,1,Business Economics,Theory,Bachelor of Business Administration,1
+Ms. Aafreen,Shah,,,TRUE,TRUE,1,Business Economics,Theory,Bachelor of Business Administration,2
+Ms. Aafreen,Shah,,,TRUE,TRUE,1,Business Economics,Theory,Bachelor of Business Administration,3
+Dr. Amit,Atmaram,Naik,naik.a@somaiya.edu,TRUE,FALSE,1,Constitution and Public Policy,Theory,Bachelor of Business Administration,1
+Dr. Amit,Atmaram,Naik,naik.a@somaiya.edu,TRUE,FALSE,1,Constitution and Public Policy,Theory,Bachelor of Business Administration,2
+Dr. Amit,Atmaram,Naik,naik.a@somaiya.edu,TRUE,FALSE,1,Constitution and Public Policy,Theory,Bachelor of Business Administration,3
+Mr. Sandeep,Sardarilal,Gupta,sandeep.gupta@somaiya.edu,TRUE,FALSE,5,Direct Tax,Theory,Bachelor of Business Management,1
+Dr. Bhavana,Sushant,Jangale,bhavana@somaiya.edu,TRUE,FALSE,5,Strategic Financial Management,Theory,Bachelor of Business Management,1
+Ms. Minal,Gala,,,TRUE,TRUE,5,Risk Management,Theory,Bachelor of Business Management,1
+Ms. Aparna,Ashok,Vachhrajani,aparna.v@somaiya.edu,TRUE,FALSE,5,Portfolio Management,Theory,Bachelor of Business Management,1
+Dr. Aparna,Roshan,Jain,aparna.j@somaiya.edu,TRUE,FALSE,5,Service Marketing,Theory,Bachelor of Business Management,2
+Ms. Kshamata,Sachin,Lad,kshamata.lad@somaiya.edu,TRUE,FALSE,5,Media Planning and Management,Theory,Bachelor of Business Management,2
+Ms. Salonee,Shukla,,,TRUE,TRUE,5,Tourism Marketing,Theory,Bachelor of Business Management,2
+Mr. Dhruval,Panchal,,,TRUE,TRUE,5,Customer Relationship Management,Theory,Bachelor of Business Management,2
+Dr. Amit,Atmaram,Naik,naik.a@somaiya.edu,TRUE,FALSE,5,Logistics and supply chain management,Theory,Bachelor of Business Management,1
+Dr. Amit,Atmaram,Naik,naik.a@somaiya.edu,TRUE,FALSE,5,Logistics and supply chain management,Theory,Bachelor of Business Management,2
+Ms. Monika,Nikesh,Kumar,monika.j@somaiya.edu,TRUE,FALSE,3,Strategic Management,Theory,Bachelor of Business Management,1
+Ms. Salonee,Shukla,,,TRUE,TRUE,3,Consumer Behaviour and Consumer Insights,Theory,Bachelor of Business Management,2
+Ms. Monika,Nikesh,Kumar,monika.j@somaiya.edu,TRUE,FALSE,3,Strategic Management,Theory,Bachelor of Business Management,2
+Ms. Kshamata,Sachin,Lad,kshamata.lad@somaiya.edu,TRUE,FALSE,3,Advertising & Sales,Theory,Bachelor of Business Management,2
+Mr. Sandeep,Sardarilal,Gupta,sandeep.gupta@somaiya.edu,TRUE,FALSE,3,Management Accounting,Theory,Bachelor of Business Management,1
+Mr. Mayank,Vijay,Satra,mr.mayank.s@somaiya.edu,TRUE,FALSE,3,Financial Markets and services,Theory,Bachelor of Business Management,1
+Mr. Dhruval,Panchal,,,TRUE,TRUE,3,Professional Skill III ,Theory,Bachelor of Business Management,1
+Mr. Dhruval,Panchal,,,TRUE,TRUE,3,Professional Skill III ,Theory,Bachelor of Business Management,2
+Ms. Latika,Chintal,,,TRUE,TRUE,3,Event  management,Theory,Bachelor of Business Management,1
+Ms. Latika,Chintal,,,TRUE,TRUE,3,Event  management,Theory,Bachelor of Business Management,2
+Ms. Aafreen,Shah,,,TRUE,TRUE,1,Principles of Marketing,Theory,Bachelor of Business Management,1
+Ms. Aafreen,Shah,,,TRUE,TRUE,1,Principles of Marketing,Theory,Bachelor of Business Management,2
+Mr. Nitin,Pawar,,,TRUE,TRUE,1,Corporate accounting,Theory,Bachelor of Business Management,1
+Mr. Nitin,Pawar,,,TRUE,TRUE,1,Corporate accounting,Theory,Bachelor of Business Management,2
+Dr. Himanshu,Lapasia,,,TRUE,TRUE,1,Professional Communication Skill I,Theory,Bachelor of Business Management,1
+Dr. Himanshu,Lapasia,,,TRUE,TRUE,1,Professional Communication Skill I,Theory,Bachelor of Business Management,2
+Ms. Hazel,D'Souza,,,TRUE,TRUE,1,Technical Skills for Business,Theory,Bachelor of Business Management,1
+Ms. Hazel,D'Souza,,,TRUE,TRUE,1,Technical Skills for Business,Theory,Bachelor of Business Management,2
+Ms. Hazel,D'Souza,,,TRUE,TRUE,1,Technical Skills for Business,Practical,Bachelor of Business Management,1
+Ms. Hazel,D'Souza,,,TRUE,TRUE,1,Technical Skills for Business,Practical,Bachelor of Business Management,2
+Ms. Hazel,D'Souza,,,TRUE,TRUE,1,Technical Skills for Business,Practical,Bachelor of Business Management,3
+Ms. Hazel,D'Souza,,,TRUE,TRUE,1,Technical Skills for Business,Practical,Bachelor of Business Management,4
+Ms. Preeti,Ramchandani,,,TRUE,TRUE,1,Fundamentals of Economics,Theory,Bachelor of Business Management,1
+Ms. Preeti,Ramchandani,,,TRUE,TRUE,1,Fundamentals of Economics,Theory,Bachelor of Business Management,2
+Dr. Amit,Atmaram,Naik,naik.a@somaiya.edu,TRUE,FALSE,1,Constitution and Public Policy,Theory,Bachelor of Business Management,1
+Mr. Deepak,Jayram,Chavan,deepak.c@somaiya.edu,TRUE,FALSE,5,Corporate Accounting III,Theory,Bachelor of Commerce (Accounting & Finance),1
+Dr. Shital,Jitendra,Mehta,shital.mehta@somaiya.edu,TRUE,FALSE,5,Cost and Management Accounting III,Theory,Bachelor of Commerce (Accounting & Finance),1
+Mr. Milind,Ramchandra,Saraf,milind.saraf@somaiya.edu,TRUE,FALSE,5,Direct Tax II,Theory,Bachelor of Commerce (Accounting & Finance),1
+Dr. Sachin,Vilas,Acharekar,sachin@somaiya.edu,TRUE,FALSE,5,Research Methodology ,Theory,Bachelor of Commerce (Accounting & Finance),1
+CA Muskkan,Brijesh,Kukreja,muskkan@somaiya.edu,TRUE,FALSE,3,Taxation I,Theory,Bachelor of Commerce (Accounting & Finance),2
+Dr. Sachin,Vilas,Acharekar,sachin@somaiya.edu,TRUE,FALSE,3,Cost and Management Accounting ,Theory,Bachelor of Commerce (Accounting & Finance),2
+Mr. Deepak,Jayram,Chavan,deepak.c@somaiya.edu,TRUE,FALSE,3,Corporate Accounting I ,Theory,Bachelor of Commerce (Accounting & Finance),1
+CA Muskkan,Brijesh,Kukreja,muskkan@somaiya.edu,TRUE,FALSE,3,Taxation I,Theory,Bachelor of Commerce (Accounting & Finance),1
+Mr. Satish,Radhakishan,Bhor,satish.bhor@somaiya.edu,TRUE,FALSE,1,Financial Accounting I,Theory,Bachelor of Commerce (Accounting & Finance),2
+Dr. Sachin,Vilas,Acharekar,sachin@somaiya.edu,TRUE,FALSE,1,Cost Accounting I,Theory,Bachelor of Commerce (Accounting & Finance),2
+CA Muskkan,Brijesh,Kukreja,muskkan@somaiya.edu,TRUE,FALSE,1,Corporate Finance I,Theory,Bachelor of Commerce (Accounting & Finance),2
+Mr. Shailesh,Singh,,shailesh.singh@somaiya.edu,TRUE,FALSE,1,Statistical Techniques and Logical Reasoning ,Theory,Bachelor of Commerce (Accounting & Finance),2
+Mr. Satish,Radhakishan,Bhor,satish.bhor@somaiya.edu,TRUE,FALSE,1,Financial Accounting I,Theory,Bachelor of Commerce (Accounting & Finance),1
+Mr. Milind,Ramchandra,Saraf,milind.saraf@somaiya.edu,TRUE,FALSE,1,Cost Accounting I,Theory,Bachelor of Commerce (Accounting & Finance),1
+CA Muskkan,Brijesh,Kukreja,muskkan@somaiya.edu,TRUE,FALSE,1,Corporate Finance I,Theory,Bachelor of Commerce (Accounting & Finance),1
+Mr. Shailesh,Singh,,shailesh.singh@somaiya.edu,TRUE,FALSE,1,Statistical Techniques and Logical Reasoning ,Theory,Bachelor of Commerce (Accounting & Finance),1
+Mr Ronak,Joshi,,,TRUE,TRUE,1,Minor in Tax,Theory,Bachelor of Commerce (Accounting & Finance),1
+Mr. Satish,Radhakishan,Bhor,satish.bhor@somaiya.edu,TRUE,FALSE,1,Minor in Finance,Theory,Bachelor of Commerce (Accounting & Finance),1
+Ms Khushboo,Shah,,,TRUE,TRUE,1,Professional Communication Skill I,Theory,Bachelor of Commerce (Accounting & Finance),1
+Adv. Rohini,Hore,,,TRUE,TRUE,1,Constitution and Public Policy,Theory,Bachelor of Commerce (Accounting & Finance),1
+Ms Khushboo,Shah,,,TRUE,TRUE,1,Professional Communication Skill I,Theory,Bachelor of Commerce (Accounting & Finance),2
+Adv. Rohini,Hore,,,TRUE,TRUE,1,Constitution and Public Policy,Theory,Bachelor of Commerce (Accounting & Finance),2
+Mr Ronak,Joshi,,,TRUE,TRUE,3,Taxation I,Theory,Bachelor of Commerce (Accounting & Finance),1
+Mr. Manohar,Pathre,,,TRUE,TRUE,3,Cost and Management Accounting,Theory,Bachelor of Commerce (Accounting & Finance),1
+Ms Kunali,Meisheri,,,TRUE,TRUE,3,Professional Communication Skill III,Theory,Bachelor of Commerce (Accounting & Finance),1
+Ms. Shewta,Pathak,,,TRUE,TRUE,3,Equity and Debt Markets,Theory,Bachelor of Commerce (Accounting & Finance),1
+Ms Manali,R,,,TRUE,TRUE,3,Strategic Management,Theory,Bachelor of Commerce (Accounting & Finance),1
+Mr. Manohar,Pathre,,,TRUE,TRUE,3,Corporate Accounting I,Theory,Bachelor of Commerce (Accounting & Finance),2
+Mr Ronak,Joshi,,,TRUE,TRUE,3,Taxation I,Theory,Bachelor of Commerce (Accounting & Finance),2
+Ms Kunali,Meisheri,,,TRUE,TRUE,3,Professional Communication Skill III,Theory,Bachelor of Commerce (Accounting & Finance),2
+Ms Darshana,Shah,,,TRUE,TRUE,3,Equity and Debt Market,Theory,Bachelor of Commerce (Accounting & Finance),2
+Ms Manali,R,,,TRUE,TRUE,3,Strategic Management,Theory,Bachelor of Commerce (Accounting & Finance),2
+Mr. Manohar,Pathre,,,TRUE,TRUE,5,Corporate Accounting,Theory,Bachelor of Commerce (Accounting & Finance),1
+Ms. Priyanka,Gogri,,,TRUE,TRUE,5,Financial Management II,Theory,Bachelor of Commerce (Accounting & Finance),1
+Ms Manali,R,,,TRUE,TRUE,5,Strategic Management,Theory,Bachelor of Commerce (Accounting & Finance),1
+Mr. Deepak,Jayram,Chavan,deepak.c@somaiya.edu,TRUE,FALSE,5,Corporate Accounting III,Theory,Bachelor of Commerce (Accounting & Finance) Honour,1
+Dr. Shital,Jitendra,Mehta,shital.mehta@somaiya.edu,TRUE,FALSE,5,Cost and Management Accounting III ,Theory,Bachelor of Commerce (Accounting & Finance) Honour,1
+CA Muskkan,Brijesh,Kukreja,muskkan@somaiya.edu,TRUE,FALSE,5,International Taxation ,Theory,Bachelor of Commerce (Accounting & Finance) Honour,1
+Mr. Milind,Ramchandra,Saraf,milind.saraf@somaiya.edu,TRUE,FALSE,5,Direct Tax II,Theory,Bachelor of Commerce (Accounting & Finance) Honour,1
+Ms Darshana,Shah,,,TRUE,TRUE,5,Research Methodology,Theory,Bachelor of Commerce (Accounting & Finance) Honour,1
+Mr. Fenil,Jayantilal,Dedhia,fenil@somaiya.edu,TRUE,FALSE,3,Mutual Fund Management ,Theory,Bachelor of Commerce (Banking & Finance),1
+Dr. Meera,Yogesh,Rajawat,meera.r@somaiya.edu,TRUE,FALSE,3,Accounting for Bankers,Theory,Bachelor of Commerce (Banking & Finance),1
+Dr. Rajlakshmi,Anantharaman,,rajalakshmi.a@somaiya.edu,TRUE,FALSE,3,Strategic Management,Theory,Bachelor of Commerce (Banking & Finance),1
+Mr. Fenil,Jayantilal,Dedhia,fenil@somaiya.edu,TRUE,FALSE,5,International Banking & Finance ,Theory,Bachelor of Commerce (Banking & Finance),1
+Dr. Meera,Yogesh,Rajawat,meera.r@somaiya.edu,TRUE,FALSE,5,Management Accounting ,Theory,Bachelor of Commerce (Banking & Finance),1
+Dr. Rajlakshmi,Anantharaman,,rajalakshmi.a@somaiya.edu,TRUE,FALSE,5,Reserach Methodology ,Theory,Bachelor of Commerce (Banking & Finance),1
+Dr. Meera,Yogesh,Rajawat,meera.r@somaiya.edu,TRUE,FALSE,5,Direct Taxation,Theory,Bachelor of Commerce (Financial Markets),1
+Mr. Jayesh,Thakkar,,,TRUE,TRUE,5,Introduction to Fintech,Theory,Bachelor of Commerce (Financial Markets),1
+Ms. Minal,Gala,,,TRUE,TRUE,5,Technical Analysis,Theory,Bachelor of Commerce (Financial Markets),1
+Ms. Darshana,R,,,TRUE,TRUE,5,Research Methodology,Theory,Bachelor of Commerce (Financial Markets),1
+Dr. Bhavana,Sushant,Jangale,bhavana@somaiya.edu,TRUE,FALSE,5,Derivative Market,Theory,Bachelor of Commerce (Financial Markets),1
+Mr. Prashant,Arun,Pimple,prashant.p@somaiya.edu,TRUE,FALSE,5,Marketing in Financial Service,Theory,Bachelor of Commerce (Financial Markets),1
+Mr. Prashant,Arun,Pimple,prashant.p@somaiya.edu,TRUE,FALSE,3,Fixed Income Securities,Theory,Bachelor of Commerce (Financial Markets),1
+Ms. Shewta,Pathak,,,TRUE,TRUE,3,Equity Market,Theory,Bachelor of Commerce (Financial Markets),1
+CA Monica,Sanjay,Lodha,director.sksc@somaiya.edu,TRUE,FALSE,3,Corporate Finance,Theory,Bachelor of Commerce (Financial Markets),1
+Ms. Krunali,,,,TRUE,TRUE,3,Professional Communication Skills,Theory,Bachelor of Commerce (Financial Markets),1
+Ms Darshana,Shah,,,TRUE,TRUE,3,Research Methodology,Theory,Bachelor of Commerce (Financial Markets),1
+Ms. Manali,Iyer,,,TRUE,TRUE,3,Strategic Management,Theory,Bachelor of Commerce (Financial Markets),1
+Dr. Meera,Yogesh,Rajawat,meera.r@somaiya.edu,TRUE,FALSE,5,Direct Taxation,Theory,Bachelor of Commerce (Honors),1
+Mr. Deepak,Jayram,Chavan,deepak.c@somaiya.edu,TRUE,FALSE,5,Financial Accounting ,Theory,Bachelor of Commerce (Honors),1
+Mr. Prashant,Arun,Pimple,prashant.p@somaiya.edu,TRUE,FALSE,5,Cost Accounting,Theory,Bachelor of Commerce (Honors),1
+Dr. Bhavana,Sushant,Jangale,bhavana@somaiya.edu,TRUE,FALSE,5,International finance,Theory,Bachelor of Commerce (Honors),1
+Ms. Shewta,Pathak,,,TRUE,TRUE,5,Portfolio Management,Theory,Bachelor of Commerce (Honors),1
+Dr. Shital,Jitendra,Mehta,shital.mehta@somaiya.edu,TRUE,FALSE,5,Advanced Auditing,Theory,Bachelor of Commerce (Honors),1
+Mr. Kshitij,Lokhande,,,TRUE,TRUE,5,Sales and Distribution management,Theory,Bachelor of Commerce (Honors),1
+Dr. Bharti,Sunil,Makhijani,bharati.m@somaiya.edu,TRUE,FALSE,5,Customer relationship management,Theory,Bachelor of Commerce (Honors),1
+Dr. Chetan,Kanji,Bhai,chetan.kj@somaiya.edu,TRUE,FALSE,5,E commerce management,Theory,Bachelor of Commerce (Honors),1
+Mr. Deepak,Jayram,Chavan,deepak.c@somaiya.edu,TRUE,FALSE,3,corporate accounting,Theory,Bachelor of Commerce (Specialization in Data Science),1
+Dr. Meera,Yogesh,Rajawat,meera.r@somaiya.edu,TRUE,FALSE,3,Direct Taxation,Theory,Bachelor of Commerce (Specialization in Data Science),1
+Ms. Krunali,,,,TRUE,TRUE,3,Professional Communication skills - 3,Theory,Bachelor of Commerce (Specialization in Data Science),1
+Dr. Meghana,Narendra,Vyas,meghna.vyas@somaiya.edu,TRUE,FALSE,3,Statistics - II,Theory,Bachelor of Commerce (Specialization in Data Science),1
+Dr. Bharti,Sunil,Makhijani,bharati.m@somaiya.edu,TRUE,FALSE,3,Digital Marketing,Theory,Bachelor of Commerce (Specialization in Data Science),1
+Ms. Pradnya,Mahesh,Gosavi,pradnya.gosavi@somaiya.edu,TRUE,FALSE,3,Company Law,Theory,Bachelor of Commerce (Specialization in Data Science),1
+Ms. Anushree,Ashok,Sukhi,anushree.s@somaiya.edu,TRUE,FALSE,5,Software Project Management,Theory,Bachelor of Computer Applications,1
+Ms. Anushree,Ashok,Sukhi,anushree.s@somaiya.edu,TRUE,FALSE,5,Software Project Management,Practical,Bachelor of Computer Applications,2
+Mr. Bilal,Bilal,Farooque,mohammadbilal@somaiya.edu,TRUE,FALSE,5,Artificial Intelligence and Machine Learning,Theory,Bachelor of Computer Applications,1
+Mr. Bilal,Bilal,Farooque,mohammadbilal@somaiya.edu,TRUE,FALSE,5,Artificial Intelligence and Machine Learning,Practical,Bachelor of Computer Applications,2
+Ms. Kirti,Vilas,Amberkar,kirti.a@somaiya.edu,TRUE,FALSE,5,MERN Stack,Theory,Bachelor of Computer Applications,1
+Ms. Kirti,Vilas,Amberkar,kirti.a@somaiya.edu,TRUE,FALSE,5,MERN Stack,Practical,Bachelor of Computer Applications,2
+Dr. G.,Hema,Latha,hemalatha@somaiya.edu,TRUE,FALSE,5,Cloud Computing,Theory,Bachelor of Computer Applications,1
+Dr. G.,Hema,Latha,hemalatha@somaiya.edu,TRUE,FALSE,5,Cloud Computing,Practical,Bachelor of Computer Applications,2
+Ms. Leena,Pratap,Shewale,leena@somaiya.edu,TRUE,FALSE,3,Database Management System,Theory,Bachelor of Computer Applications,1
+Ms. Leena,Pratap,Shewale,leena@somaiya.edu,TRUE,FALSE,3,Database Management System,Practical,Bachelor of Computer Applications,2
+Dr. G.,Hema,Latha,hemalatha@somaiya.edu,TRUE,FALSE,3,Operating System,Theory,Bachelor of Computer Applications,1
+Dr. G.,Hema,Latha,hemalatha@somaiya.edu,TRUE,FALSE,3,Operating System,Practical,Bachelor of Computer Applications,2
+Ms. Anushree,Ashok,Sukhi,anushree.s@somaiya.edu,TRUE,FALSE,3,Python Programming,Theory,Bachelor of Computer Applications,1
+Ms. Anushree,Ashok,Sukhi,anushree.s@somaiya.edu,TRUE,FALSE,3,Python Programming,Practical,Bachelor of Computer Applications,2
+Dr. Harshali,Yogesh,Patil,harshali.yp@somaiya.edu,TRUE,FALSE,3,Elements of Statistics,Theory,Bachelor of Computer Applications,1
+Dr. Harshali,Yogesh,Patil,harshali.yp@somaiya.edu,TRUE,FALSE,3,Elements of Statistics,Practical,Bachelor of Computer Applications,2
+Mr. Bilal,Bilal,Farooque,mohammadbilal@somaiya.edu,TRUE,FALSE,3,Arduino Programming,Theory,Bachelor of Computer Applications,1
+Mr. Bilal,Bilal,Farooque,mohammadbilal@somaiya.edu,TRUE,FALSE,3,Arduino Programming,Practical,Bachelor of Computer Applications,2
+Ms. Kirti,Vilas,Amberkar,kirti.a@somaiya.edu,TRUE,FALSE,1,Principles of Algorithms and Programming,Theory,Bachelor of Computer Applications,1
+Ms. Kirti,Vilas,Amberkar,kirti.a@somaiya.edu,TRUE,FALSE,1,Principles of Algorithms and Programming,Practical,Bachelor of Computer Applications,2
+Ms. Leena,Pratap,Shewale,leena@somaiya.edu,TRUE,FALSE,1,Digital Computer Fundamentals,Theory,Bachelor of Computer Applications,1
+Ms. Leena,Pratap,Shewale,leena@somaiya.edu,TRUE,FALSE,1,Digital Computer Fundamentals,Practical,Bachelor of Computer Applications,2
+Ms. Leena,Pratap,Shewale,leena@somaiya.edu,TRUE,FALSE,1,Organizational Behaviour,Practical,Bachelor of Computer Applications,1
+Dr. Deepti,Gupta,,deepti01@somaiya.edu,TRUE,FALSE,1,Biochemistry-I,Theory,Bachelor of Science (Biotechnology),1
+Dr. Jacinta,Joseph,George,jacintateresa@somaiya.edu,TRUE,FALSE,1,Biochemistry-I,Theory,Bachelor of Science (Biotechnology),1
+Dr. Sagar,Pramod,Shah,sagar.shah3@somaiya.edu,TRUE,FALSE,1,Biochemistry-I,Theory,Bachelor of Science (Biotechnology),1
+Dr. Seema,Ajay,Sambrani,seema.sambrani@somaiya.edu,TRUE,FALSE,1,CELL BIOLOGY 1,Theory,Bachelor of Science (Biotechnology),1
+Mr. Jayesh,Maheshkumar,Bhagat,jayesh@somaiya.edu,TRUE,FALSE,1,CELL BIOLOGY 1,Theory,Bachelor of Science (Biotechnology),1
+Dr. Anant,Dattatraya,Kulkarni,anant.kulkarni@somaiya.edu,TRUE,FALSE,1,Chemistry I,Theory,Bachelor of Science (Biotechnology),1
+Dr. Deepti,Gupta,,deepti01@somaiya.edu,TRUE,FALSE,1,Role of Computers in Biology,Theory,Bachelor of Science (Biotechnology),1
+Mr. Amit,Kisanbhai,Jethwa,amit.jethwa@somaiya.edu,TRUE,FALSE,1,Microbiology 1,Theory,Bachelor of Science (Biotechnology),1
+Dr. Deepti,Gupta,,deepti01@somaiya.edu,TRUE,FALSE,1,Microbiology 1,Theory,Bachelor of Science (Biotechnology),1
+Dr. Seema,Ajay,Sambrani,seema.sambrani@somaiya.edu,TRUE,FALSE,1,Biochemistry 1,Practical,Bachelor of Science (Biotechnology),1
+Dr. Sagar,Pramod,Shah,sagar.shah3@somaiya.edu,TRUE,FALSE,1,Biochemistry 1,Practical,Bachelor of Science (Biotechnology),1
+Mr. Amit,Kisanbhai,Jethwa,amit.jethwa@somaiya.edu,TRUE,FALSE,1,CELL BIOLOGY 1,Practical,Bachelor of Science (Biotechnology),1
+Dr. Shruti,Ameya,Kakodkar,shruti.kakodkar@somaiya.edu,TRUE,FALSE,1,CELL BIOLOGY 1,Practical,Bachelor of Science (Biotechnology),1
+Dr. Anant,Dattatraya,Kulkarni,anant.kulkarni@somaiya.edu,TRUE,FALSE,1,Chemistry I,Practical,Bachelor of Science (Biotechnology),2
+Dr. Deepti,Gupta,,deepti01@somaiya.edu,TRUE,FALSE,1,Role of Computers in Biology,Practical,Bachelor of Science (Biotechnology),1
+Dr. Sagar,Pramod,Shah,sagar.shah3@somaiya.edu,TRUE,FALSE,1,Microbiology 1,Practical,Bachelor of Science (Biotechnology),1
+Dr. Preeti,Jain,,preeti.jain@somaiya.edu,TRUE,FALSE,1,Microbiology 1,Practical,Bachelor of Science (Biotechnology),1
+Dr. Shruti,Ameya,Kakodkar,shruti.kakodkar@somaiya.edu,TRUE,FALSE,3,Cellular metabolism 1,Theory,Bachelor of Science (Biotechnology),1
+Dr. Jacinta,Joseph,George,jacintateresa@somaiya.edu,TRUE,FALSE,3,Cellular metabolism 1,Theory,Bachelor of Science (Biotechnology),1
+Dr. Jacinta,Joseph,George,jacintateresa@somaiya.edu,TRUE,FALSE,3,Genetics and Molecular Biology-I,Theory,Bachelor of Science (Biotechnology),1
+Mr. Amit,Kisanbhai,Jethwa,amit.jethwa@somaiya.edu,TRUE,FALSE,3,Genetics and Molecular Biology-I,Theory,Bachelor of Science (Biotechnology),1
+Dr. Preeti,Jain,,preeti.jain@somaiya.edu,TRUE,FALSE,3,Genetics and Molecular Biology-I,Theory,Bachelor of Science (Biotechnology),1
+Dr. A,V,Radhakrishnan,avradhakrishnan@somaiya.edu,TRUE,FALSE,3,Basic Bioanalytical Techniques,Theory,Bachelor of Science (Biotechnology),1
+Dr. Sagar,Pramod,Shah,sagar.shah3@somaiya.edu,TRUE,FALSE,3,Basic Bioanalytical Techniques,Theory,Bachelor of Science (Biotechnology),1
+Dr. Jacinta,Joseph,George,jacintateresa@somaiya.edu,TRUE,FALSE,3,Cellular metabolism 1,Practical,Bachelor of Science (Biotechnology),1
+Mr. Amit,Kisanbhai,Jethwa,amit.jethwa@somaiya.edu,TRUE,FALSE,3,Cellular metabolism 1,Practical,Bachelor of Science (Biotechnology),1
+Mr. Jayesh,Maheshkumar,Bhagat,jayesh@somaiya.edu,TRUE,FALSE,3,Genetics and Molecular Biology-I,Practical,Bachelor of Science (Biotechnology),1
+Dr. Jacinta,Joseph,George,jacintateresa@somaiya.edu,TRUE,FALSE,3,Genetics and Molecular Biology-I,Practical,Bachelor of Science (Biotechnology),1
+Dr. Shruti,Ameya,Kakodkar,shruti.kakodkar@somaiya.edu,TRUE,FALSE,3,Basic Bioanalytical Techniques,Practical,Bachelor of Science (Biotechnology),1
+Dr. Sharon,Ajay,Mathew,sharon@somaiya.edu,TRUE,FALSE,3,Basics of Plant and Animal Tissue Culture,Theory,Bachelor of Science (Biotechnology),1
+Dr. Nidhi,V,Maheshwari,nidhi.maheshwari@somaiya.edu,TRUE,FALSE,3,Basics of Plant and Animal Tissue Culture,Theory,Bachelor of Science (Biotechnology),1
+Dr. Sharon,Ajay,Mathew,sharon@somaiya.edu,TRUE,FALSE,3,Basics of Plant and Animal Tissue Culture,Practical,Bachelor of Science (Biotechnology),1
+Mr. Jayesh,Maheshkumar,Bhagat,jayesh@somaiya.edu,TRUE,FALSE,3,Basics of Plant and Animal Tissue Culture,Practical,Bachelor of Science (Biotechnology),1
+Dr. Seema,Ajay,Sambrani,seema.sambrani@somaiya.edu,TRUE,FALSE,3,Environmental Pollution and Bioethics,Theory,Bachelor of Science (Biotechnology),1
+Dr. Deepti,Gupta,,deepti01@somaiya.edu,TRUE,FALSE,3,Environmental Pollution and Bioethics,Theory,Bachelor of Science (Biotechnology),1
+Dr. Deepti,Gupta,,deepti01@somaiya.edu,TRUE,FALSE,3,Genomic sequence analysis,Theory,Bachelor of Science (Biotechnology),1
+Mr. Jayesh,Maheshkumar,Bhagat,jayesh@somaiya.edu,TRUE,FALSE,3,Genomic sequence analysis,Theory,Bachelor of Science (Biotechnology),1
+Dr. Deepti,Gupta,,deepti01@somaiya.edu,TRUE,FALSE,3,Genomic sequence analysis,Practical,Bachelor of Science (Biotechnology),1
+Dr. Shruti,Ameya,Kakodkar,shruti.kakodkar@somaiya.edu,TRUE,FALSE,5,Bioprocess technology,Theory,Bachelor of Science (Biotechnology),1
+Mr. Amit,Kisanbhai,Jethwa,amit.jethwa@somaiya.edu,TRUE,FALSE,5,Recombinant DNA technology,Theory,Bachelor of Science (Biotechnology),1
+Dr. Sagar,Pramod,Shah,sagar.shah3@somaiya.edu,TRUE,FALSE,5,Recombinant DNA technology,Theory,Bachelor of Science (Biotechnology),1
+Dr. Sagar,Pramod,Shah,sagar.shah3@somaiya.edu,TRUE,FALSE,5,Recombinant DNA technology,Practical,Bachelor of Science (Biotechnology),1
+Dr. Tressa,Panikulangara,Jacob,tressa@somaiya.edu,TRUE,FALSE,5,Recombinant DNA technology,Practical,Bachelor of Science (Biotechnology),1
+Dr. Nidhi,V,Maheshwari,nidhi.maheshwari@somaiya.edu,TRUE,FALSE,5,Bioprocess technology,Practical,Bachelor of Science (Biotechnology),1
+Dr. Shruti,Ameya,Kakodkar,shruti.kakodkar@somaiya.edu,TRUE,FALSE,5,Bioprocess technology,Practical,Bachelor of Science (Biotechnology),1
+Dr. Nidhi,V,Maheshwari,nidhi.maheshwari@somaiya.edu,TRUE,FALSE,5,Plant_ Agriculture and Animal Biotechnology ,Theory,Bachelor of Science (Biotechnology),1
+Dr. Sharon,Ajay,Mathew,sharon@somaiya.edu,TRUE,FALSE,5,Plant_ Agriculture and Animal Biotechnology ,Theory,Bachelor of Science (Biotechnology),1
+Dr. Biji,Balakrishnan,,biji@somaiya.edu ,TRUE,FALSE,5,Food Biotechnology ,Theory,Bachelor of Science (Biotechnology),1
+Dr. Seema,Ajay,Sambrani,seema.sambrani@somaiya.edu,TRUE,FALSE,5,Food Biotechnology ,Theory,Bachelor of Science (Biotechnology),1
+Dr. Nidhi,V,Maheshwari,nidhi.maheshwari@somaiya.edu,TRUE,FALSE,5,Food Biotechnology ,Theory,Bachelor of Science (Biotechnology),1
+Dr. Sharon,Ajay,Mathew,sharon@somaiya.edu,TRUE,FALSE,5,Plant_ Agriculture and Animal Biotechnology ,Practical,Bachelor of Science (Biotechnology),1
+Dr. Preeti,Jain,,preeti.jain@somaiya.edu,TRUE,FALSE,5,Food Biotechnology,Practical,Bachelor of Science (Biotechnology),1
+Dr. Swati,Rajeshkumar,Maurya,swati.maurya@somaiya.edu,TRUE,FALSE,5,Data Mining and adaptive Business Intelligence,Theory,Bachelor of Science (Computer Science),1
+Dr. Marielia,Edward,Assumption,mareilia.a@somaiya.edu,TRUE,FALSE,5,Information and Network Security,Theory,Bachelor of Science (Computer Science),1
+Dr. Marielia,Edward,Assumption,mareilia.a@somaiya.edu,TRUE,FALSE,5,Information and Network Security,Practical,Bachelor of Science (Computer Science),2
+Ms. Monali,Amit,Deshpande,Monali.ad@somaiya.edu,TRUE,FALSE,5,Software Testing and Quality Assurance,Theory,Bachelor of Science (Computer Science),1
+Ms. Monali,Amit,Deshpande,Monali.ad@somaiya.edu,TRUE,FALSE,5,Software Testing and Quality Assurance,Practical,Bachelor of Science (Computer Science),2
+Ms. Ekta,Gala,,,TRUE,TRUE,5,PL/SQL and NoSQL Databases,Theory,Bachelor of Science (Computer Science),1
+Ms. Ekta,Gala,,,TRUE,TRUE,5,PL/SQL and NoSQL Databases,Practical,Bachelor of Science (Computer Science),2
+Mr. Shriniwas,Madhusudan,Acharya,shriniwas@somaiya.edu,TRUE,FALSE,3,Core Java,Theory,Bachelor of Science (Computer Science),1
+Mr. Shriniwas,Madhusudan,Acharya,shriniwas@somaiya.edu,TRUE,FALSE,3,Core Java,Practical,Bachelor of Science (Computer Science),1
+Dr. Sunita,Arjun,Yadav,sunita.ay@somaiya.edu,TRUE,FALSE,3,Operating System and Linux,Theory,Bachelor of Science (Computer Science),1
+Dr. Sunita,Arjun,Yadav,sunita.ay@somaiya.edu,TRUE,FALSE,3,Operating System and Linux,Practical,Bachelor of Science (Computer Science),2
+Ms. Monali,Amit,Deshpande,Monali.ad@somaiya.edu,TRUE,FALSE,3,Software Engineering,Practical,Bachelor of Science (Computer Science),2
+Ms. Suchita,Prakash,Mandhare,suchita.m@somaiya.edu,TRUE,FALSE,3,Data Structure using Python,Theory,Bachelor of Science (Computer Science),1
+Ms. Suchita,Prakash,Mandhare,suchita.m@somaiya.edu,TRUE,FALSE,3,Data Structure using Python,Practical,Bachelor of Science (Computer Science),2
+Ms. Monali,Amit,Deshpande,Monali.ad@somaiya.edu,TRUE,FALSE,3,Software Engineering,Theory,Bachelor of Science (Computer Science),1
+Mr. Algonda,Desai,,algondadesai@somaiya.edu,TRUE,FALSE,3,Probability Distribution Statistics,Theory,Bachelor of Science (Computer Science),1
+Ms. Ananya,Rao,,,TRUE,TRUE,5,Artificial Intelligence,Theory,Bachelor of Science (Computer Science),1
+Ms. Ananya,Rao,,,TRUE,TRUE,5,Artificial Intelligence,Practical,Bachelor of Science (Computer Science),2
+Ms. Suchita,Prakash,Mandhare,suchita.m@somaiya.edu,TRUE,FALSE,3,Data Structure using python,Theory,Bachelor of Science (Data Science),1
+Ms. Suchita,Prakash,Mandhare,suchita.m@somaiya.edu,TRUE,FALSE,3,Data Structure using python,Practical,Bachelor of Science (Data Science),1
+Ms. Ananya,Rao,,,TRUE,TRUE,3,Introduction to Data Science,Theory,Bachelor of Science (Data Science),1
+Ms. Ananya,Rao,,,TRUE,TRUE,3,Introduction to Data Science,Practical,Bachelor of Science (Data Science),1
+Ms. Ekta,Gala,,,TRUE,TRUE,3,Oracle and PL/SQL,Theory,Bachelor of Science (Data Science),1
+Ms. Komal,Kharat,,,TRUE,TRUE,3,Professional Communication Skill III,Theory,Bachelor of Science (Data Science),1
+Mr. Siddheshwar,Manohar,Bombale,siddheshwar.b@somaiya.edu,TRUE,FALSE,3,Graph Theory and Optimization,Theory,Bachelor of Science (Data Science),1
+Mr. Shriniwas,Madhusudan,Acharya,shriniwas@somaiya.edu,TRUE,FALSE,5,Software Model Designing,Theory,Bachelor of Science (Data Science),1
+Mr. Shriniwas,Madhusudan,Acharya,shriniwas@somaiya.edu,TRUE,FALSE,5,Software Model Designing,Practical,Bachelor of Science (Data Science),1
+Dr. Marielia,Edward,Assumption,mareilia.a@somaiya.edu,TRUE,FALSE,5,Analytics for IOT,Theory,Bachelor of Science (Data Science),1
+Dr. Marielia,Edward,Assumption,mareilia.a@somaiya.edu,TRUE,FALSE,5,Analytics for IOT,Practical,Bachelor of Science (Data Science),1
+Ms. Minal,Vinod,Dive,minal.d@somaiya.edu,TRUE,FALSE,5,Big Data Analytics,Theory,Bachelor of Science (Data Science),1
+Ms. Minal,Vinod,Dive,minal.d@somaiya.edu,TRUE,FALSE,5,Big Data Analytics,Practical,Bachelor of Science (Data Science),1
+Ms. Suchita,Prakash,Mandhare,suchita.m@somaiya.edu,TRUE,FALSE,5,Image Analytics,Theory,Bachelor of Science (Data Science),1
+Ms. Suchita,Prakash,Mandhare,suchita.m@somaiya.edu,TRUE,FALSE,5,Image Analytics,Practical,Bachelor of Science (Data Science),1
+Ms. Pooja,Prafulchandra,Doshi,poojadoshi786@gmail.com,TRUE,FALSE,3,Public economics,Theory,Bachelor of Science (Economics),1
+Dr. Sanjay,Jaywant,Rode,sanjay.rode@somaiya.edu,TRUE,FALSE,3,Urban Economics,Theory,Bachelor of Science (Economics),1
+Ms. Pooja,Prafulchandra,Doshi,poojadoshi786@gmail.com,TRUE,FALSE,5,Foreign exchange market,Theory,Bachelor of Science (Economics),1
+Dr. Sanjay,Jaywant,Rode,sanjay.rode@somaiya.edu,TRUE,FALSE,5,Agriculture Economics,Theory,Bachelor of Science (Economics),1
+Ms. Pooja,Prafulchandra,Doshi,poojadoshi786@gmail.com,TRUE,FALSE,1,Macroeconomics,Theory,Bachelor of Science (Economics),1
+Dr. Sanjay,Jaywant,Rode,sanjay.rode@somaiya.edu,TRUE,FALSE,1,Microeconomics,Theory,Bachelor of Science (Economics),1
+Ms. Khushboo,Lala,,,TRUE,TRUE,3,Urban Economics,Theory,Bachelor of Science (Economics),1
+Mr. Nishant,Tawade,,,TRUE,TRUE,3,Wealth management,Theory,Bachelor of Science (Economics),1
+Ms. Pooja,Prafulchandra,Doshi,poojadoshi786@gmail.com,TRUE,FALSE,3,Public Economics,Theory,Bachelor of Science (Economics),1
+Ms. Heer,Jalandarwala,,,TRUE,TRUE,3,Professional Skill III,Theory,Bachelor of Science (Economics),1
+Dr. Pradeep,Thokale,,,TRUE,TRUE,3,Basics of Mathematical methods for Economics ,Theory,Bachelor of Science (Economics),1
+Ms. Khushboo,Lala,,,TRUE,TRUE,3,Business Ethics and Corporate Social Responsibility,Theory,Bachelor of Science (Economics),1
+Mr. Nishant,Tawade,,,TRUE,TRUE,5,Business Analysis,Theory,Bachelor of Science (Economics),1
+Mr. Yogesh,Mahapadi,,,TRUE,TRUE,5,IT in Economics,Theory,Bachelor of Science (Economics),1
+Ms. Prachiti,Pawaskar,,,TRUE,TRUE,5,Agriculture Economics,Theory,Bachelor of Science (Economics),1
+Ms. Prachiti,Pawaskar,,,TRUE,TRUE,5,Global Capital Market,Theory,Bachelor of Science (Economics),1
+Ms. Pooja,Prafulchandra,Doshi,poojadoshi786@gmail.com,TRUE,FALSE,5,Foreign Exchange Market,Theory,Bachelor of Science (Economics),1
+Ms. Khushboo,Lala,,,TRUE,TRUE,5,Mergers and Acquisitions,Theory,Bachelor of Science (Economics),1
+CA Sandeep,Sahastrabuddhe,,,TRUE,TRUE,5,Financial Management,Theory,Bachelor of Science (Economics),1
+Dr. Sanjay,Jaywant,Rode,sanjay.rode@somaiya.edu,TRUE,FALSE,1,Micro Economics I,Theory,Bachelor of Science (Economics),1
+Ms. Khushboo,Lala,,,TRUE,TRUE,1,Micro Economics I,Theory,Bachelor of Science (Economics),1
+Ms. Pooja,Prafulchandra,Doshi,poojadoshi786@gmail.com,TRUE,FALSE,1,Macro Economics I,Theory,Bachelor of Science (Economics),1
+Ms. Heer,Jalandarwala,,,TRUE,TRUE,1,Professional Communication Skill – I,Theory,Bachelor of Science (Economics),1
+Dr. Pradeep,Thokale,,,TRUE,TRUE,1,Statistics in Economics I,Theory,Bachelor of Science (Economics),1
+Adv. Krinjal,ahuja,,,TRUE,TRUE,1,Constitution and Public Policy,Theory,Bachelor of Science (Economics),1
+Dr. Biji,Balakrishnan,,biji@somaiya.edu ,TRUE,FALSE,1,Foundation Course in Chemistry -I,Theory,Integrated Bachelor of Science-Master of Science,1
+Dr. Anant,Dattatraya,Kulkarni,anant.kulkarni@somaiya.edu,TRUE,FALSE,1,Foundation Course in Chemistry-II,Theory,Integrated Bachelor of Science-Master of Science,1
+Dr. Biji,Balakrishnan,,biji@somaiya.edu ,TRUE,FALSE,1,Introductory Chemistry Laboratory-I,Practical,Integrated Bachelor of Science-Master of Science,1
+Dr. Tressa,Panikulangara,Jacob,tressa@somaiya.edu,TRUE,FALSE,1,Introductory Biology,Theory,Integrated Bachelor of Science-Master of Science,1
+Dr. Tressa,Panikulangara,Jacob,tressa@somaiya.edu,TRUE,FALSE,1,Introductory Biology,Tutorial,Integrated Bachelor of Science-Master of Science,1
+Dr. Tressa,Panikulangara,Jacob,tressa@somaiya.edu,TRUE,FALSE,1,Introductory Biology Laboratory,Practical,Integrated Bachelor of Science-Master of Science,1
+Dr. Manoj,Mishra,,manoj27@somaiya.edu,TRUE,FALSE,1,Introduction to Programming using Python,Theory,Integrated Bachelor of Science-Master of Science,1
+Dr. Manoj,Mishra,,manoj27@somaiya.edu,TRUE,FALSE,1,Introduction to Programming using Python,Practical,Integrated Bachelor of Science-Master of Science,1
+Dr. A,V,Radhakrishnan,avradhakrishnan@somaiya.edu,TRUE,FALSE,1,Foundations of Classical Physics,Theory,Integrated Bachelor of Science-Master of Science,1
+Dr. A,V,Radhakrishnan,avradhakrishnan@somaiya.edu,TRUE,FALSE,1,Foundations of Classical Physics,Tutorial,Integrated Bachelor of Science-Master of Science,1
+Dr. A,V,Radhakrishnan,avradhakrishnan@somaiya.edu,TRUE,FALSE,1,Physics Laboratory-I,Tutorial,Integrated Bachelor of Science-Master of Science,1
+Dr. Manoj,Mishra,,manoj27@somaiya.edu,TRUE,FALSE,1,Foundations of Classical Physics,Theory,Integrated Bachelor of Science-Master of Science,1
+Mr. Rajesh,Chandrakant,Dhotre,rajesh@somaiya.edu,TRUE,FALSE,1,Global Media Challenges and Perspectives,Theory,Master of Arts (Communication & Journalism),1
+Ms. Richa,Sameer,Chaudhary,richa.c@somaiya.edu,TRUE,FALSE,1,Principles and Theories of Communication,Theory,Master of Arts (Communication & Journalism),1
+Dr. Saranya,Harish,T,saranya.t@somaiya.edu,TRUE,FALSE,1,Communication for Development,Theory,Master of Arts (Communication & Journalism),1
+Mr. Rajesh,Chandrakant,Dhotre,rajesh@somaiya.edu,TRUE,FALSE,3,Media and Democracy,Theory,Master of Arts (Communication & Journalism),1
+Dr. Gayatri,Indrakanti,,gayatri.i@somaiya.edu,TRUE,FALSE,3,Media Criticism,Theory,Master of Arts (Communication & Journalism),1
+Dr. Saranya,Harish,T,saranya.t@somaiya.edu,TRUE,FALSE,3,International Communication,Theory,Master of Arts (Communication & Journalism),1
+Ms. Pooja,Prafulchandra,Doshi,poojadoshi786@gmail.com,TRUE,FALSE,1,Public Finance,Theory,Master of Arts (Economics),1
+Dr. Sanjay,Jaywant,Rode,sanjay.rode@somaiya.edu,TRUE,FALSE,1,Microeconomics,Theory,Master of Arts (Economics),1
+Dr. Sanjay,Jaywant,Rode,sanjay.rode@somaiya.edu,TRUE,FALSE,3,Macroeconomics,Theory,Master of Arts (Economics),1
+Dr. Sanjay,Jaywant,Rode,sanjay.rode@somaiya.edu,TRUE,FALSE,3,Macro Economics I,Theory,Master of Arts (Economics),1
+Ms. Prachiti,Pawaskar,,,TRUE,TRUE,3,Development Economics ,Theory,Master of Arts (Economics),1
+Ms. Mahdiyeh,Askari,,,TRUE,TRUE,3,Applied Economics ,Theory,Master of Arts (Economics),1
+Mr. Nishant,Tawade,,,TRUE,TRUE,3,Behaviour Economics ,Theory,Master of Arts (Economics),1
+Ms. Khushboo,Lala,,,TRUE,TRUE,3,Infrastructure Economics,Theory,Master of Arts (Economics),1
+Dr. Sanjay,Jaywant,Rode,sanjay.rode@somaiya.edu,TRUE,FALSE,1,Microeconomics I,Theory,Master of Arts (Economics),1
+Dr. Aarti,Santosh,Nayak,aarti.nayak@somaiya.edu,TRUE,FALSE,1,Mathematical economics,Theory,Master of Arts (Economics),1
+Dr. Pradeep,Thokale,,,TRUE,TRUE,1,Statistical Techniques,Theory,Master of Arts (Economics),1
+Ms. Mahdiyeh,Askari,,,TRUE,TRUE,1,Economics of Demography,Theory,Master of Arts (Economics),1
+Dr. Gayatri,Indrakanti,,gayatri.i@somaiya.edu,TRUE,FALSE,3,Indian Aesthetics,Theory,Master of Arts (Entertainment Media & Advertising),1
+Ms. Richa,Sameer,Chaudhary,richa.c@somaiya.edu,TRUE,FALSE,3,Brand Management,Theory,Master of Arts (Entertainment Media & Advertising),1
+Mr. Ravi,Chawda,,,TRUE,TRUE,3,Brand Management,Theory,Master of Arts (Entertainment Media & Advertising),1
+Ms. Richa,Sameer,Chaudhary,richa.c@somaiya.edu,TRUE,FALSE,1,Professional Communication,Theory,Master of Arts (Entertainment Media & Advertising),1
+Mr. Ameya,Sunildatta,Bal,ameya.bal@somaiya.edu,TRUE,FALSE,1,Principles of Entertainment Media,Theory,Master of Arts (Entertainment Media & Advertising),1
+Mr. Vasu,Sharma,,,TRUE,TRUE,1,Theories of International Relations ,Theory,Master of Arts (International Studies),1
+Dr. Dinoj,Kumar,Upadhyay,dinojkumar@somaiya.edu,TRUE,FALSE,1,Contemporary Geopolitics ,Theory,Master of Arts (International Studies),1
+Mr. Nishant,Tawade,,,TRUE,TRUE,1,Public Policy Analysis ,Theory,Master of Arts (International Studies),1
+Dr. Dinoj,Kumar,Upadhyay,dinojkumar@somaiya.edu,TRUE,FALSE,1,The Evolution of India's Foreign Policy ,Theory,Master of Arts (International Studies),1
+Mr. Vasu,Sharma,,,TRUE,TRUE,3,War and Peace in West Asia ,Theory,Master of Arts (International Studies),1
+Dr. Dinoj,Kumar,Upadhyay,dinojkumar@somaiya.edu,TRUE,FALSE,3,Political Theory ,Theory,Master of Arts (International Studies),1
+Dr. Dinoj,Kumar,Upadhyay,dinojkumar@somaiya.edu,TRUE,FALSE,3,Modern Diplomacy ,Theory,Master of Arts (International Studies),1
+Dr. Dinoj,Kumar,Upadhyay,dinojkumar@somaiya.edu,TRUE,FALSE,3,Regional Security Architecture ,Theory,Master of Arts (International Studies),1
+CA Muskkan,Brijesh,Kukreja,muskkan@somaiya.edu,TRUE,FALSE,3,International Taxation ,Theory,Master of Commerce (Accounting & Finance),1
+Dr. Shital,Jitendra,Mehta,shital.mehta@somaiya.edu,TRUE,FALSE,3,Auditing including Management Audit,Theory,Master of Commerce (Accounting & Finance),1
+Dr. Bhavana,Sushant,Jangale,bhavana@somaiya.edu,TRUE,FALSE,3,Fundamental and Technical Analysis ,Theory,Master of Commerce (Accounting & Finance),1
+CA Monica,Sanjay,Lodha,director.sksc@somaiya.edu,TRUE,FALSE,1,Advanced Accounting ,Theory,Master of Commerce (Accounting & Finance),1
+Mr. Milind,Ramchandra,Saraf,milind.saraf@somaiya.edu,TRUE,FALSE,1,Direct Tax,Theory,Master of Commerce (Accounting & Finance),1
+Dr. Rajlakshmi,Anantharaman,,rajalakshmi.a@somaiya.edu,TRUE,FALSE,1,Advanced Research Methodology ,Theory,Master of Commerce (Accounting & Finance),1
+Mr. Satish,Radhakishan,Bhor,satish.bhor@somaiya.edu,TRUE,FALSE,1,Operations Research,Theory,Master of Commerce (Accounting & Finance),1
+CA Muskkan,Brijesh,Kukreja,muskkan@somaiya.edu,TRUE,FALSE,1,Data Management using Spreadsheets ,Theory,Master of Commerce (Accounting & Finance),1
+Mr Pradeep,T,,,TRUE,TRUE,1,Research Statistical Analysis,Theory,Master of Commerce (Accounting & Finance),1
+Mr Ronak,Joshi,,,TRUE,TRUE,3,Advance FM and Costing,Theory,Master of Commerce (Accounting & Finance),1
+Mr. Fenil,Jayantilal,Dedhia,fenil@somaiya.edu,TRUE,FALSE,3,Financial Planning and Investment,Theory,Master of Commerce (Banking & Finance),1
+Dr. Rajlakshmi,Anantharaman,,rajalakshmi.a@somaiya.edu,TRUE,FALSE,3,Accounting and Auditing of Banks,Theory,Master of Commerce (Banking & Finance),1
+Ms. Manali,Iyer,,,TRUE,TRUE,3,Strategic Management,Theory,Master of Commerce (Business Management),1
+CA Monica,Sanjay,Lodha,director.sksc@somaiya.edu,TRUE,FALSE,3,Capital Market,Theory,Master of Commerce (Business Management),1
+Dr. Bharti,Sunil,Makhijani,bharati.m@somaiya.edu,TRUE,FALSE,3,Retail Management,Theory,Master of Commerce (Business Management),1
+Dr. Chetan,Kanji,Bhai,chetan.kj@somaiya.edu,TRUE,FALSE,3,Logistics and SCM,Theory,Master of Commerce (Business Management),1
+Dr. Jacinta,Joseph,George,jacintateresa@somaiya.edu,TRUE,FALSE,1, Biochemistry ,Theory,Master of Science (Biotechnology),1
+Dr. Nidhi,V,Maheshwari,nidhi.maheshwari@somaiya.edu,TRUE,FALSE,1, Biochemistry ,Theory,Master of Science (Biotechnology),1
+Dr. Shruti,Ameya,Kakodkar,shruti.kakodkar@somaiya.edu,TRUE,FALSE,1, Biochemistry ,Theory,Master of Science (Biotechnology),1
+Dr. Preeti,Jain,,preeti.jain@somaiya.edu,TRUE,FALSE,1,Immunology ,Theory,Master of Science (Biotechnology),1
+Dr. Sharon,Ajay,Mathew,sharon@somaiya.edu,TRUE,FALSE,1,Immunology ,Theory,Master of Science (Biotechnology),1
+Mr. Jayesh,Maheshkumar,Bhagat,jayesh@somaiya.edu,TRUE,FALSE,1,Molecular Biology ,Theory,Master of Science (Biotechnology),1
+Mr. Amit,Kisanbhai,Jethwa,amit.jethwa@somaiya.edu,TRUE,FALSE,1,Molecular Biology ,Theory,Master of Science (Biotechnology),1
+Dr. Sagar,Pramod,Shah,sagar.shah3@somaiya.edu,TRUE,FALSE,1,Molecular Biology ,Theory,Master of Science (Biotechnology),1
+Dr. A,V,Radhakrishnan,avradhakrishnan@somaiya.edu,TRUE,FALSE,1,Advanced Analytical techniques,Theory,Master of Science (Biotechnology),1
+Dr. Seema,Ajay,Sambrani,seema.sambrani@somaiya.edu,TRUE,FALSE,1,Advanced Analytical techniques,Theory,Master of Science (Biotechnology),1
+Dr. Shruti,Ameya,Kakodkar,shruti.kakodkar@somaiya.edu,TRUE,FALSE,1,Advanced Analytical techniques,Theory,Master of Science (Biotechnology),1
+Dr. Nidhi,V,Maheshwari,nidhi.maheshwari@somaiya.edu,TRUE,FALSE,1,Advanced Analytical techniques,Theory,Master of Science (Biotechnology),1
+Mr. Amit,Kisanbhai,Jethwa,amit.jethwa@somaiya.edu,TRUE,FALSE,1,Biochemistry,Practical,Master of Science (Biotechnology),1
+Mr. Amit,Kisanbhai,Jethwa,amit.jethwa@somaiya.edu,TRUE,FALSE,1,Immunology ,Practical,Master of Science (Biotechnology),1
+Dr. Jacinta,Joseph,George,jacintateresa@somaiya.edu,TRUE,FALSE,1,Molecular Biology ,Practical,Master of Science (Biotechnology),1
+Dr. Jacinta,Joseph,George,jacintateresa@somaiya.edu,TRUE,FALSE,1,Advanced Analytical techniques,Practical,Master of Science (Biotechnology),1
+Mr. Jayesh,Maheshkumar,Bhagat,jayesh@somaiya.edu,TRUE,FALSE,3,Bioinformatics and Omics,Theory,Master of Science (Biotechnology),1
+Dr. Deepti,Gupta,,deepti01@somaiya.edu,TRUE,FALSE,3,Bioinformatics and Omics,Theory,Master of Science (Biotechnology),1
+Dr. Jacinta,Joseph,George,jacintateresa@somaiya.edu,TRUE,FALSE,3,Bioinformatics and Omics,Theory,Master of Science (Biotechnology),1
+Dr. Shruti,Ameya,Kakodkar,shruti.kakodkar@somaiya.edu,TRUE,FALSE,3,Bioprocess technology,Theory,Master of Science (Biotechnology),1
+Dr. Seema,Ajay,Sambrani,seema.sambrani@somaiya.edu,TRUE,FALSE,3,Bioprocess technology,Theory,Master of Science (Biotechnology),1
+Dr. Sagar,Pramod,Shah,sagar.shah3@somaiya.edu,TRUE,FALSE,3,Industrial_ Environmental and nanotechnology,Theory,Master of Science (Biotechnology),1
+Dr. Shruti,Ameya,Kakodkar,shruti.kakodkar@somaiya.edu,TRUE,FALSE,3,Industrial_ Environmental and nanotechnology,Theory,Master of Science (Biotechnology),1
+Dr. Deepti,Gupta,,deepti01@somaiya.edu,TRUE,FALSE,3,Industrial_ Environmental and nanotechnology,Theory,Master of Science (Biotechnology),1
+Dr. Nidhi,V,Maheshwari,nidhi.maheshwari@somaiya.edu,TRUE,FALSE,3,Plant_ Algal and Agri-biotechnology,Theory,Master of Science (Biotechnology),1
+Dr. Tressa,Panikulangara,Jacob,tressa@somaiya.edu,TRUE,FALSE,3,Plant_ Algal and Agri-biotechnology,Theory,Master of Science (Biotechnology),1
+Mr. Jayesh,Maheshkumar,Bhagat,jayesh@somaiya.edu,TRUE,FALSE,3,Plant_ Algal and Agri-biotechnology,Theory,Master of Science (Biotechnology),1
+Mr. Jayesh,Maheshkumar,Bhagat,jayesh@somaiya.edu,TRUE,FALSE,3,Plant_ Algal and Agri-biotechnology,Practical,Master of Science (Biotechnology),1
+Dr. Sharon,Ajay,Mathew,sharon@somaiya.edu,TRUE,FALSE,3,Animal Biotechnology,Theory,Master of Science (Biotechnology),1
+Dr. Preeti,Jain,,preeti.jain@somaiya.edu,TRUE,FALSE,3,Animal Biotechnology,Theory,Master of Science (Biotechnology),1
+Dr. Sharon,Ajay,Mathew,sharon@somaiya.edu,TRUE,FALSE,3,Animal Biotechnology,Practical,Master of Science (Biotechnology),1
+Mr. Jayesh,Maheshkumar,Bhagat,jayesh@somaiya.edu,TRUE,FALSE,3,Bioinformatics and Omics,Practical,Master of Science (Biotechnology),1
+Dr. Seema,Ajay,Sambrani,seema.sambrani@somaiya.edu,TRUE,FALSE,3,Bioprocess technology,Practical,Master of Science (Biotechnology),1
+Dr. Seema,Ajay,Sambrani,seema.sambrani@somaiya.edu,TRUE,FALSE,3,Industrial_ Environmental and nanotechnology,Practical,Master of Science (Biotechnology),1
+Dr. Tressa,Panikulangara,Jacob,tressa@somaiya.edu,TRUE,FALSE,3,Pathology of Infectious Diseases,Theory,Master of Science (Chemical Biology and Drug Design),1
+CA Muskkan,Brijesh,Kukreja,muskkan@somaiya.edu,TRUE,FALSE,3,0,Theory,Master of Science (Chemical Biology and Drug Design),1
+Dr. Swati,Rajeshkumar,Maurya,swati.maurya@somaiya.edu,TRUE,FALSE,3,Big Data Analysis,Theory,Master of Science (Computer Science),1
+Dr. Swati,Rajeshkumar,Maurya,swati.maurya@somaiya.edu,TRUE,FALSE,3,Big Data Analysis,Practical,Master of Science (Computer Science),1
+Dr. Sunita,Arjun,Yadav,sunita.ay@somaiya.edu,TRUE,FALSE,3,Block Chain Technology,Theory,Master of Science (Computer Science),1
+Dr. Sunita,Arjun,Yadav,sunita.ay@somaiya.edu,TRUE,FALSE,3,Block Chain Technology,Practical,Master of Science (Computer Science),1
+Dr. Rajesh,Mourya,,,TRUE,TRUE,3,Machine Learning,Theory,Master of Science (Computer Science),1
+Dr. Sagar,Ananda,Marathe,sagar.marathe@somaiya.edu,TRUE,FALSE,1,Ecology and Biodiversity,Theory,Master of Science (Environmental Studies),1
+Dr. Sagar,Ananda,Marathe,sagar.marathe@somaiya.edu,TRUE,FALSE,1,Ecology and Biodiversity,Tutorial,Master of Science (Environmental Studies),1
+Dr. Nilesh,Devrao,Wagh,nilesh.wagh@somaiya.edu,TRUE,FALSE,1,Climate and Geology,Theory,Master of Science (Environmental Studies),1
+Dr. Nilesh,Devrao,Wagh,nilesh.wagh@somaiya.edu,TRUE,FALSE,1,Climate and Geology,Tutorial,Master of Science (Environmental Studies),1
+Dr. Nilesh,Devrao,Wagh,nilesh.wagh@somaiya.edu,TRUE,FALSE,1,Environmental Degradation ,Theory,Master of Science (Environmental Studies),1
+Dr. Nilesh,Devrao,Wagh,nilesh.wagh@somaiya.edu,TRUE,FALSE,1,Environmental Degradation ,Tutorial,Master of Science (Environmental Studies),1
+Dr. Shruti,Ameya,Kakodkar,shruti.kakodkar@somaiya.edu,TRUE,FALSE,1,Biomolecules and biocatalysts,Theory,Master of Science (Industrial Biotechnology),1
+Dr. Sagar,Pramod,Shah,sagar.shah3@somaiya.edu,TRUE,FALSE,1,Biomolecules and biocatalysts,Theory,Master of Science (Industrial Biotechnology),1
+Dr. Jacinta,Joseph,George,jacintateresa@somaiya.edu,TRUE,FALSE,1,Biomolecules and biocatalysts,Theory,Master of Science (Industrial Biotechnology),1
+Dr. Tressa,Panikulangara,Jacob,tressa@somaiya.edu,TRUE,FALSE,1,Biomolecules and biocatalysts,Theory,Master of Science (Industrial Biotechnology),1
+Dr. Preeti,Jain,,preeti.jain@somaiya.edu,TRUE,FALSE,1,Biomolecules and biocatalysts,Practical,Master of Science (Industrial Biotechnology),1
+Mr. Amit,Kisanbhai,Jethwa,amit.jethwa@somaiya.edu,TRUE,FALSE,1,Biomass Energy and Biofuel Technologies,Theory,Master of Science (Industrial Biotechnology),1
+Mr. Jayesh,Maheshkumar,Bhagat,jayesh@somaiya.edu,TRUE,FALSE,1,Biomass Energy and Biofuel Technologies,Theory,Master of Science (Industrial Biotechnology),1
+Dr. Biji,Balakrishnan,,biji@somaiya.edu ,TRUE,FALSE,1,Biomass Energy and Biofuel Technologies,Theory,Master of Science (Industrial Biotechnology),1
+Dr. Nidhi,V,Maheshwari,nidhi.maheshwari@somaiya.edu,TRUE,FALSE,1,Biomass Energy and Biofuel Technologies,Practical,Master of Science (Industrial Biotechnology),1
+Dr. Preeti,Jain,,preeti.jain@somaiya.edu,TRUE,FALSE,1,Production microorganisms – Isolation and improvement,Theory,Master of Science (Industrial Biotechnology),1
+Dr. Seema,Ajay,Sambrani,seema.sambrani@somaiya.edu,TRUE,FALSE,1,Production microorganisms – Isolation and improvement,Theory,Master of Science (Industrial Biotechnology),1
+Dr. Sharon,Ajay,Mathew,sharon@somaiya.edu,TRUE,FALSE,1,Production microorganisms – Isolation and improvement,Theory,Master of Science (Industrial Biotechnology),1
+Dr. Nidhi,V,Maheshwari,nidhi.maheshwari@somaiya.edu,TRUE,FALSE,1,Production microorganisms – Isolation and improvement,Practical,Master of Science (Industrial Biotechnology),1
+Dr. Biji,Balakrishnan,,biji@somaiya.edu ,TRUE,FALSE,1,Process dynamics – principles and kinetics,Theory,Master of Science (Industrial Biotechnology),1
+Dr. Tressa,Panikulangara,Jacob,tressa@somaiya.edu,TRUE,FALSE,3,Technoeconomical aspects of industrial biotechnology,Theory,Master of Science (Industrial Biotechnology),1
+Dr. Preeti,Jain,,preeti.jain@somaiya.edu,TRUE,FALSE,3,Research methodology and Intellectual Property,Theory,Master of Science (Industrial Biotechnology),1
+Dr. Deepti,Gupta,,deepti01@somaiya.edu,TRUE,FALSE,3,Research methodology and Intellectual Property,Theory,Master of Science (Industrial Biotechnology),1
+Dr. Nidhi,V,Maheshwari,nidhi.maheshwari@somaiya.edu,TRUE,FALSE,3,Research methodology and Intellectual Property,Theory,Master of Science (Industrial Biotechnology),1
+Dr. Seema,Ajay,Sambrani,seema.sambrani@somaiya.edu,TRUE,FALSE,3,Research methodology and Intellectual Property,Theory,Master of Science (Industrial Biotechnology),1
+Dr. Nidhi,V,Maheshwari,nidhi.maheshwari@somaiya.edu,TRUE,FALSE,3,Biostatistics_ Bioethics and Bio-safety,Theory,Master of Science (Industrial Biotechnology),1
+Mr. Siddheshwar,Manohar,Bombale,siddheshwar.b@somaiya.edu,TRUE,FALSE,1,Algebra I,Theory,Master of Science (Mathematics),1
+Mr. Siddheshwar,Manohar,Bombale,siddheshwar.b@somaiya.edu,TRUE,FALSE,1,Algebra I,Tutorial,Master of Science (Mathematics),1
+Mr. Pradeep,Dayal,Singh,pradeepsingh@somaiya.edu,TRUE,FALSE,1,Linear Algebra,Theory,Master of Science (Mathematics),1
+Mr. Pradeep,Dayal,Singh,pradeepsingh@somaiya.edu,TRUE,FALSE,1,Linear Algebra,Tutorial,Master of Science (Mathematics),1
+Mr. Shailesh,Singh,,shailesh.singh@somaiya.edu,TRUE,FALSE,1,SageMath,Practical,Master of Science (Mathematics),1
+Dr. Meghana,Narendra,Vyas,meghna.vyas@somaiya.edu,TRUE,FALSE,1,Probability and Statistics using R,Theory,Master of Science (Mathematics),1
+Dr. Meghana,Narendra,Vyas,meghna.vyas@somaiya.edu,TRUE,FALSE,1,Probability and Statistics using R,Practical,Master of Science (Mathematics),1
+Dr. Meghana,Narendra,Vyas,meghna.vyas@somaiya.edu,TRUE,FALSE,1,Research Methodology,Theory,Master of Science (Mathematics),1
+Dr. Meghana,Narendra,Vyas,meghna.vyas@somaiya.edu,TRUE,FALSE,1,Research Methodology,Tutorial,Master of Science (Mathematics),1
+Dr. Aarti,Santosh,Nayak,aarti.nayak@somaiya.edu,TRUE,FALSE,3,Machine Learning,Theory,Master of Science (Mathematics),1
+Dr. Aarti,Santosh,Nayak,aarti.nayak@somaiya.edu,TRUE,FALSE,3,Machine Learning,Practical,Master of Science (Mathematics),1
+Mr. Siddheshwar,Manohar,Bombale,siddheshwar.b@somaiya.edu,TRUE,FALSE,3,Complex Analysis ,Theory,Master of Science (Mathematics),1
+Mr. Siddheshwar,Manohar,Bombale,siddheshwar.b@somaiya.edu,TRUE,FALSE,3,Complex Analysis ,Tutorial,Master of Science (Mathematics),1
+Mr. Pradeep,Dayal,Singh,pradeepsingh@somaiya.edu,TRUE,FALSE,3,Number Theory,Theory,Master of Science (Mathematics),1
+Mr. Pradeep,Dayal,Singh,pradeepsingh@somaiya.edu,TRUE,FALSE,3,Number Theory,Tutorial,Master of Science (Mathematics),1
+Mr. Shailesh,Singh,,shailesh.singh@somaiya.edu,TRUE,FALSE,3,Numerical Analysis,Theory,Master of Science (Mathematics),1
+Mr. Shailesh,Singh,,shailesh.singh@somaiya.edu,TRUE,FALSE,3,Numerical Analysis,Tutorial,Master of Science (Mathematics),1
+Dr. Aarti,Santosh,Nayak,aarti.nayak@somaiya.edu,TRUE,FALSE,3,Numerical Analysis,Theory,Master of Science (Mathematics),1
+Dr. Meghana,Narendra,Vyas,meghna.vyas@somaiya.edu,TRUE,FALSE,3,Research Methodology,Theory,Master of Science (Mathematics),1
+Dr. Meghana,Narendra,Vyas,meghna.vyas@somaiya.edu,TRUE,FALSE,3,Research Methodology,Tutorial,Master of Science (Mathematics),1
+Dr. Madhura,Pramod,Janve,m.janve@somaiya.edu,TRUE,FALSE,1,Characterization of Food and Nutraceuticals,Theory,Master of Science (Nutraceuticals),1
+Dr. Madhura,Pramod,Janve,m.janve@somaiya.edu,TRUE,FALSE,1,Characterization of Food and Nutraceuticals,Practical,Master of Science (Nutraceuticals),1
+Ms. Tejal,Namdeo,Bowlekar,t.bowlekar@somaiya.edu,TRUE,FALSE,1,Nutraceuticals,Theory,Master of Science (Nutraceuticals),1
+Ms. Tejal,Namdeo,Bowlekar,t.bowlekar@somaiya.edu,TRUE,FALSE,1,Nutraceuticals,Practical,Master of Science (Nutraceuticals),1
+Mr. Shailesh,Singh,,shailesh.singh@somaiya.edu,TRUE,FALSE,1,Nutrigenomics_ biostatistics and bioinformatics,Theory,Master of Science (Nutraceuticals),1
+Mr. Shailesh,Singh,,shailesh.singh@somaiya.edu,TRUE,FALSE,1,Nutrigenomics_ biostatistics and bioinformatics,Practical,Master of Science (Nutraceuticals),1
+Dr. Daly,Davis,,daly@somaiya.edu,TRUE,FALSE,1,Spectroscopy,Theory,Master of Science (Nutraceuticals),1
+Dr. Daly,Davis,,daly@somaiya.edu,TRUE,FALSE,1,Spectroscopy,Practical,Master of Science (Nutraceuticals),1
+Ms. Tejal,Namdeo,Bowlekar,t.bowlekar@somaiya.edu,TRUE,FALSE,3,Sensory evaluation_ toxicology_ food additives,Theory,Master of Science (Nutraceuticals),1
+Ms. Tejal,Namdeo,Bowlekar,t.bowlekar@somaiya.edu,TRUE,FALSE,3,Sensory evaluation_ toxicology_ food additives,Practical,Master of Science (Nutraceuticals),1
+Dr. Daly,Davis,,daly@somaiya.edu,TRUE,FALSE,3,Sensory evaluation_ toxicology_ food additives,Theory,Master of Science (Nutraceuticals),1
+Ms. Tejal,Namdeo,Bowlekar,t.bowlekar@somaiya.edu,TRUE,FALSE,3,QA/QC and intellectual property rights,Theory,Master of Science (Nutraceuticals),1
+Ms. Tejal,Namdeo,Bowlekar,t.bowlekar@somaiya.edu,TRUE,FALSE,3,Packaging and Marketing of Nutraceutical products,Theory,Master of Science (Nutraceuticals),1
+Ms. Tejal,Namdeo,Bowlekar,t.bowlekar@somaiya.edu,TRUE,FALSE,3,Packaging and Marketing of Nutraceutical products,Practical,Master of Science (Nutraceuticals),1
+Dr. Madhura,Pramod,Janve,m.janve@somaiya.edu,TRUE,FALSE,3,Packaging and Marketing of Nutraceutical products,Theory,Master of Science (Nutraceuticals),1
+Dr. Madhura,Pramod,Janve,m.janve@somaiya.edu,TRUE,FALSE,3,Packaging and Marketing of Nutraceutical products,Practical,Master of Science (Nutraceuticals),1
+Dr. Madhura,Pramod,Janve,m.janve@somaiya.edu,TRUE,FALSE,3,Nutraceutical and Functional Food Regulations,Theory,Master of Science (Nutraceuticals),1
+Dr. Madhura,Pramod,Janve,m.janve@somaiya.edu,TRUE,FALSE,3,Nutraceutical and Functional Food Regulations,Practical,Master of Science (Nutraceuticals),1
+Ms. Jyoti,Kalpesh,Mantri,jyoti.zanwar@somaiya.edu,TRUE,FALSE,1,Theory of Estimation,Theory,Master of Science (Statistics),1
+Ms. Jyoti,Kalpesh,Mantri,jyoti.zanwar@somaiya.edu,TRUE,FALSE,1,Theory of Estimation,Practical,Master of Science (Statistics),1
+Ms. Charulata,Anil,Avhad,charulata@somaiya.edu,TRUE,FALSE,1,Linear Models ,Theory,Master of Science (Statistics),1
+Ms. Charulata,Anil,Avhad,charulata@somaiya.edu,TRUE,FALSE,1,Linear Models ,Practical,Master of Science (Statistics),1
+Ms. Charulata,Anil,Avhad,charulata@somaiya.edu,TRUE,FALSE,1,Statistical Computing using R and Python,Theory,Master of Science (Statistics),1
+Ms. Charulata,Anil,Avhad,charulata@somaiya.edu,TRUE,FALSE,1,Statistical Computing using R and Python,Practical,Master of Science (Statistics),1
+Ms. Charulata,Anil,Avhad,charulata@somaiya.edu,TRUE,FALSE,1,Research Methodology I,Theory,Master of Science (Statistics),1
+Ms. Manisha,Rajesh,Gupta,mrg@somaiya.edu,TRUE,FALSE,1,Sampling Techniques,Theory,Master of Science (Statistics),1
+Ms. Manisha,Rajesh,Gupta,mrg@somaiya.edu,TRUE,FALSE,1,Sampling Techniques,Practical,Master of Science (Statistics),1
+Ms. Jyoti,Kalpesh,Mantri,jyoti.zanwar@somaiya.edu,TRUE,FALSE,3,Machine Learning Techniques,Theory,Master of Science (Statistics),1
+Ms. Jyoti,Kalpesh,Mantri,jyoti.zanwar@somaiya.edu,TRUE,FALSE,3,Machine Learning Techniques,Practical,Master of Science (Statistics),1
+Ms. Jyoti,Kalpesh,Mantri,jyoti.zanwar@somaiya.edu,TRUE,FALSE,3,Statistical Process Control,Theory,Master of Science (Statistics),1
+Ms. Jyoti,Kalpesh,Mantri,jyoti.zanwar@somaiya.edu,TRUE,FALSE,3,Statistical Process Control,Practical,Master of Science (Statistics),1
+Ms. Charulata,Anil,Avhad,charulata@somaiya.edu,TRUE,FALSE,3,Stochastic Processes,Theory,Master of Science (Statistics),1
+Ms. Charulata,Anil,Avhad,charulata@somaiya.edu,TRUE,FALSE,3,Stochastic Processes,Practical,Master of Science (Statistics),1
+Ms. Manisha,Rajesh,Gupta,mrg@somaiya.edu,TRUE,FALSE,3,SAS,Theory,Master of Science (Statistics),1
+Ms. Manisha,Rajesh,Gupta,mrg@somaiya.edu,TRUE,FALSE,3,SAS,Practical,Master of Science (Statistics),1
+Ms. Manisha,Rajesh,Gupta,mrg@somaiya.edu,TRUE,FALSE,3,Biostatistics,Theory,Master of Science (Statistics),1
+Ms. Manisha,Rajesh,Gupta,mrg@somaiya.edu,TRUE,FALSE,3,Biostatistics,Practical,Master of Science (Statistics),1
+Ms. Heer,Jalandarwala,,,TRUE,TRUE,5,Marketing of Financial Services ,Theory,Bachelor of Commerce (Banking & Finance),1
+Mr. Jayesh,Thakkar,,,TRUE,TRUE,3,Digital Banking ,Theory,Bachelor of Commerce (Banking & Finance),1
+Ms. Rutuja,Rathod,,,TRUE,TRUE,3,Computer Application in Business,Practical,Bachelor of Commerce (Banking & Finance),1
+Ms Kunali,Meisheri,,,TRUE,TRUE,3,Professional Communication Skills - III,Theory,Bachelor of Commerce (Banking & Finance),1
+Mr. Fenil,Jayantilal,Dedhia,fenil@somaiya.edu,TRUE,FALSE,1,Managerial Economics ,Theory,Bachelor of Commerce (Banking & Finance),1
+Mr. Prashant,Arun,Pimple,prashant.p@somaiya.edu,TRUE,FALSE,1,Financial Accounting ,Theory,Bachelor of Commerce (Banking & Finance),1
+Ms. Khushboo,Mehta,,,TRUE,TRUE,1,Professional Communication Skill - I ,Theory,Bachelor of Commerce (Banking & Finance),1
+Ms. Pradnya,Mahesh,Gosavi,pradnya.gosavi@somaiya.edu,TRUE,FALSE,1,Constitution and Public Policy ,Theory,Bachelor of Commerce (Banking & Finance),1
+Mr. Fenil,Jayantilal,Dedhia,fenil@somaiya.edu,TRUE,FALSE,1,Economics for Business Decision ,Theory,Master of Commerce (Banking & Finance),1
+Ms. Aparna,Ashok,Vachhrajani,aparna.v@somaiya.edu,TRUE,FALSE,1,Non- Banking Financial Companies (NBFCs),Theory,Master of Commerce (Banking & Finance),1
+Dr. Rajlakshmi,Anantharaman,,rajalakshmi.a@somaiya.edu,TRUE,FALSE,1,Advanced Research Methodology,Theory,Master of Commerce (Banking & Finance),1
+Dr. Pradeep,Thokale,,,TRUE,TRUE,1,Research Statistical Analysis,Practical,Master of Commerce (Banking & Finance),1
+Mr. Jayesh,Thakkar,,,TRUE,TRUE,3,Introduction to Fintech,Theory,Master of Commerce (Banking & Finance),1
+Dr. Pradeep,Thokale,,,TRUE,TRUE,1,Managerial Economics ,Theory,Bachelor of Commerce (Banking & Finance),1
+Dr. Pradeep,Thokale,,,TRUE,TRUE,1,Economics for Business Decision ,Theory,Master of Commerce (Banking & Finance),1
+Dr. Vandana,Sahayog,Jamdar,vandana.jamdar@somaiya.edu,TRUE,FALSE,3,Adhesives & Sealants,Theory,Master of Science (Polymer Science),1
+Prof. Soumydeb,Ghosh,,soumyadeb@somaiya.edu,TRUE,FALSE,3,Rubber & Elastomers,Theory,Master of Science (Polymer Science),1
+Dr. C,Ver,Avadhani,avadhani@somaiya.edu,TRUE,FALSE,3,Rubber & Elastomers,Theory,Master of Science (Polymer Science),1
+Dr. Vandana,Sahayog,Jamdar,vandana.jamdar@somaiya.edu,TRUE,FALSE,3,Bio-derived_ Biodegradable and Compostable Polymers,Theory,Master of Science (Polymer Science),1
+Dr. Vaijayanti,Jitesh,Amdoskar,vaijayanti.g@somaiya.edu,TRUE,FALSE,3,Structure and Properties of Natural and Biologically Derived Polymers: Cellulose_ proteins_ peptides_ polysaccharides_ supramolecular structures ,Theory,Master of Science (Polymer Science),1
+Dr. Daly,Davis,,daly@somaiya.edu,TRUE,FALSE,3,Polymers in Pharmaceuticals_ Medicine and Health Care,Theory,Master of Science (Polymer Science),1
+Dr. Vaijayanti,Jitesh,Amdoskar,vaijayanti.g@somaiya.edu,TRUE,FALSE,3,Polymers for Application in Energy Generation and Energy Storage.,Theory,Master of Science (Polymer Science),1
+Dr. Anant,Dattatraya,Kulkarni,anant.kulkarni@somaiya.edu,TRUE,FALSE,3,Computational Simulation of Polymers,Theory,Master of Science (Polymer Science),1
+Dr. Biji,Balakrishnan,,biji@somaiya.edu ,TRUE,FALSE,3,Biomaterials ,Tutorial,Master of Science (Polymer Science),1
+Prof. Soumydeb,Ghosh,,soumyadeb@somaiya.edu,TRUE,FALSE,3,Case Study of the Development of an Industrial Polymer: New Composition_ Process or Applications,Tutorial,Master of Science (Polymer Science),1
+Dr. Vandana,Sahayog,Jamdar,vandana.jamdar@somaiya.edu,TRUE,FALSE,3,Polymer Lab -III ,Practical,Master of Science (Polymer Science),1
+Dr. Vaijayanti,Jitesh,Amdoskar,vaijayanti.g@somaiya.edu,TRUE,FALSE,3,Polymer Lab-III,Practical,Master of Science (Polymer Science),1
+Dr. C,Ver,Avadhani,avadhani@somaiya.edu,TRUE,FALSE,3,Polymer Lab-III,Practical,Master of Science (Polymer Science),1
+Ms. Komal,Kharat,,,TRUE,TRUE,3,Professional Communication Skill III,Theory,Bachelor of Science (Computer Science),1
+Mr. Ashish,Mhatre,,,TRUE,TRUE,1,Quantitative Methods-I,Theory,Bachelor of Commerce (Banking & Finance),1
+Mr. Sushil,Thakkar,,,TRUE,TRUE,5,Credit Management,Theory,Bachelor of Commerce (Banking & Finance),1
+Ms. Aparna,Ashok,Vachhrajani,aparna.v@somaiya.edu,TRUE,FALSE,5,Treasury Management,Theory,Bachelor of Commerce (Banking & Finance),1
+CS Swapnil,Indurkar,,,TRUE,TRUE,5,International Banking & Finance ,Theory,Bachelor of Commerce (Banking & Finance),1
+CA Ramesh,Kushwaha,,,TRUE,TRUE,3,Investment Analysis and Equity Research,Theory,Master of Commerce (Banking & Finance),1
+CA Ramesh,Kushwaha,,,TRUE,TRUE,3,Accounting and Auditing of Banks,Theory,Master of Commerce (Banking & Finance),1
+Ms. Ashwini,Mhatre,,,TRUE,TRUE,1,Strategic Management ,Theory,Master of Commerce (Banking & Finance),1
+Dr. Manoj,Mishra,,manoj27@somaiya.edu,TRUE,FALSE,1,Computer Organisation and Architecture,Theory,Bachelor of Science (Information Technology),1
+Dr. Manoj,Mishra,,manoj27@somaiya.edu,TRUE,FALSE,1,Computer Organisation and Architecture,Theory,Bachelor of Science (Information Technology),2
+Dr. Manoj,Mishra,,manoj27@somaiya.edu,TRUE,FALSE,1,Computer Organisation and Architecture ,Practical,Bachelor of Science (Information Technology),2
+Mr. Mukesh,Shankar,Gupta,mukesh.sgupta@somaiya.edu,TRUE,FALSE,1,Computer Organisation and Architecture,Practical,Bachelor of Science (Information Technology),1
+Ms. Pradnya,Pramod,Ahire,ppa@somaiya.edu,TRUE,FALSE,1,Object Oriented and Programming with C++,Theory,Bachelor of Science (Information Technology),1
+Ms. Pradnya,Pramod,Ahire,ppa@somaiya.edu,TRUE,FALSE,1,Object Oriented and Programming with C++,Theory,Bachelor of Science (Information Technology),2
+Mr. Shaun,Andrade,,,TRUE,TRUE,1,Discrete Mathematics,Theory,Bachelor of Science (Information Technology),1
+Mr. Shaun,Andrade,,,TRUE,TRUE,1,Discrete Mathematics,Theory,Bachelor of Science (Information Technology),2
+Ms. Pradnya,Mahesh,Gosavi,pradnya.gosavi@somaiya.edu,TRUE,FALSE,1,Constitution of India,Theory,Bachelor of Science (Information Technology),1
+Ms. Pradnya,Mahesh,Gosavi,pradnya.gosavi@somaiya.edu,TRUE,FALSE,1,Constitution of India,Theory,Bachelor of Science (Information Technology),2
+Ms. Komal,Kharat,,,TRUE,TRUE,1,Professional Skill,Theory,Bachelor of Science (Information Technology),1
+Ms. Komal,Kharat,,,TRUE,TRUE,1,Professional Skill,Theory,Bachelor of Science (Information Technology),2
+Ms. Anushree,Pansare,Nandgaonkar,anushree.pn@somaiya.edu,TRUE,FALSE,3,Data structure,Theory,Bachelor of Science (Information Technology),1
+Ms. Anushree,Pansare,Nandgaonkar,anushree.pn@somaiya.edu,TRUE,FALSE,3,Data structure,Theory,Bachelor of Science (Information Technology),2
+Ms. Anushree,Pansare,Nandgaonkar,anushree.pn@somaiya.edu,TRUE,FALSE,3,Data structure,Practical,Bachelor of Science (Information Technology),1
+Ms. Anushree,Pansare,Nandgaonkar,anushree.pn@somaiya.edu,TRUE,FALSE,3,Data structure,Practical,Bachelor of Science (Information Technology),2
+Ms. Prajakta,Swapnil,Kamble,prajakta.k@somaiya.edu,TRUE,FALSE,3,Operating System,Theory,Bachelor of Science (Information Technology),1
+Ms. Prajakta,Swapnil,Kamble,prajakta.k@somaiya.edu,TRUE,FALSE,3,Operating System,Theory,Bachelor of Science (Information Technology),2
+Dr. G.,Hema,Latha,hemalatha@somaiya.edu,TRUE,FALSE,3,Operating System,Practical,Bachelor of Science (Information Technology),2
+Mr. Mukesh,Shankar,Gupta,mukesh.sgupta@somaiya.edu,TRUE,FALSE,3,Core Java,Theory,Bachelor of Science (Information Technology),1
+Mr. Mukesh,Shankar,Gupta,mukesh.sgupta@somaiya.edu,TRUE,FALSE,3,Core Java,Theory,Bachelor of Science (Information Technology),2
+Mr. Mukesh,Shankar,Gupta,mukesh.sgupta@somaiya.edu,TRUE,FALSE,3,Core Java,Practical,Bachelor of Science (Information Technology),1
+Ms. Anushree,Pansare,Nandgaonkar,anushree.pn@somaiya.edu,TRUE,FALSE,3,Mobile Programming,Theory,Bachelor of Science (Information Technology),1
+Ms. Kirti,Vilas,Amberkar,kirti.a@somaiya.edu,TRUE,FALSE,3,Core Java,Practical,Bachelor of Science (Information Technology),2
+Ms. Anushree,Pansare,Nandgaonkar,anushree.pn@somaiya.edu,TRUE,FALSE,3,Mobile Programming,Theory,Bachelor of Science (Information Technology),2
+Ms. Komal,Kharat,,,TRUE,TRUE,3,Professional Communication Skill III,Theory,Bachelor of Science (Information Technology),1
+Ms. Komal,Kharat,,,TRUE,TRUE,3,Professional Communication Skill III,Theory,Bachelor of Science (Information Technology),2
+Dr. Aarti,Santosh,Nayak,aarti.nayak@somaiya.edu,TRUE,FALSE,3,Applied Mathematics,Theory,Bachelor of Science (Information Technology),1
+Dr. Aarti,Santosh,Nayak,aarti.nayak@somaiya.edu,TRUE,FALSE,3,Applied Mathematics,Theory,Bachelor of Science (Information Technology),2
+Ms. Komal,Kharat,,,TRUE,TRUE,5,Software Testing,Theory,Bachelor of Science (Information Technology) Honour,1
+Ms. Komal,Kharat,,,TRUE,TRUE,5,Software Testing,Practical,Bachelor of Science (Information Technology) Honour,1
+Ms. Pradnya,Pramod,Ahire,ppa@somaiya.edu,TRUE,FALSE,5,Artificial Intelligence,Theory,Bachelor of Science (Information Technology) Honour,1
+Ms. Pradnya,Pramod,Ahire,ppa@somaiya.edu,TRUE,FALSE,5,Artificial Intelligence,Practical,Bachelor of Science (Information Technology) Honour,1
+Ms. Mousmi,Vijay,Pawar,mousmi@somaiya.edu,TRUE,FALSE,5,Web Services,Theory,Bachelor of Science (Information Technology) Honour,1
+Ms. Mousmi,Vijay,Pawar,mousmi@somaiya.edu,TRUE,FALSE,5,Web Services,Practical,Bachelor of Science (Information Technology) Honour,1
+Ms. Prajakta,Swapnil,Kamble,prajakta.k@somaiya.edu,TRUE,FALSE,5,Security in Computing,Theory,Bachelor of Science (Information Technology) Honour,1
+Ms. Anushree,Pansare,Nandgaonkar,anushree.pn@somaiya.edu,TRUE,FALSE,5,Design Thinking,Theory,Bachelor of Science (Information Technology) Honour,1
+Ms. Pradnya,Pramod,Ahire,ppa@somaiya.edu,TRUE,FALSE,5,Artificial Intelligence,Theory,Bachelor of Science (Information Technology),1
+Ms. Pradnya,Pramod,Ahire,ppa@somaiya.edu,TRUE,FALSE,5,Artificial Intelligence,Practical,Bachelor of Science (Information Technology),1
+Ms. Mousmi,Vijay,Pawar,mousmi@somaiya.edu,TRUE,FALSE,5,Web Services,Theory,Bachelor of Science (Information Technology),1
+Ms. Mousmi,Vijay,Pawar,mousmi@somaiya.edu,TRUE,FALSE,5,Web Services,Practical,Bachelor of Science (Information Technology),1
+Ms. Prajakta,Swapnil,Kamble,prajakta.k@somaiya.edu,TRUE,FALSE,5,Security in Computing,Theory,Bachelor of Science (Information Technology),1
+Ms. Prajakta,Swapnil,Kamble,prajakta.k@somaiya.edu,TRUE,FALSE,5,Security in Computing,Practical,Bachelor of Science (Information Technology),1
+Dr. Harshali,Yogesh,Patil,harshali.yp@somaiya.edu,TRUE,FALSE,5,Design Thinking,Theory,Bachelor of Science (Information Technology),1
+Dr. Harshali,Yogesh,Patil,harshali.yp@somaiya.edu,TRUE,FALSE,1,Research Methodology,Theory,Master of Science (Information Technology),1
+Dr. Harshali,Yogesh,Patil,harshali.yp@somaiya.edu,TRUE,FALSE,1,Research Methodology,Practical,Master of Science (Information Technology),1
+Mr. Bilal,Bilal,Farooque,mohammadbilal@somaiya.edu,TRUE,FALSE,3,E1 Advances in Machine Learning,Theory,Master of Science (Information Technology),1
+Mr. Bilal,Bilal,Farooque,mohammadbilal@somaiya.edu,TRUE,FALSE,3,E1 Advances in Machine Learning,Practical,Master of Science (Information Technology),1
+Ms. Mousmi,Vijay,Pawar,mousmi@somaiya.edu,TRUE,FALSE,1,Cyber Security(Minor),Theory,Bachelor of Science (Information Technology),1
+Mr. Mukesh,Shankar,Gupta,mukesh.sgupta@somaiya.edu,TRUE,FALSE,1,UI/UX(Minor),Theory,Bachelor of Science (Information Technology),1
